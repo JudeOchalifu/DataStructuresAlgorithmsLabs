@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=vector\ renderMode\ scaleAmount\ canvas
+comment0.target=VectorView(VectorModel,\ java.lang.String,\ double,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ addedToStage()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=renderMode
+comment3.target=void\ renderMode(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMode()
+numComments=5

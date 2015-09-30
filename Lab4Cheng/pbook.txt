@@ -1,0 +1,9663 @@
+Kimberly Liu 
+Currier  N11
+-1  1312  -1
+------------
+Mustafa Yorukoglu 
+UNKNOWN
+-1  3193  -1
+------------
+Michael DeJoseph 
+Chadbourne  111
+-1  1116  -1
+------------
+Shelley Elizabeth Williamson
+UNKNOWN
+4135973096  -1  -1
+------------
+Ayyaz Ahmad 
+UNKNOWN
+-1  -1  -1
+------------
+Alyssa C. Alden-Smith 
+Dennett 2  D223
+-1  1093  -1
+------------
+Amina Avril 
+Currier  C12
+-1  2604  4043333046
+------------
+Alexis R. Akridge 
+Agard  111
+-1  1596  -1
+------------
+Arsema Berhanu Abegaz 
+UNKNOWN
+-1  1508  -1
+------------
+Aseel Abulhab 
+Thompson  207
+-1  1009  -1
+------------
+Azd A. Al-Kadasi
+UNKNOWN
+-1  -1  -1
+------------
+Andrew A. Bravo 
+East  115
+-1  1542  -1
+------------
+Alex Alonso Contreras Miranda
+1065 Main  Street
+-1  Center  -1
+------------
+Antonio A. Dominguez 
+Armstrong 3  A327
+-1  2710  -1
+------------
+Alida A. Davis 
+Prospect  210
+-1  2693  -1
+------------
+Andrea A. Dunchus 
+Tyler Annex  302
+-1  1634  -1
+------------
+Alexander A. Jerred 
+15 Hall  Street
+-1  2296  -1
+------------
+Ashley A Kim 
+Prospect  432
+-1  1755  -1
+------------
+Abigail A. Kelly 
+Armstrong 4  A428
+-1  2278  6033258100
+------------
+Muhammad A. Liaqat 
+UNKNOWN
+-1  -1  4133463657
+------------
+Anne A. Longobardo 
+UNKNOWN
+-1  2890  -1
+------------
+Adedimeji A.A. Lawal 
+UNKNOWN
+-1  -1  -1
+------------
+Angelina A. Lin 
+Mills 4  M424
+-1  2327  -1
+------------
+Alexander A. Manter 
+Bryant  A41
+-1  1342  -1
+------------
+Adrian A. Mitchell 
+Currier  S24
+-1  1855  -1
+------------
+Avery A. Pagan 
+Sage C  206
+-1  2424  -1
+------------
+Allison A. Rowe 
+Sage E  206
+-1  2487  -1
+------------
+Alice A. Sady 
+Lambert  203
+-1  1472  -1
+------------
+Alyson H. Barrett 
+Carter  C04
+-1  2142  -1
+------------
+Antonio Blanco 
+Goodrich  G1
+-1  1443  -1
+------------
+Alison J. Bunis 
+Armstrong 2  A212
+-1  1904  -1
+------------
+Ada Berktay 
+Williams F  102
+-1  1560  -1
+------------
+Allen B. Davis 
+Bryant  C46
+-1  2694  8603261277
+------------
+Alexandra B. Jones 
+Mills 2  M207
+-1  2833  -1
+------------
+Anna B. Lau 
+Prospect  225
+-1  2864  -1
+------------
+Alyssa B. Mendoza 
+Gladden  A53
+-1  1845  -1
+------------
+Anna B. Silberstein 
+15 Latham  Street
+-1  1499  -1
+------------
+Alejandra Chavira 
+UNKNOWN
+-1  2667  -1
+------------
+Achala Chittor 
+Gladden  B08
+-1  1575  -1
+------------
+Agnes Chang 
+Mills MD  M102
+-1  2083  -1
+------------
+Alyssa C.M. Barlis 
+West  212
+-1  1029  -1
+------------
+Aimee C. Dennett 
+Poker Flats  B102
+-1  1111  -1
+------------
+Abigail C. Davies 
+Poker Flats  F102
+-1  1104  -1
+------------
+Alexander C. Ellison 
+Williams D  405
+-1  2154  -1
+------------
+Alan C. Felix 
+Mark Hopkins  D44
+-1  1658  -1
+------------
+Alexander C. Foucault 
+Fayerweather  308
+-1  1665  -1
+------------
+Ariana C. Gonzalez Erminy 
+Fitch  303B
+-1  1201  -1
+------------
+Andrew C. Grabowski 
+Fayerweather  110
+-1  1685  -1
+------------
+Andree C. Heller 
+Bryant  A13
+-1  1713  -1
+------------
+Anthony C. Miceli 
+Dennett 3  D307
+-1  2943  -1
+------------
+Andrew C. Quinn 
+Currier  S32
+-1  1432  -1
+------------
+Adam C. Vining 
+Sage C  107
+-1  2577  -1
+------------
+Alexandra C. Weaver 
+Prospect  330
+-1  3145  -1
+------------
+Andrea Dominguez 
+UNKNOWN
+-1  -1  -1
+------------
+Amber D. Ellis 
+Mark Hopkins  A23
+-1  1646  -1
+------------
+Adrienne D. Favis 
+Prospect  001
+-1  1657  -1
+------------
+Amir D. Hay 
+Morgan  104
+-1  1708  -1
+------------
+Amber D. Penny 
+Carter  C12
+-1  1922  -1
+------------
+Alina D. Penny 
+Carter  C14
+-1  1921  -1
+------------
+Anna D. Savoie 
+UNKNOWN
+-1  3063  -1
+------------
+Adrienne D. Strait 
+Fitch  209
+-1  2005  -1
+------------
+Andrew D. Tobias 
+Thompson  215
+-1  3118  -1
+------------
+Aaron D. Willey 
+Tyler Annex  205
+-1  2065  -1
+------------
+Alexander M. Elvin 
+UNKNOWN
+-1  -1  -1
+------------
+Arantza Eseverri 
+Prospect  218
+-1  1650  -1
+------------
+Andrea Estrada Bianchi 
+Pratt 2  P210
+-1  2162  -1
+------------
+Abigail E. Conyers 
+Prospect  306
+4135975931  2683  -1
+------------
+Ana E. Contreras 
+Sage B  305
+-1  2105  -1
+------------
+Abigail E. Deal 
+UNKNOWN
+-1  -1  4349815828
+------------
+Anna E. Epstein 
+Mills 4  M422
+-1  2157  -1
+------------
+Anne E. Hayner 
+UNKNOWN
+-1  1709  -1
+------------
+April E. Jenkins 
+Prospect  204
+-1  2828  6302076459
+------------
+Annie E. Jeong 
+Dodd  212
+4135976460  2829  -1
+------------
+Amy E. McLaughlin 
+Woodbridge  208
+-1  2948  -1
+------------
+Abigail E. Morss 
+Sage E  205
+-1  2388  -1
+------------
+Alexander E. McCarter 
+Pratt AP  P105
+-1  2356  -1
+------------
+Alice E. Stears 
+Gladden  B54
+-1  1998  -1
+------------
+Alexandra E. Stone 
+Williams A  210
+-1  2537  -1
+------------
+Adrian E. Simioni 
+Pratt AP  P104
+-1  2517  -1
+------------
+Anne E. Tewksbury 
+Pratt 4  P411
+-1  2556  -1
+------------
+Alejandro J. Fenn 
+Williams A  408
+-1  2168  -1
+------------
+Andrew F. Leary 
+Mills 3  M309
+-1  2307  -1
+------------
+Amelia F. Simmons 
+23 Hoxsey  Street
+-1  1502  -1
+------------
+Alexander F. Scyocurka 
+Tyler  102
+-1  3067  -1
+------------
+Anna Jayne F. Solovy 
+Mark Hopkins  B26
+-1  1992  -1
+------------
+Amanda F. Washington 
+Williams C  108
+4135976333  3143  -1
+------------
+Andrea Garduno 
+Dodd  224
+-1  1676  -1
+------------
+Alexandra M. Groetsema 
+UNKNOWN
+-1  -1  -1
+------------
+Alexander Guo 
+Tyler Annex  305
+-1  1700  -1
+------------
+Anna G.D. Marrs 
+63 Hoxsey  Street
+-1  1345  -1
+------------
+Alexandra G. McInturf 
+Fayerweather  209
+-1  1835  -1
+------------
+Angela G. Pastorelli-Sosa 
+Mills 2  M209
+-1  2434  -1
+------------
+Alexis G. Rodriguez 
+Susie Hopkins  205
+-1  1457  -1
+------------
+Alison G. C. Smith 
+Gladden  B12
+-1  1988  -1
+------------
+Anna L. Heffernan 
+118 Water Street  Apartment
+-1  1230  -1
+------------
+Alison G. Hill 
+Sage A  202
+-1  2236  -1
+------------
+Ayela H. Butt 
+41 Park  Street
+-1  1068  -1
+------------
+Alexander H. Greaves-Tunnell 
+63 North  Street
+-1  1211  -1
+------------
+Al H. Hemaida 
+Morgan  214
+-1  2839  -1
+------------
+Andrew H. Langston 
+Bryant  A42
+-1  1307  -1
+------------
+Ann H. Lynch 
+Prospect  110
+-1  2901  -1
+------------
+Alexander H. Masucci 
+Williams A  402
+-1  2353  -1
+------------
+Anh H. Nguyen 
+Morgan  408
+-1  1395  -1
+------------
+Anne H. Rojas 
+Mark Hopkins  B34
+-1  1948  -1
+------------
+Anna H. Soybel
+UNKNOWN
+4135975023  -1  -1
+------------
+Alex H. F. Xu 
+Spring Street Apt.  #3
+-1  3167  -1
+------------
+Alice I. Rossignol 
+Dennett MD  D103
+-1  2486  -1
+------------
+Ayanna I. Smith 
+Lehman  203C
+-1  1511  -1
+------------
+Anna I. Spiers 
+Prospect  406
+-1  1995  -1
+------------
+Aaron Jordan 
+Currier  N13
+-1  1744  -1
+------------
+Amy J. Berg 
+UNKNOWN
+-1  2625  -1
+------------
+Aurora J. Brown 
+Armstrong 2  A223
+-1  1842  -1
+------------
+Andrew J. Best 
+Dodd  313B
+-1  1416  -1
+------------
+Andres J. Burbank-Crump 
+East  115
+-1  1554  -1
+------------
+Amirah J. Cisse 
+Prospect  305
+-1  1092  -1
+------------
+Arnold J. Capute III 
+Williams E  205
+-1  2024  -1
+------------
+Alexandre J. DeBaere 
+Fayerweather  116
+-1  1616  -1
+------------
+Ayodele J. Ekhator 
+Morgan  006
+-1  1645  -1
+------------
+Alisdair J. Ferguson 
+Gladden  C54
+-1  1659  -1
+------------
+Alison J. Hart 
+Agard  215
+-1  2792  -1
+------------
+Aaron J. Hamblin 
+Armstrong AP  A104
+-1  2222  -1
+------------
+Alexander J. Lou 
+Chadbourne  201
+-1  1327  -1
+------------
+Alexander J. Lockwood 
+UNKNOWN
+-1  -1  -1
+------------
+Audrey J. McPherson 
+UNKNOWN
+-1  -1  -1
+------------
+Asvelt J. Nduwumwami 
+West  210
+-1  1401  -1
+------------
+Andrew J. Nemeth 
+Gladden  B46
+-1  1879  -1
+------------
+Amelia J. Ortiz 
+Mark Hopkins  A42
+-1  1902  -1
+------------
+Austin J. Paul 
+Sage B  106
+-1  2435  -1
+------------
+Alexis J. Savery 
+Sage D  404
+-1  2497  -1
+------------
+Adam J. Strawbridge 
+UNKNOWN
+-1  3102  -1
+------------
+Amanda J Su 
+Prospect  205
+-1  3104  -1
+------------
+Alexander J. Silver 
+Mark Hopkins  A44
+-1  1981  -1
+------------
+Antongiulio Jacobson Sorgini
+UNKNOWN
+-1  Graduate  -1
+------------
+Alexander J. Walsh 
+Tyler Annex  111
+-1  2046  -1
+------------
+Anshita Khandelwal 
+Thompson  126
+-1  2843  -1
+------------
+Anastasia Kovalova 
+Gladden  A33
+-1  1762  -1
+------------
+Abraham J. Kirby-Galen 
+Pratt AP  P101
+-1  2286  -1
+------------
+Andrew R. Kelly 
+UNKNOWN
+-1  -1  6032528456
+------------
+Audrey J. Kwon 
+Hubbell  207
+-1  1303  -1
+------------
+Alyssa K. Amos 
+East  104
+-1  1071  -1
+------------
+Allison K. Graebner 
+Prospect  319
+-1  2783  -1
+------------
+Addington K. Graham 
+Fayerweather  306
+-1  1687  -1
+------------
+Alexander K. Nanda 
+Mark Hopkins  C31
+-1  1873  -1
+------------
+Alphayo K. Nyarera 
+Mills 2  M201
+-1  2408  -1
+------------
+Andrea K. Remec 
+Perry  7
+-1  1352  -1
+------------
+Alison K. Roach 
+Pratt 2  P228
+-1  2471  -1
+------------
+Austin K Shea 
+Tyler  307
+-1  3072  -1
+------------
+Avishek K. Shrestha 
+UNKNOWN
+-1  3077  -1
+------------
+Anuj K. Shah 
+Mark Hopkins  A46
+-1  1974  -1
+------------
+Andrew K. Udell 
+Sage A  101
+-1  2565  -1
+------------
+Adam K. Wiener 
+UNKNOWN
+-1  3152  -1
+------------
+Apoorva Lal 
+Carter  A14
+-1  1767  -1
+------------
+Abigale L. Belcrest 
+Pratt 3  P301
+-1  1385  -1
+------------
+Allison L. Carter 
+Sage E  406
+-1  2041  -1
+------------
+Abigail L. Dalzell 
+Armstrong 3  A328
+-1  2113  -1
+------------
+Anna L. Hurlimann
+UNKNOWN
+-1  -1  -1
+------------
+Anne L. Haley 
+Poker Flats  D101
+-1  1229  -1
+------------
+Alyssa L. Maddalone 
+Williams E  103
+-1  2344  -1
+------------
+Alexander L. Pena 
+Gladden  A46
+-1  1919  -1
+------------
+Anika L. Pommers-Dear
+UNKNOWN
+-1  -1  -1
+------------
+Allison L. Rubin 
+Poker Flats  D202
+-1  1466  -1
+------------
+Alexandria L. Sherman 
+Parsons  204
+-1  1495  -1
+------------
+Amanda L. Schott 
+Currier  B13
+-1  1968  -1
+------------
+Ariel L. Silbert 
+Williams F  104
+-1  2515  -1
+------------
+Alyssa L. Tomkowicz 
+West  112
+-1  2022  -1
+------------
+Alyssa L. Veil 
+UNKNOWN
+-1  -1  -1
+------------
+Ann L. VanWagenen 
+Sage A  210
+-1  2573  -1
+------------
+Angelica M. Montenegro-Tucker 
+Sage C  308
+-1  2379  -1
+------------
+Alexander D. Meyer 
+Dennett 3  D313
+-1  2370  -1
+------------
+Martina Alberer
+UNKNOWN
+-1  -1  -1
+------------
+Ali M. Mctar 
+Morgan  401
+-1  1805  -1
+------------
+Abdullah M. Awad 
+42 Moorland  Street
+-1  1018  -1
+------------
+Abigail M. Adams 
+UNKNOWN
+-1  1911  -1
+------------
+Anna M. Barnes 
+Morgan  123
+-1  2616  -1
+------------
+Amelia M. M. Black 
+Mills 4  M421
+-1  1702  -1
+------------
+Anthony M. Brooks 
+Williams B  005
+-1  1831  -1
+------------
+Alexander M. Beschloss 
+Dennett 2  D211
+-1  1620  -1
+------------
+Allyne M. Ensor 
+Morgan  425
+-1  2734  -1
+------------
+Ashley M.D. Graves 
+West  307
+-1  1690  -1
+------------
+Andres Mariano Galperin
+UNKNOWN
+-1  Graduate  -1
+------------
+Alexandra M. K. Highet 
+15 Latham  Street
+-1  1246  9143302846
+------------
+Anna M. Hopkins 
+Bryant  C34
+-1  2817  -1
+------------
+Anne M. Inglis 
+80 South  Street
+-1  2837  -1
+------------
+Adin M. Kreiger-Benson 
+Brooks  307
+-1  1763  -1
+------------
+Andrea M. Lindsay 
+23 Hoxsey  Street
+-1  1323  -1
+------------
+Amy M. Levine 
+UNKNOWN
+-1  2879  -1
+------------
+Andre M. Lafontant 
+Carter  B35
+-1  2858  -1
+------------
+Aviv M. Lipman 
+East  208
+-1  1784  -1
+------------
+Amanda M. McLaughlin 
+Dodd  205
+-1  1353  -1
+------------
+Anna M. Moriondo 
+Prospect  415
+-1  2969  -1
+------------
+Amanda M. Murashige 
+Prospect  324
+-1  2975  -1
+------------
+Andrew M. Maruca 
+Currier  C20
+-1  2924  -1
+------------
+Alejandro M. Morales 
+UNKNOWN
+-1  -1  -1
+------------
+Abra M. Owens 
+Carter  B42
+-1  1908  -1
+------------
+Alexandra M. Peterson 
+UNKNOWN
+-1  3022  -1
+------------
+Abigail M. Pugh 
+Williams D  303
+-1  2452  -1
+------------
+Ashley M. N. Ray-Harris 
+Woodbridge  105
+-1  1439  -1
+------------
+Alexandra M. Sera 
+Spring Street Apt.  #5
+-1  1486  -1
+------------
+Andrew M. Trainor 
+UNKNOWN
+-1  -1  -1
+------------
+Aaron M. Taylor 
+Dennett 3  D312
+4135976619  2552  -1
+------------
+An M. Vu 
+Tyler Annex  110
+-1  3135  -1
+------------
+Anthony M. White 
+Tyler Annex  304
+-1  2060  -1
+------------
+Amanda M. Walker 
+Mark Hopkins  D32
+-1  2043  -1
+------------
+Amanda Ng 
+Chadbourne  112
+-1  1391  -1
+------------
+Ashwin Narayan 
+Pratt 2  P223
+-1  2394  -1
+------------
+Ashley M. Ngo 
+Williams A  201
+-1  2398  -1
+------------
+Anita N. Bateman 
+41 Park  Street
+-1  1033  -1
+------------
+Adrianna N. DeGazon 
+Pratt AP  P110
+-1  2126  -1
+------------
+Arielle N. Steele 
+Armstrong 3  A307
+-1  2533  -1
+------------
+Ashley P. O'Connor 
+Tyler  214
+-1  2998  -1
+------------
+Annabel O. Coleman 
+Dennett 4  D404
+-1  2102  -1
+------------
+Alexandra O. DeSousa 
+Armstrong 2  A222
+-1  2130  -1
+------------
+Alexander O. Kerman 
+UNKNOWN
+-1  -1  -1
+------------
+Anyela M. Perez 
+UNKNOWN
+-1  3019  -1
+------------
+Alexandra L. Piltch 
+Mills 4  M405
+-1  3025  -1
+------------
+Aura N. Perezbanuet 
+UNKNOWN
+-1  -1  -1
+------------
+Alexandra P. Albright 
+Morgan  326
+-1  2437  -1
+------------
+Andrew P. Bishop 
+Morgan  103
+-1  1045  -1
+------------
+Adrien P. Downey 
+Gladden  B42
+-1  1629  -1
+------------
+Aldis P. Inde 
+Garfield  301
+-1  1735  -1
+------------
+Alice P. Murphy 
+Pratt 4  P424
+-1  2393  -1
+------------
+Anna-Claire P. Stinebring
+Fort Hoosac  3
+-1  Graduate  -1
+------------
+Adriana P. van der Linden 
+Dodd  222
+-1  2119  -1
+------------
+Alyssa Quann 
+Tyler  212
+-1  3031  -1
+------------
+Adam C. Reich 
+Brooks  204
+4135976065  3037  -1
+------------
+Alejandra Rosales 
+Dodd  214
+4135976468  1952  -1
+------------
+Aiden R. S. Alyxander 
+Perry  4A
+-1  1011  -1
+------------
+Alvaro R. Aleman 
+Williams A  101
+4135972312  1095  -1
+------------
+Alexandra R. Berg 
+Carter  C21
+-1  1042  -1
+------------
+Anne Beatrice R. M. Brouwer 
+Morgan  201
+-1  2644  -1
+------------
+Arianna R. Basche 
+Williams F  306
+-1  1359  -1
+------------
+Amanda R. Correnti 
+Poker Flats  B205
+-1  1099  -1
+------------
+Alejandro R. Gimenez 
+Spring Street Apt.  #1
+-1  1192  -1
+------------
+Alyssa R. Levine 
+Armstrong 4  A407
+-1  2878  -1
+------------
+Ashley R. Meczywor 
+Poker Flats  F101
+-1  1360  -1
+------------
+Alexandra R. Oviedo 
+Morgan  418
+-1  3006  -1
+------------
+Anna R. E. Ryba 
+Sage E  304
+4135973635  2491  -1
+------------
+Aliza R. Shatzman 
+Fitch  206A
+-1  1490  -1
+------------
+Ali R. Tafreshi 
+Tyler  207
+4135976585  2011  -1
+------------
+Alexander R, Verschoor-Kirss 
+Dodd  301
+-1  2187  -1
+------------
+Alexander R. Wheelock 
+Gladden  C02
+-1  2919  4015274009
+------------
+Abigail R. Zimmermann-Niefield 
+Gladden  A51
+-1  2550  -1
+------------
+Ayesha Shahid 
+UNKNOWN
+-1  -1  4138845153
+------------
+Alex C. Sun 
+Mark Hopkins  17B
+-1  2006  -1
+------------
+Andrei Sarabia 
+Sage D  104
+-1  2496  -1
+------------
+Abigail Sanchez 
+Sage B  406
+-1  2495  -1
+------------
+Angela Sun 
+Pratt 3  P321
+4135976894  2542  -1
+------------
+Alexander Schidlovsky 
+Armstrong 3  A305
+-1  2499  -1
+------------
+Ari S. Benjamin 
+Prospect  421
+-1  1039  -1
+------------
+Adrienne S. Darrow 
+UNKNOWN
+-1  -1  -1
+------------
+Andrew S. Desrosiers 
+Wood  308
+-1  1117  -1
+------------
+Annie S. Eddy 
+55 North Street Apt.  #2
+-1  1140  -1
+------------
+Andrew S. Fyall 
+Currier  S31
+-1  1175  -1
+------------
+Alexander S. Flick 
+Sage F  205
+-1  2175  -1
+------------
+Allison S. Har-zvi 
+Dodd  118
+4135976604  1237  -1
+------------
+Adlyne S. Harris 
+Mark Hopkins  A35
+-1  1705  -1
+------------
+Ailan S. Hurley-Echevarria 
+Armstrong 4  A410
+-1  2248  -1
+------------
+Alexandra S. Jensen 
+East  215
+-1  1738  -1
+------------
+Alexander S. Kling 
+Sage B  308
+-1  2289  -1
+------------
+Aidan S. Lawrence 
+Bryant  A35
+-1  2866  -1
+------------
+Alexander S. LaTourrette 
+UNKNOWN
+-1  2863  -1
+------------
+Adam S. Marske 
+UNKNOWN
+-1  2923  -1
+------------
+Alison S. Magruder 
+Fayerweather  101
+-1  1802  -1
+------------
+Angel S. Ortiz 
+UNKNOWN
+-1  -1  9175839967
+------------
+Ashini S. Patel 
+Mark Hopkins  A22
+-1  1914  8183311266
+------------
+Alex S. Paseltiner 
+Sage A  301
+-1  2432  -1
+------------
+Alexander S. Rich 
+Doughty  212
+-1  1446  -1
+------------
+Alexandra Ting 
+Mark Hopkins  17A
+-1  2021  -1
+------------
+Alejandra T. Castaneda 
+Fayerweather  207
+-1  1565  -1
+------------
+Adam T. Datema 
+Tyler Annex  108
+-1  1611  -1
+------------
+Ahmad T. Greene-Hayes 
+Williams E  304
+-1  2210  -1
+------------
+Austin T. Nguyen 
+Prospect  232
+-1  1884  -1
+------------
+April T. Shen 
+Morgan  327
+-1  1494  6073199254
+------------
+Ariana T. Spiliotes 
+UNKNOWN
+-1  3092  -1
+------------
+Alice U. Chapman 
+Mark Hopkins  B25
+-1  1567  -1
+------------
+Areli Valencia 
+Gladden  A45
+-1  3131  -1
+------------
+Alexandra Vangsnes
+UNKNOWN
+-1  -1  -1
+------------
+Anna V. Garzon 
+UNKNOWN
+-1  2761  -1
+------------
+Alexandra V. Marshall 
+East  206
+-1  1815  -1
+------------
+Amanda L. Weber 
+Wood  210B
+-1  2572  -1
+------------
+Allison Wu 
+Sage A  204
+-1  2737  -1
+------------
+Alexandra W. Carr 
+Susie Hopkins  202
+-1  1076  -1
+------------
+Annie W. Dear 
+Agard  212
+-1  1108  -1
+------------
+Adam W. Harrell 
+Armstrong 2  A207
+-1  2229  -1
+------------
+Antonia W. L. Ipser 
+Williams E  309
+-1  2250  -1
+------------
+Aubrey W. Kenefick 
+Sage C  405
+-1  2279  -1
+------------
+Andrew W. Marrero 
+Garfield  216
+-1  1041  -1
+------------
+Adrian W. Mahoney 
+UNKNOWN
+-1  -1  -1
+------------
+Alyssa W. Northrop 
+Prospect  308
+-1  2994  -1
+------------
+Anne W. Rehfuss 
+Dennett 3  D304
+-1  2463  -1
+------------
+Arran Y. Yip 
+Mark Hopkins  A24
+-1  2200  -1
+------------
+Anna S. Zhou 
+Lehman  106A
+-1  3205  -1
+------------
+Abdulrahman Z. Al-Sudairy 
+Morgan  402
+-1  2493  -1
+------------
+Brandon Acosta 
+Pratt 3  P331
+-1  1035  -1
+------------
+Burhan A. Aldroubi 
+Morgan  104
+-1  1062  -1
+------------
+Brian A. Cintron 
+Pratt 2  P205
+-1  2097  -1
+------------
+Brooke A. Johnson 
+61 Spring Street Apt.  #1
+-1  1275  -1
+------------
+Bryce A. Mitsunaga 
+Milham  203
+-1  1374  8586926396
+------------
+Bridget A. Malicki 
+Brooks  201
+-1  1807  -1
+------------
+Breanna A. T. Nguyen 
+Dennett 4  D422
+-1  2399  -1
+------------
+Blair A. Robinson 
+Hubbell  104
+-1  1454  -1
+------------
+Benjamin A. Shuham 
+UNKNOWN
+-1  3078  -1
+------------
+Bianca A. Ulloa 
+Bryant  C44
+-1  3127  -1
+------------
+Batjin Boldbat 
+Bryant  C11
+-1  1471  -1
+------------
+Bethany C. Berry 
+Sage F  305
+-1  1612  -1
+------------
+Benjamin B. Seiler 
+Spencer  3B
+-1  1482  -1
+------------
+Benjamin C. Eastburn 
+Morgan  106
+-1  1642  -1
+------------
+Brice C. Green 
+Hubbell  106
+-1  1692  -1
+------------
+Benjamin C. Hoyle 
+Carter  A35
+-1  1727  -1
+------------
+Bryan C. Jones 
+Mills MD  M107
+-1  2271  -1
+------------
+Brian C. Leland 
+Williams B  002
+-1  2314  -1
+------------
+Benjamin H. Demeo 
+Fayerweather  216
+-1  1619  -1
+------------
+Brian D. Noonan 
+Prospect  318
+-1  2992  -1
+------------
+Bailey Edwards 
+Armstrong 4  A411
+-1  2150  -1
+------------
+Brent E. Bomkamp 
+Mark Hopkins  B21
+-1  1474  -1
+------------
+Blakeleigh E. Chaney 
+Currier  N24
+-1  2665  -1
+------------
+Blair E. Curzi 
+Tyler  211
+-1  2691  -1
+------------
+Benjamin E. Corwin 
+Gladden  B15
+-1  1593  5107302267
+------------
+Bryn E. Falahee 
+Morgan  330
+-1  1150  -1
+------------
+Bill Griffin 
+UNKNOWN
+-1  2779  -1
+------------
+Beatrice G. Denham
+UNKNOWN
+-1  -1  -1
+------------
+Brian G. Edgerley 
+UNKNOWN
+-1  -1  -1
+------------
+Bradford G. Koenitzer 
+Morgan  423
+-1  3079  -1
+------------
+Brenda Hernandez 
+Prospect  212
+-1  2805  -1
+------------
+Banyi Huang 
+Prospect  229
+-1  1729  -1
+------------
+Bryan H. Chow 
+Chadbourne  102
+-1  1087  -1
+------------
+Bijan H. Mazaheri 
+Dennett 2  D208
+-1  2355  -1
+------------
+Bryn I. Dunbar 
+Dodd  206
+-1  1130  -1
+------------
+Bethany J. R. Dixon 
+Lehman  204B
+-1  2125  -1
+------------
+Benjamin J. Dalzell 
+Agard  201
+-1  1605  -1
+------------
+Brian J. Kirchner 
+Susie Hopkins  207
+-1  1291  -1
+------------
+Brian J. Levine 
+Williams E  208
+-1  2317  -1
+------------
+Becky J. Miller 
+41 Park  Street
+-1  1368  -1
+------------
+Brandon J. Mancilla 
+Dennett 3  D329
+-1  2347  -1
+------------
+Benjamin J. Nathan 
+Gladden  A35
+-1  1877  -1
+------------
+Byron J. Perpetua 
+Bryant  C42
+-1  3020  -1
+------------
+Brandon J. Romero 
+Gladden  B41
+-1  1951  -1
+------------
+Benno J. Stein 
+Prospect  008
+-1  1999  -1
+------------
+Brian K. Astrachan 
+Dennett 2  D213
+-1  1185  -1
+------------
+Belle K. Baxley 
+Garfield  217
+-1  1036  -1
+------------
+Brooke K. Pfister 
+63 Hoxsey Street Apt.  #2
+-1  1423  -1
+------------
+Benjamin L. Augenbraun 
+Tyler Annex  203
+-1  1107  -1
+------------
+Brian S. McNamara 
+Fayerweather  116
+-1  1837  -1
+------------
+Bianca Martinez 
+Dodd  318
+-1  1348  -1
+------------
+Brianne C. Mirecki 
+Prospect  103
+-1  2959  -1
+------------
+Bridget M. Gallagher 
+Perry  15B
+-1  1178  -1
+------------
+Beau M. Horan 
+Williams B  002
+-1  2240  -1
+------------
+Benjamin M. Kaufman 
+Sage E  106
+-1  2274  -1
+------------
+Bryden M. McGhee 
+UNKNOWN
+-1  2937  -1
+------------
+Briar M. McQuilkin 
+Williams A  304
+-1  2368  -1
+------------
+Benjamin M. Rosenblum 
+Mills 4  M429
+-1  2485  -1
+------------
+Brian N. Trelegan 
+Mills MD  M108
+-1  2560  -1
+------------
+Benjamin Orion Murphy
+Fort Hoosac  12
+-1  Graduate  -1
+------------
+Brandon P. Abasolo 
+Doughty  211
+-1  1000  -1
+------------
+Borah P. Lim 
+Pratt 4  P408
+-1  2324  -1
+------------
+Bryn M. Reinstadler 
+Fayerweather  112
+-1  1940  -1
+------------
+Benjamin R. Kuelthau 
+190 Water  Street
+-1  1301  -1
+------------
+Blake R. Mackall 
+Dennett 4  D428
+-1  2343  -1
+------------
+Benjamin H. Stone 
+Milham  201
+-1  1522  -1
+------------
+Benjamin A. Schneider 
+Bryant  A24
+-1  1966  -1
+------------
+Benjamin S. Jones 
+Mark Hopkins  C45
+-1  1742  -1
+------------
+Beatriz S. Lopez 
+Williams B  207
+-1  2336  -1
+------------
+Bianca S. Brown 
+UNKNOWN
+-1  2645  -1
+------------
+Bersabel J. Tadesse 
+UNKNOWN
+-1  3112  -1
+------------
+Brian T. Shepherd 
+Morgan  424
+-1  1537  -1
+------------
+Benjamin V. Fischberg 
+Tyler Annex  309
+-1  2749  -1
+------------
+Brandon V. Ling 
+Tyler Annex  303
+-1  1783  -1
+------------
+Benjamin W. Allison 
+Morgan  319
+-1  2608  -1
+------------
+Brendan W. Bossidy 
+Williams B  107
+-1  1792  -1
+------------
+Brian W. Cole 
+UNKNOWN
+-1  -1  -1
+------------
+Brian W. McGrail 
+Morgan  312
+-1  2939  -1
+------------
+Cecilia A. Castellano 
+Armstrong 2  A213
+-1  2075  -1
+------------
+Conrad A. Damstra 
+Pratt 4  P428
+-1  2114  -1
+------------
+Casey A. M. Greene 
+21 Spring Street Apt.  #6
+-1  1212  -1
+------------
+Chase A. Hicks 
+189 Stratton  Road
+-1  2796  -1
+------------
+Charles A. James 
+UNKNOWN
+-1  -1  -1
+------------
+Chloe A. Kuh 
+62 Spring  Street
+-1  1302  -1
+------------
+Craig A. Kitto 
+Fayerweather  104
+-1  2256  -1
+------------
+Catherine A. Lamb 
+Susie Hopkins  206
+-1  1305  -1
+------------
+Claire A.L. Lidston 
+Mark Hopkins  B44
+-1  1780  -1
+------------
+Catherine A. McCrea 
+Garfield  215
+-1  1351  -1
+------------
+Corey A. Michon 
+Armstrong 4  A408
+-1  2372  -1
+------------
+Cooper A. Nassery 
+Goodrich  7
+-1  2412  7813307845
+------------
+Christopher A. Riegg 
+Bryant  B35
+-1  1943  -1
+------------
+Cody A. Semmelrock 
+Tyler  206
+-1  3069  -1
+------------
+Caroline A Sinico 
+Prospect  105
+-1  3082  -1
+------------
+Christian A. Torres 
+UNKNOWN
+-1  -1  -1
+------------
+Catherine A. T. Tremble 
+63 Hoxsey  Street
+-1  2072  -1
+------------
+Charlotte A. Vinson 
+Dodd  302
+-1  2348  -1
+------------
+Caroline A. Wilson 
+63 Hoxsey Street Apt.  #1
+-1  3151  -1
+------------
+Chan A. Williams 
+UNKNOWN
+-1  -1  -1
+------------
+Cristina I. Bravi 
+Pratt AP  P112
+-1  2636  -1
+------------
+Christopher B. Cameron 
+Goodrich  2
+4135972773  1073  -1
+------------
+Christine B. Case 
+Brooks  302
+-1  2121  -1
+------------
+Caroline B. Friedman 
+71 Hoxsey  Street
+-1  1173  -1
+------------
+Conor B. Roddy 
+Armstrong AP  A105
+-1  2474  -1
+------------
+Cody B. Skinner 
+15 Spring  Street
+-1  1509  -1
+------------
+Carly B. Valenzuela 
+Dodd  306
+-1  2115  -1
+------------
+Cooper B. Zelnick 
+East  204
+-1  2411  9172540187
+------------
+Carina B. Zox 
+Armstrong AP  A107
+-1  3024  -1
+------------
+Cheng Chai Chiang 
+Morgan  307
+-1  1085  -1
+------------
+Christopher E. Cogswell 
+Prospect  129
+-1  2679  -1
+------------
+Charles B. Chirinos 
+Goodrich  G1
+-1  1574  -1
+------------
+Cedar C. Blazek 
+Morgan  224
+-1  1049  -1
+------------
+Carson C. Brooks 
+Prospect  114
+-1  2643  -1
+------------
+Corbin C. Chu 
+Lehman  303
+-1  1579  -1
+------------
+Corie C. Dacres 
+Hubbell  204
+-1  1603  -1
+------------
+Caroline C. Kaufman 
+Prospect  003
+-1  1750  -1
+------------
+Claire C. Leyden 
+Sage E  206
+-1  2321  -1
+------------
+Catherine C. Landers 
+Armstrong 2  A224
+-1  2299  -1
+------------
+Conor C. McClintock 
+Bryant  B26
+-1  1828  -1
+------------
+Chibueze C. Nwakeze 
+Sage F  104
+-1  2407  -1
+------------
+Christopher C. Owyang 
+Pratt 4  P430
+-1  2423  -1
+------------
+Collin C. Peck-Gray 
+15 Spring  Street
+-1  1916  -1
+------------
+Chance C. Rueger 
+Hubbell  303
+-1  1468  -1
+------------
+Caroline C. Sawin 
+Carter  B25
+-1  1964  -1
+------------
+Caroline C. White-Nockleby 
+Pratt 3  P301
+-1  2594  -1
+------------
+Chanae C. Williams 
+Sage D  304
+-1  2618  -1
+------------
+Celines Diaz 
+UNKNOWN
+-1  2703  4133468434
+------------
+Cathleen H. Donohue 
+Carter  C13
+-1  1627  -1
+------------
+Chelsea D. Boydstun 
+Mark Hopkins  D24
+-1  1539  -1
+------------
+Colin D. Brown 
+Armstrong AP  A110
+-1  1862  -1
+------------
+Caitlyn D. Clark 
+62 Spring  Street
+-1  1094  -1
+------------
+Christopher D. Conder 
+Mark Hopkins  C33
+-1  1587  -1
+------------
+Colin D.F. Cotton 
+UNKNOWN
+-1  -1  -1
+------------
+Cecilia D. Davis-Hayes 
+UNKNOWN
+-1  -1  2674965088
+------------
+Charles D. Gaillard 
+Dennett 3  D311
+-1  2185  -1
+------------
+Cassandra D McLellan 
+Parsons  203
+-1  2945  3057261240
+------------
+Christopher D. Nocek 
+11 Meadow  Street
+-1  1397  -1
+------------
+Christopher D Navarro 
+UNKNOWN
+-1  2981  -1
+------------
+Cesar D. Roman 
+Brooks  309
+-1  1949  -1
+------------
+Corey D. Smith 
+Garfield  202
+-1  3083  -1
+------------
+Chau D. Vo 
+Gladden  C34
+-1  3134  -1
+------------
+Cary D. White 
+Bryant  A32
+-1  2972  -1
+------------
+Courtney E. Alexander 
+Dodd  310
+-1  1008  -1
+------------
+Caroline E. Atwood 
+Sage D  403
+-1  1187  -1
+------------
+Claire E. Baecher 
+18-20 Meadow  Street
+-1  1020  -1
+------------
+Christie E. Black 
+Morgan  322
+-1  1442  -1
+------------
+Cody E. Cotner 
+Mark Hopkins  B36
+-1  1595  -1
+------------
+Chelsea E. Davies 
+62 Spring  Street
+-1  1105  -1
+------------
+Charlotte E. Dillon 
+UNKNOWN
+-1  2705  -1
+------------
+Carolina E. Echenique 
+Carter  B41
+-1  1643  7872410786
+------------
+Charlotte E. Fleming 
+East  201
+-1  1661  -1
+------------
+Christopher E. Gay 
+Lambert  103
+-1  1184  -1
+------------
+Claire E. Goodrich 
+UNKNOWN
+-1  -1  -1
+------------
+Clare E. Quinlan 
+UNKNOWN
+-1  -1  -1
+------------
+Charles E. Hermann 
+Lehman  306
+-1  2804  -1
+------------
+Claire E. Lempres 
+Carter  B44
+-1  1775  -1
+------------
+Claire E. Rudolph 
+UNKNOWN
+-1  3055  -1
+------------
+Cody E. Remillard 
+Mark Hopkins  D35
+-1  1941  -1
+------------
+Christine E. Schindler 
+Fitch  302A
+-1  1476  -1
+------------
+Claire E. Seizovic 
+Prospect  314
+-1  1483  -1
+------------
+Caitlin F. Bird 
+Brooks  311
+-1  2628  -1
+------------
+Charles F. Baxter 
+Pratt 3  P307
+-1  2622  -1
+------------
+Christopher F. Gorman 
+Dennett 4  D427
+-1  2205  -1
+------------
+Charles F. Grossnickle 
+Mills 2  M201
+-1  2214  -1
+------------
+Caleb F. Hoffman-Johnson 
+Dodd  209
+-1  1254  -1
+------------
+Charles F. Hammond 
+Hubbell  301
+-1  1231  -1
+------------
+Clara F. Noomah 
+Chadbourne  110
+-1  1399  -1
+------------
+Christopher F. Seitz 
+Mark Hopkins  C34
+-1  1971  -1
+------------
+Clarissa Granados 
+Tyler Annex  307
+4135976554  1689  -1
+------------
+Carrie G. Chu 
+Prospect  304
+-1  1559  -1
+------------
+Christina G. Chen 
+Sage D  204
+-1  2086  -1
+------------
+Carrie G. Shirley 
+Perry  6
+-1  1372  -1
+------------
+Christopher G. Weihs 
+Gladden  B45
+-1  2053  -1
+------------
+Cornelia H. Burleigh 
+71 Hoxsey  Street
+-1  1067  -1
+------------
+Christopher H. Bravo 
+Williams C  106
+-1  1826  -1
+------------
+Christopher H. Faux 
+Garfield  310
+-1  1152  -1
+------------
+Colin H. Foster 
+Spencer  10
+-1  2757  -1
+------------
+Catherine H. Gerkis 
+Lehman  307
+-1  2766  -1
+------------
+Christopher H. Greeno 
+Sage E  203
+-1  2784  -1
+------------
+Connor H. McLane 
+Garfield  116
+-1  1836  -1
+------------
+Carla H. Nicasio 
+UNKNOWN
+-1  2988  -1
+------------
+Chris H. Pak 
+Williams E  408
+-1  2426  -1
+------------
+Carlos H. Rubio Jr. 
+UNKNOWN
+-1  -1  -1
+------------
+Charles H. Sellars 
+Milham  101
+-1  1485  -1
+------------
+Christina H. Seeger 
+Pratt 2  P229
+-1  2502  -1
+------------
+Cristine Ihara 
+118 Water Street Apt.  #B
+-1  2883  2132004675
+------------
+Colton I. Growney 
+21 Spring Street Apt.  #3
+-1  1217  -1
+------------
+Christopher I. Leflore 
+Armstrong 2  A231
+4135976923  2313  2486316246
+------------
+Carolina Jaramillo 
+Sage B  406
+-1  2262  -1
+------------
+Cesare J. Antista 
+39B Spring  Street
+-1  1014  -1
+------------
+Christopher J. Corbett 
+Wood  309A
+-1  1097  -1
+------------
+Catherine J. Egan 
+Sage B  207
+-1  2151  -1
+------------
+Christopher J. Fox 
+UNKNOWN
+-1  -1  -1
+------------
+Christian J. Gronbeck 
+Gladden  B43
+-1  1698  -1
+------------
+Christopher J. Higgins 
+UNKNOWN
+-1  2811  5185984444
+------------
+Conor J. Mercadante 
+UNKNOWN
+-1  2952  -1
+------------
+Carl J. McPherson 
+UNKNOWN
+-1  2947  -1
+------------
+Catherine J. Pang 
+Prospect  206
+-1  3008  -1
+------------
+Chloe J. Pulido 
+Williams B  208
+4135976307  2453  -1
+------------
+Carl J. Szanton 
+Bryant  B33
+-1  2010  -1
+------------
+Carmen J. Vidal 
+UNKNOWN
+-1  -1  -1
+------------
+Charlie J. Volow 
+Sage E  108
+-1  2579  -1
+------------
+Christina P. Knapp 
+West  212
+-1  1295  -1
+------------
+Chaewon Kim 
+Armstrong 4  A422
+-1  2280  -1
+------------
+Christopher K. Huffaker 
+Morgan  127
+-1  1731  -1
+------------
+Carly K. Schissel 
+Armstrong 4  A402
+-1  2500  -1
+------------
+Christopher K. Wilkinson 
+Carter  B22
+-1  2064  -1
+------------
+Cinnamon K. Williams 
+Sage E  406
+4135973655  2706  -1
+------------
+Crystal Lewin 
+Sage D  405
+-1  2319  -1
+------------
+Cristina Lopez 
+UNKNOWN
+-1  2891  -1
+------------
+Claire Liu 
+Currier  N12
+-1  2885  -1
+------------
+Carmen Linero 
+West  312
+-1  2330  9146295534
+------------
+Cindy Le 
+Mark Hopkins  A36
+-1  1771  -1
+------------
+Charles L. Cao 
+Currier  S34
+-1  1074  -1
+------------
+Casey L. Evans 
+61 Spring Street Apt.  #1
+-1  1148  -1
+------------
+Caroline L. Gloyne 
+UNKNOWN
+-1  -1  -1
+------------
+Christopher L. Hikel 
+Prospect  403
+-1  1247  -1
+------------
+Conor L. Mook 
+Sage D  105
+-1  2383  -1
+------------
+Catherine L. Nohre 
+Williams B  307
+-1  2402  -1
+------------
+Chie L. Togami 
+Morgan  122
+-1  1833  -1
+------------
+Christian Mendoza
+UNKNOWN
+-1  -1  -1
+------------
+Chase O. McReynolds 
+11 Meadow  Street
+-1  1358  -1
+------------
+Cesar Melendez 
+Prospect  017
+-1  2951  -1
+------------
+Craig M. Burt 
+Gladden  C33
+-1  2648  -1
+------------
+Craig M. Corsi 
+Agard  202
+4135975258  2687  -1
+------------
+Christopher M. Chandler 
+East  109
+-1  2663  4132372577
+------------
+Christine M. Cunningham 
+Bryant  B45
+-1  1599  -1
+------------
+Connor M. Dempsey 
+Morgan  202
+-1  1110  -1
+------------
+Christopher M. Elliott 
+Lambert  202
+-1  1144  -1
+------------
+Carson M. Eisenach 
+Currier  N14
+-1  2726  -1
+------------
+Christopher M. Fogler 
+Wood  209B
+-1  1165  -1
+------------
+Caitlin M. Foster 
+UNKNOWN
+-1  2756  -1
+------------
+Christine M. Hulsizer 
+Chadbourne  104
+-1  1264  -1
+------------
+Cecelia M. Holm 
+Lehman  308
+-1  2816  -1
+------------
+Christopher M. Lee 
+Prospect  131
+-1  2870  4136365872
+------------
+Connor M. Lawhorn 
+Sage A  104
+-1  2304  -1
+------------
+Cole M. Meisenhelder 
+Prospect  108
+-1  1840  2673151779
+------------
+Carey M. Marr 
+Mills 3  M329
+-1  2350  -1
+------------
+Cara M. Pardon 
+UNKNOWN
+-1  -1  -1
+------------
+Carmen Maria Ruiz Miranda
+1065 Main  Street
+-1  Center  -1
+------------
+Carrie M. Tribble 
+Poker Flats  A202
+-1  2073  -1
+------------
+Catherine M. Treesh 
+East  201
+-1  2028  -1
+------------
+Cathy M. Zhu
+UNKNOWN
+-1  Graduate  -1
+------------
+Yung Hsien Ng Tam 
+UNKNOWN
+-1  -1  -1
+------------
+Chandra Neyour Clark
+1065 Main  Street
+-1  Center  -1
+------------
+Cole N. Townsend 
+Mark Hopkins  C44
+-1  2027  7166974252
+------------
+Chalita N. Washington 
+West  108
+-1  2520  -1
+------------
+Clare O'Brien 
+Prospect  215
+-1  1890  -1
+------------
+Christina O. Adelakun 
+Fitch  107
+-1  1004  -1
+------------
+Caroline O. Miller 
+Prospect  325
+-1  2956  -1
+------------
+Cleo O. Nevakivi-Callanan 
+Williams C  406
+-1  2397  -1
+------------
+Clover Powell 
+UNKNOWN
+-1  -1  5203068010
+------------
+Caitlin P. Conlon 
+Brooks  202
+-1  1588  -1
+------------
+Cara P. Foley 
+Woodbridge  101
+-1  1166  -1
+------------
+Casey P. Jones 
+Hubbell  305
+-1  1277  -1
+------------
+Christopher P. Janson 
+Williams E  206
+-1  2259  -1
+------------
+Claire P. Miller 
+Fitch  212
+-1  1848  -1
+------------
+Camila P. Miller 
+Carter  C11
+-1  1847  -1
+------------
+Christopher P. Picardo 
+63 North  Street
+-1  1425  -1
+------------
+Catharine P. Parker 
+Sage A  408
+-1  2429  -1
+------------
+Caroline P. Schulman 
+13 Grundy  Court
+-1  1479  -1
+------------
+Rachel C. Riddiough 
+West  402
+-1  3043  -1
+------------
+Caleb R. Baer 
+UNKNOWN
+-1  -1  -1
+------------
+Charlie R. Billadeau 
+Bryant  A46
+-1  1430  -1
+------------
+Claudia R. Corona 
+Poker Flats  E205
+-1  1098  -1
+------------
+Carlos R. Dominguez 
+Perry  5A
+-1  1124  -1
+------------
+Cecilia R. Denhard 
+Fayerweather  202
+-1  1621  -1
+------------
+Christoph R. Lentz 
+Fayerweather  206
+-1  1776  -1
+------------
+Carman R. A. Nareau 
+Currier  B12
+-1  1875  -1
+------------
+Christine R. Noe 
+Sage A  303
+-1  2400  -1
+------------
+Christopher R. Simmons 
+Dodd  208
+-1  1503  2134225321
+------------
+Chloe R. Snow 
+Dennett 4  D402
+-1  2525  -1
+------------
+Cesar R. Serrano 
+Dennett 3  D309
+-1  2505  -1
+------------
+Claire R. Swingle 
+Sage E  403
+-1  2545  -1
+------------
+Chetan Singhal 
+Tyler Annex  204
+-1  1984  -1
+------------
+Cynthia Serrano 
+Williams D  203
+-1  2506  -1
+------------
+Christopher Siemer 
+Armstrong 3  A322
+-1  2514  -1
+------------
+Chandaly Seng
+1065 Main  Street
+-1  Center  -1
+------------
+Caitlin S. Yumori 
+UNKNOWN
+-1  3196  -1
+------------
+Channing Tookes 
+UNKNOWN
+-1  -1  -1
+------------
+Cong Tian 
+Sewall  91
+-1  1816  -1
+------------
+Chih T. McDermott 
+Gladden  C13
+-1  2910  3107386701
+------------
+Charles T. Oddleifson 
+Fayerweather  307
+-1  1893  -1
+------------
+Christopher T. Sheahan 
+23 Thomas  Street
+-1  1491  -1
+------------
+Carson V. Houle 
+Fayerweather  208
+-1  1726  -1
+------------
+Cam V. Nguyen 
+UNKNOWN
+-1  -1  -1
+------------
+Christopher J. Wayland 
+Sage B  108
+-1  2587  -1
+------------
+Chienfa Wong 
+Pratt 2  P211
+-1  2712  -1
+------------
+Caroline W. Bruno 
+Gladden  A54
+-1  1550  -1
+------------
+Chiara W. Del Piccolo 
+UNKNOWN
+-1  2700  -1
+------------
+Conor W. Dowling 
+Morgan  108
+-1  2713  -1
+------------
+Clyde W. Engle Jr. 
+Hubbell  201
+-1  1647  -1
+------------
+Cary W. Hairfield IV 
+Mark Hopkins  B35
+-1  1701  -1
+------------
+Charles W. Lorenz 
+Wood  B05
+-1  1326  -1
+------------
+Courtney W. McLaughlin 
+Sage D  205
+-1  2944  -1
+------------
+Christopher W. Shaeffer
+UNKNOWN
+-1  -1  -1
+------------
+Chanel W. Zhan 
+Williams D  404
+4135973584  2980  -1
+------------
+Celeste X. Berg 
+63 Hoxsey Street Apt. #  4
+-1  1043  -1
+------------
+Chelsea X. Zhu 
+Bryant  B42
+-1  2477  -1
+------------
+Christine Yeoun 
+62 Spring Street Apt.  #2
+-1  3173  -1
+------------
+Christopher Y. Kim 
+UNKNOWN
+-1  -1  -1
+------------
+Dhyan L. Adler-Belendez 
+UNKNOWN
+-1  -1  -1
+------------
+David A. Burns 
+Tyler Annex  104
+-1  2647  -1
+------------
+Desiree A. Daring 
+Perry  9
+-1  1208  -1
+------------
+Davis A. Filippell 
+UNKNOWN
+-1  -1  -1
+------------
+Danielle A. Guerrero 
+Sage E  408
+-1  2217  -1
+------------
+Darren A. Hartwell 
+11-13 Meadow  Street
+-1  1236  -1
+------------
+David A. Jarrett 
+Fayerweather  117
+-1  1737  -1
+------------
+David A. Kealhofer 
+Chadbourne  203
+-1  1282  -1
+------------
+Daniel A. Levine 
+Williams C  107
+-1  2880  -1
+------------
+Danielle A. Rainer 
+Wood  204B
+-1  1433  -1
+------------
+David A. Rosas 
+Sage E  103
+-1  2483  -1
+------------
+Deena R. Bak 
+Morgan  223
+-1  1022  -1
+------------
+Derek Brian Apell
+1065 Main  Street
+-1  Center  -1
+------------
+Daniel B. Schreiner 
+UNKNOWN
+-1  3066  -1
+------------
+Drew B. Weaver 
+Perry  8
+-1  2568  -1
+------------
+Domonique E. Carter 
+Bryant  A26
+-1  1564  -1
+------------
+Danielle Canter
+UNKNOWN
+-1  Graduate  -1
+------------
+Diana Chen 
+Armstrong 4  A404
+-1  2087  -1
+------------
+Dominique C. Exume 
+Garfield  213
+-1  1149  -1
+------------
+Diana C. Pelaez 
+Sewall  101
+-1  1917  -1
+------------
+Diana C. Roldan 
+Spencer  6B
+-1  1460  -1
+------------
+Darrias C. Sime 
+Williams B  005
+-1  2516  -1
+------------
+Dylan C. Thomas 
+Gladden  A34
+-1  2015  -1
+------------
+Dayana De La Torre 
+Morgan  314
+-1  2699  -1
+------------
+Daniel R. Druckman 
+Agard  217
+-1  1630  -1
+------------
+Demarius D. Edwards 
+Carter  A33
+-1  2722  -1
+------------
+Daniel Evangelakos 
+Garfield  301
+-1  1652  -1
+------------
+Dana E. Golden 
+15 Latham  Street
+-1  1197  -1
+------------
+Daniel E. Sullivan 
+Thompson  206
+-1  1525  -1
+------------
+Daniel F. Ferreira 
+Hubbell  102
+-1  2746  -1
+------------
+David F. Hoffman Jr. 
+Doughty  110
+-1  1253  -1
+------------
+Daniel F. Lima 
+UNKNOWN
+-1  2882  -1
+------------
+David F. Stevens 
+Bryant  C35
+-1  3099  -1
+------------
+Dylan Giron 
+Carter  C31
+-1  2771  -1
+------------
+Daniel G. N. Schwartz 
+Prospect  414
+-1  1480  -1
+------------
+Donny Huang 
+Gladden  C23
+-1  1262  -1
+------------
+Dara Hyacinthe 
+Dennett 4  D405
+-1  2249  -1
+------------
+Danielle H. Diuguid 
+UNKNOWN
+-1  -1  -1
+------------
+Drake H. Hicks 
+Morgan  301
+-1  1718  -1
+------------
+Daniel Jenya
+UNKNOWN
+-1  -1  -1
+------------
+Douglas J. Ballanco 
+Fitch  308
+-1  1027  -1
+------------
+Darius J. Charles 
+UNKNOWN
+-1  -1  -1
+------------
+Dylan J. Freas 
+Williams E  304
+-1  2181  -1
+------------
+Daeus J. Jorento 
+Wood  306
+4135977269  1279  -1
+------------
+Douglas J.W. Kim 
+Mark Hopkins  D42
+-1  1756  -1
+------------
+Daniel J. Loughran 
+Fayerweather  215
+-1  1793  -1
+------------
+David J. Taylor 
+Spring Street Apt.  #18
+-1  1534  -1
+------------
+Douglas J. Weinrib 
+UNKNOWN
+-1  -1  -1
+------------
+Dane J. Wilson 
+Fitch  311
+-1  3183  5184957075
+------------
+Daniel J. Whittam 
+Mark Hopkins  C46
+-1  2061  -1
+------------
+Daeun Kang 
+East  306
+-1  1747  -1
+------------
+Daudi K. Ng'eno 
+Gladden  A22
+4135976614  2986  -1
+------------
+Da Young Lee 
+Mills 3  M331
+-1  2308  -1
+------------
+Darryl L. Brown Jr. 
+UNKNOWN
+-1  -1  -1
+------------
+Daniel L. Kurnick 
+Prospect  006
+-1  1765  -1
+------------
+Dianna L. Mejia 
+Mark Hopkins  A45
+-1  1841  -1
+------------
+Daniel L. Underberg 
+UNKNOWN
+-1  3128  -1
+------------
+David L. Webster 
+East  106
+-1  2052  -1
+------------
+Dong Hwan Moon 
+Morgan  119
+-1  1861  -1
+------------
+Dylan M. Barber 
+Garfield  307
+-1  1215  -1
+------------
+Dylan M. Barbour 
+Sage A  310
+4135976477  1349  -1
+------------
+Devon M. Drew 
+Prospect  321
+-1  1127  -1
+------------
+David G. Michael 
+Dodd  323
+-1  1199  6266794973
+------------
+David M. Kruger 
+Fitch  311
+-1  2852  -1
+------------
+Doris M. Mbabu 
+West  101
+-1  1825  -1
+------------
+David M. Rapp 
+Susie Hopkins  102
+-1  1435  -1
+------------
+Daniel M. Silver 
+Doughty  201
+-1  1500  -1
+------------
+Dylan N. Dethier 
+Armstrong AP  A102
+-1  2702  -1
+------------
+Demie N. Kim 
+Williams B  208
+-1  2281  -1
+------------
+Dilia Ortega 
+Perry  4B
+-1  1407  -1
+------------
+Don S. Polite Jr. 
+Morgan  226
+-1  1429  -1
+------------
+Denise Park 
+Mark Hopkins  B45
+-1  1912  -1
+------------
+Dylan P. Gilbert 
+West  401
+-1  1191  8023094604
+------------
+Dylan P. Griswold 
+Tyler  101
+-1  1697  -1
+------------
+Devin P. Gardella 
+Williams F  202
+-1  2189  -1
+------------
+David P. Rodriguez Lenge 
+West  207
+-1  1946  -1
+------------
+David R. Baker 
+Sewall  96
+-1  1025  -1
+------------
+David R. Carter 
+Sage B  307
+-1  2042  4252937351
+------------
+Donald R. Kost III 
+Dodd  211
+-1  1761  -1
+------------
+Dylan R. Meacham 
+Bryant  A25
+-1  2335  6082356276
+------------
+Daniel R. Potter 
+Sage D  103
+-1  2449  -1
+------------
+Daniel R. Smith 
+Dennett 2  D227
+-1  2522  -1
+------------
+Daniel R. Wohl 
+East  108
+-1  2069  -1
+------------
+Douglas R. Wassarman 
+Williams E  105
+-1  2585  -1
+------------
+Daniel M. Siegel 
+Mark Hopkins  C43
+-1  1980  -1
+------------
+David Sledge
+Fort Hoosac  11
+-1  Graduate  3173400095
+------------
+Daniel S. Costanza 
+UNKNOWN
+-1  -1  -1
+------------
+Diane S. Kim 
+Armstrong AP  A113
+-1  2282  -1
+------------
+David S. Lee 
+Williams D  105
+-1  2872  -1
+------------
+Daniel S. Yoo 
+Dodd  315
+-1  2213  -1
+------------
+Diane I. Thomas
+UNKNOWN
+-1  -1  -1
+------------
+Daniel T. DiVietri 
+Garfield  210
+-1  3137  -1
+------------
+Daquan T. Daly 
+Sage F  105
+-1  2112  -1
+------------
+Daniel T. Lee 
+Dodd  309
+-1  2871  -1
+------------
+Daniel T. Seita 
+Morgan  208
+-1  3068  -1
+------------
+Donalyn Ursula Minimo
+1065 Main  Street
+-1  Center  -1
+------------
+David V. Grier 
+Dennett 4  D410
+4135972741  2212  -1
+------------
+Dana V. Hogan 
+UNKNOWN
+-1  -1  -1
+------------
+Daniel V. Seidita 
+Pratt 2  P224
+-1  2503  -1
+------------
+David Yan 
+Fayerweather  304
+-1  2099  -1
+------------
+Daniel M. Zilkha 
+Brooks  203
+-1  3207  -1
+------------
+Dan Zhao 
+UNKNOWN
+-1  3200  -1
+------------
+Daniela Zarate 
+Mark Hopkins  D31
+-1  2391  -1
+------------
+Ekaterina A. Ageeva
+UNKNOWN
+-1  -1  -1
+------------
+Elizabeth A. Berggren 
+Mark Hopkins  A32
+-1  1354  9095766939
+------------
+Emily A. B. Berg 
+Dennett 3  D321
+-1  1536  -1
+------------
+Elizabeth A. Cornett 
+UNKNOWN
+-1  2686  -1
+------------
+Evan A. Dedominicis 
+11 Meadow  Street
+-1  1109  -1
+------------
+Emily A. Doll 
+UNKNOWN
+-1  2708  -1
+------------
+Elizabeth A. Dietz 
+Hubbell  105
+-1  1625  -1
+------------
+Eliza A. Elliotte 
+UNKNOWN
+-1  -1  -1
+------------
+Elisa A. Fernandez-Vasquez 
+UNKNOWN
+-1  -1  -1
+------------
+Emily A. Jablonski 
+Williams E  204
+-1  2824  -1
+------------
+Erik A. B. Levinsohn 
+UNKNOWN
+-1  -1  7344769121
+------------
+Elisabeth A. Lobkowicz
+UNKNOWN
+-1  Graduate  -1
+------------
+Erica A. Li 
+Williams B  306
+-1  2322  -1
+------------
+Erin A. McGonagle 
+UNKNOWN
+-1  -1  -1
+------------
+Eugene A. Murphy 
+Currier  C32
+-1  1379  -1
+------------
+Emily A. Nuckols 
+Mark Hopkins  A41
+-1  1889  -1
+------------
+Elisheba A. Odei 
+Gladden  A24
+-1  3001  -1
+------------
+Erick A. Quay 
+Currier  C30
+-1  3032  -1
+------------
+Elizabeth A. Ryan 
+63 Hoxsey Street Apt.  #5
+-1  1469  -1
+------------
+Eric A. Rubino 
+15 Spring Street Apt.  #21
+-1  1467  6472085601
+------------
+Erik A. Romano 
+Gladden  C55
+-1  1950  -1
+------------
+Emily A. Roach 
+Williams F  102
+-1  2472  -1
+------------
+Emily A. Ury 
+Fitch  302B
+-1  2103  -1
+------------
+Emily A. Whicker 
+Morgan  105
+-1  2931  -1
+------------
+Emily A. Wickstrom 
+Prospect  224
+-1  3156  -1
+------------
+Emily R. Barreca 
+UNKNOWN
+-1  2617  -1
+------------
+Ethan D. Borre 
+Fayerweather  212
+-1  1504  -1
+------------
+Elizabeth B. Albert 
+Prospect  221
+-1  2385  -1
+------------
+Edson Bartolomeu Mangunhane
+1065 Main  Street
+-1  Center  -1
+------------
+Emily B. O'Day 
+Fitch  212
+-1  1892  -1
+------------
+Emily B. Pavlini 
+Fayerweather  302
+-1  3012  -1
+------------
+Emma B. Rickles 
+Morgan  213
+-1  3042  -1
+------------
+Elizabeth B Stern 
+Prospect  116
+-1  3098  -1
+------------
+Eric G. Coffin-Gould 
+UNKNOWN
+-1  2678  -1
+------------
+Eduard Ciobanu 
+Brooks  309
+-1  1581  -1
+------------
+Eloise C. Andry 
+Tyler  216
+-1  2582  -1
+------------
+Elizabeth C. Eades 
+Brooks  202
+-1  1639  -1
+------------
+Emelda C. Lagos 
+Poker Flats  F205
+-1  1304  -1
+------------
+Elaina C. Pullano 
+Mark Hopkins  B43
+-1  1935  -1
+------------
+Evan M. Dugdale 
+15 Spring  Street
+-1  1129  -1
+------------
+Emily E. Dugdale 
+UNKNOWN
+-1  2719  -1
+------------
+Emily Dzieciatko 
+East  302
+-1  1638  -1
+------------
+Ezequiel Davila 
+Pratt 4  P431
+-1  2122  -1
+------------
+Ethan D. Gracer 
+UNKNOWN
+-1  2782  -1
+------------
+Elizabeth D. Jenkins
+UNKNOWN
+-1  -1  -1
+------------
+Emily D. Steinberg 
+Garfield  205
+-1  1519  -1
+------------
+Elizabeth D. Visconti 
+Poker Flats  A101
+-1  2373  -1
+------------
+Erika D. Watkins 
+Perry  B1
+-1  2049  -1
+------------
+Elisa E. Benzo 
+UNKNOWN
+-1  -1  -1
+------------
+Emily E. Baratta 
+UNKNOWN
+-1  2613  -1
+------------
+Erica E. Bucki 
+East  207
+-1  1551  -1
+------------
+Erin E. Curley 
+Gladden  A36
+-1  1600  -1
+------------
+Evan E. F. Grillon 
+Gladden  C25
+-1  1216  -1
+------------
+Elizabeth E. Hwang 
+Currier  S14
+-1  1267  -1
+------------
+Emily E. Prey 
+Prospect  326
+-1  3028  -1
+------------
+Eliza E. Rorabaugh 
+Sage A  202
+-1  2482  -1
+------------
+Effua E. Sosoo 
+Dodd  217
+-1  1514  -1
+------------
+Ernest E. Wolfe IV 
+UNKNOWN
+-1  -1  -1
+------------
+Elizabeth R. Faling 
+UNKNOWN
+-1  -1  8022743320
+------------
+Elizabeth S. Frank 
+Williams C  206
+-1  2180  -1
+------------
+Ellen F. Finch 
+Armstrong 4  A403
+-1  2172  -1
+------------
+Eleanor F. O'Neill 
+Brooks  205
+-1  1900  -1
+------------
+Emily Gao 
+Morgan  406
+-1  1180  -1
+------------
+Emily E. Gaddis 
+Prospect  408
+-1  1670  -1
+------------
+Elizabeth G. Dunoff 
+UNKNOWN
+-1  -1  -1
+------------
+Emily G. Grant 
+Williams A  309
+-1  2208  -1
+------------
+Eve G. Oppenheimer 
+71 Hoxsey  Street
+-1  1405  -1
+------------
+Eric G. Schneider 
+Gladden  B31
+-1  1967  -1
+------------
+Ernest M. Higginbotham II 
+Carter  B33
+-1  2810  -1
+------------
+Emma K. Harrington 
+East  306
+-1  1704  -1
+------------
+Eirann H. Cohen 
+Prospect  418
+-1  1585  -1
+------------
+Emmanuel H. Daring 
+Morgan  313
+-1  1610  -1
+------------
+Edward H. Flynn 
+Fitch  109
+-1  1662  -1
+------------
+Emma H. Grauberger 
+Mills 4  M401
+-1  2209  -1
+------------
+Ethan H. Jacobs 
+Sage B  108
+-1  2255  -1
+------------
+Elizabeth H. Kildahl 
+Morgan  210
+-1  2846  -1
+------------
+Eleanor H. Miller 
+63 Hoxsey  Street
+-1  1369  -1
+------------
+Emma H. Martucci 
+East  305
+-1  1818  -1
+------------
+Elizabeth H. Meyer
+UNKNOWN
+-1  -1  -1
+------------
+Eliza H. Noyes 
+Armstrong 3  A312
+-1  2404  -1
+------------
+Elizabeth A. Jacobsen 
+Sage C  407
+4135973649  2257  -1
+------------
+Eric J. Hagen 
+UNKNOWN
+-1  2789  -1
+------------
+Edward J. Kelly 
+Bryant  B31
+-1  1752  -1
+------------
+Elizabeth Jill Rooklidge
+UNKNOWN
+-1  Graduate  -1
+------------
+Erich J. Trieschman 
+Hubbell  302
+-1  2074  -1
+------------
+Edgar J. Vega 
+Armstrong 2  A230
+-1  2575  -1
+------------
+Emmanuel J. Whyte 
+Dodd  317
+-1  3017  -1
+------------
+Emily K. Chapman 
+Thompson  308
+-1  2689  -1
+------------
+Emily K. Ciavarella 
+Agard  204
+-1  1091  -1
+------------
+Ebenezer K. Gyasi 
+Dodd  119
+-1  1224  -1
+------------
+Elizabeth K. Graf
+UNKNOWN
+-1  -1  -1
+------------
+Emily K. Lozeau
+UNKNOWN
+-1  -1  -1
+------------
+Eric K. Mintzer 
+Brooks  308
+-1  2958  -1
+------------
+Edwin K. Maina 
+Tyler Annex  112
+-1  1804  -1
+------------
+Emily K. Shea 
+Armstrong AP  A109
+-1  2511  -1
+------------
+Emily J. Levy 
+Prospect  310
+-1  1316  -1
+------------
+Erica J. Lansberg 
+UNKNOWN
+-1  2861  -1
+------------
+Eric Y. Liao 
+Williams E  203
+-1  2881  -1
+------------
+Elena Luethi 
+Agard  108
+-1  1797  -1
+------------
+En Tzu Liu 
+Goodrich  6
+4135976705  1786  -1
+------------
+Eden Amerson 
+UNKNOWN
+-1  -1  -1
+------------
+Elizabeth L. Fox 
+UNKNOWN
+-1  -1  -1
+------------
+Elena L. Faverio 
+Currier  B4
+-1  1656  -1
+------------
+Emily L. Fox 
+Mark Hopkins  D34
+-1  1666  -1
+------------
+Emanuel L. McMiller 
+Morgan  315
+-1  2946  5613988624
+------------
+Erica L. Moszkowski 
+Hubbell  103
+-1  1864  -1
+------------
+Emma L. B. Nuzzo 
+Sage C  406
+-1  2406  -1
+------------
+Emalie L. Rott 
+Carter  C02
+-1  1955  -1
+------------
+Elisabeth L. Schmitt 
+UNKNOWN
+-1  -1  -1
+------------
+Erica L. Wu 
+Carter  C23
+-1  3166  -1
+------------
+Elena L. Zifkin 
+Sage F  302
+-1  3005  -1
+------------
+Elvira Miceli 
+Currier  S15
+-1  1346  -1
+------------
+Eleanor A. McClements 
+Sage F  302
+-1  2358  -1
+------------
+Emma M. Benjamin 
+East  207
+-1  1335  -1
+------------
+Elliot M. Chester 
+Gladden  A43
+-1  1571  -1
+------------
+Emily M. Gerber 
+Carter  B45
+-1  1677  -1
+------------
+Elizabeth M. Hart 
+Williams D  106
+-1  2798  -1
+------------
+Elissa M. Hult 
+Bryant  C26
+-1  1733  -1
+------------
+Eric M. Kelley 
+Spencer  9
+-1  1703  -1
+------------
+Emily M. Loveridge 
+UNKNOWN
+-1  2894  5303209654
+------------
+Elizabeth M. Mitchell 
+Carter  C22
+-1  1371  6179133317
+------------
+Emily M. Norkett 
+Tyler  204
+-1  2993  -1
+------------
+Emma M. Wood 
+UNKNOWN
+-1  -1  -1
+------------
+Elizabeth Noh 
+Mills 2  M210
+4135976114  2401  -1
+------------
+Etienne N. Aduya 
+Currier  N22
+-1  1044  -1
+------------
+Elise N. Baker 
+Poker Flats  A205
+-1  1026  -1
+------------
+Emily N. Calkins 
+Sage E  204
+-1  2652  -1
+------------
+Ellen N. Cook 
+Fayerweather  217
+-1  1591  -1
+------------
+Emmanuel Ocampo 
+Dennett 4  D429
+-1  2414  -1
+------------
+Emma P. Cannon 
+Gladden  A04
+-1  1561  -1
+------------
+Eleanor P. F. Randolph 
+13 Grundy  Court
+-1  1434  -1
+------------
+Eric J. Robinson 
+Wood  B07
+-1  1455  -1
+------------
+Evelyn Rojas 
+Dennett 2  D221
+-1  2480  -1
+------------
+Eva R. Fourakis 
+Sage C  406
+-1  2179  -1
+------------
+Emily R. Hertz 
+Parsons  201
+-1  2807  -1
+------------
+Evan R. Lin 
+UNKNOWN
+-1  -1  -1
+------------
+Emily Rachel Leifer
+Fort Hoosac  14
+-1  Graduate  -1
+------------
+Eilin R. Perez 
+UNKNOWN
+-1  3016  -1
+------------
+Emily E. Stein 
+UNKNOWN
+-1  -1  -1
+------------
+Eugene Song 
+Sage C  105
+-1  2527  -1
+------------
+Emilie Slater
+UNKNOWN
+-1  -1  -1
+------------
+Eli S. Goldstein 
+Dennett 2  D229
+-1  2201  -1
+------------
+Elizabeth S. Hecht 
+Wood  206A
+-1  1240  -1
+------------
+Elanie S. Wilson 
+Agard  301
+-1  2068  -1
+------------
+Evelyn Tran 
+UNKNOWN
+-1  3122  -1
+------------
+Elijah T. Eaton 
+Dennett MD  D107
+-1  2148  -1
+------------
+Emily T. Gowen 
+71 Hoxsey  Street
+-1  1209  3022765310
+------------
+Emma T. Laukitis 
+15 Latham  Street
+-1  1309  -1
+------------
+Elizabeth Upchurch
+23 Main Street, Apt.  #3
+-1  -1  -1
+------------
+Elise V. Pitmon 
+Williams B  306
+-1  2445  -1
+------------
+Emma V. Rouse 
+Sage B  206
+-1  3052  -1
+------------
+Emma W. Bick 
+Tyler  209
+-1  1427  -1
+------------
+Emily W. Cook 
+41 Park  Street
+-1  1096  -1
+------------
+Eric W. Dietsche 
+Parsons  202
+-1  1120  -1
+------------
+Emily W. Irving 
+Sage E  209
+-1  2253  -1
+------------
+Felicia-Wrae A. Morgan 
+Agard  110
+-1  1863  -1
+------------
+Francis A. Pagliaro 
+Prospect  120
+-1  3007  -1
+------------
+Firas A. Shennib 
+West  202
+-1  3074  -1
+------------
+Fred B Guo 
+UNKNOWN
+-1  -1  -1
+------------
+Francis D. Simms II 
+UNKNOWN
+-1  3080  -1
+------------
+Feixue Gong 
+Williams D  205
+-1  2203  -1
+------------
+Farhan H. Gilani 
+Prospect  429
+-1  2519  4147951270
+------------
+Forbes J. Wilson 
+Williams F  202
+-1  2711  -1
+------------
+Fernando Lora Jr. 
+UNKNOWN
+-1  2892  -1
+------------
+Fan-Jean Liu
+UNKNOWN
+-1  -1  -1
+------------
+Fuad Mammadov
+1065 Main  Street
+-1  Center  -1
+------------
+Fanny R. Mlawer 
+Bryant  C22
+-1  2960  -1
+------------
+Faye T. A. S. E. Hussain 
+Sage A  302
+-1  2541  -1
+------------
+Felecia S. Farrell 
+UNKNOWN
+-1  2739  -1
+------------
+Felix S. Sun 
+Wood  311
+-1  1527  -1
+------------
+Fidelia Vasquez
+UNKNOWN
+-1  -1  -1
+------------
+Francisca V. Moraga 
+UNKNOWN
+-1  2966  -1
+------------
+Francis W. Worthington Jr. 
+Pratt 4  P403
+-1  2732  -1
+------------
+Fiona W. Dang 
+Bryant  C25
+-1  1607  -1
+------------
+Faraz W. Rahman 
+Currier  C35
+-1  3035  -1
+------------
+Frank Zheng 
+Sage A  203
+-1  3201  9142150673
+------------
+Garrett A. Anstreicher 
+Fayerweather  216
+-1  1079  -1
+------------
+Graeme A. Black 
+Williams F  206
+-1  1741  -1
+------------
+Gabrielle A. McPhaul-Guerrier 
+Dodd  214
+-1  1838  -1
+------------
+Giselle A. Trivino 
+Dodd  223
+-1  2029  -1
+------------
+Grace D. Bouton 
+UNKNOWN
+-1  2632  -1
+------------
+Gregory B. Becker 
+Brooks  301
+-1  1288  -1
+------------
+Geoff B. Danilack 
+Dennett 3  D327
+-1  2120  -1
+------------
+Gabriel Cervantes 
+Spencer  2C
+-1  1084  -1
+------------
+Gabriela Contreras-Cisneros 
+Dodd  223
+-1  1589  -1
+------------
+Grace C. Babula 
+UNKNOWN
+-1  -1  -1
+------------
+Gabriella C. Kallas 
+Sage F  402
+-1  2273  -1
+------------
+Geordie C. Lonza 
+Woodbridge  209
+-1  3181  -1
+------------
+Gabrielle M. DiBenedetto 
+Armstrong 4  A430
+-1  2132  -1
+------------
+Gregory D. Eusden 
+Gladden  C03
+-1  1147  -1
+------------
+Gabrielle D. Vukasin 
+Morgan  426
+-1  3136  -1
+------------
+Galen E. Corey 
+UNKNOWN
+-1  2685  -1
+------------
+Gideon E. Hess 
+Williams A  110
+-1  2235  -1
+------------
+Grace E. Murray 
+Gladden  B23
+-1  1381  -1
+------------
+Gwendolyn E. Schultz 
+East  305
+-1  1969  -1
+------------
+Gabriela F. Azevedo 
+Gladden  B55
+-1  1128  -1
+------------
+Gabor Gurbacs 
+Gladden  C31
+-1  2788  4134754393
+------------
+George G. Gurney Jr. 
+Prospect  412
+-1  1223  -1
+------------
+Griffith G. Simon 
+Mark Hopkins  B31
+-1  1982  -1
+------------
+Garrett G. Welson 
+Currier  C24
+4135976719  2057  -1
+------------
+Grace H. Wilson 
+Prospect  226
+-1  3184  -1
+------------
+Gillian I. Wood 
+UNKNOWN
+-1  3188  -1
+------------
+Gloria J. H. Joo 
+Fayerweather  204
+-1  1743  -1
+------------
+Gregory S. Johnson 
+Williams C  305
+-1  2268  -1
+------------
+Grace Kim 
+West  208
+-1  1757  -1
+------------
+Gillian K. Hornor 
+Mark Hopkins  B42
+-1  1725  -1
+------------
+Gabriel K. Staton 
+Williams B  205
+-1  2532  -1
+------------
+Guannan Lu 
+Fitch  206B
+-1  2036  4138845439
+------------
+Gregory L. Stone 
+Dennett 4  D408
+-1  2538  -1
+------------
+Grace L. Weatherall 
+Pratt 3  P323
+-1  2588  -1
+------------
+Gracia Manzanares 
+Dodd  224
+-1  1811  -1
+------------
+Giorgi Mamatelashvili
+1065 Main  Street
+-1  Center  -1
+------------
+Gregory M. Ferland 
+Dennett 4  D411
+-1  2169  -1
+------------
+Gordon M. Finnie 
+Williams F  206
+-1  2173  -1
+------------
+Griffin M. Hewitt 
+UNKNOWN
+-1  -1  -1
+------------
+Gabriel M. Lewis 
+190 Water  Street
+-1  1317  -1
+------------
+Gia M. Recco 
+Pratt 3  P305
+-1  3036  -1
+------------
+Ginette M. Sims 
+Hubbell  202
+-1  1506  -1
+------------
+Giselle N. Lynch 
+68 Spring Street 2  Danforth
+-1  1321  -1
+------------
+Gerardo P. Garcia 
+Armstrong 4  A409
+-1  2186  -1
+------------
+Gordon P. Smith 
+Poker Flats  C101
+-1  1513  -1
+------------
+Gulnara Radjapova 
+Garfield  118
+-1  3034  -1
+------------
+Grace R. Horwitz 
+71 Hoxsey  Street
+-1  1260  -1
+------------
+Georgiana M. Salant 
+Prospect  223
+-1  3057  -1
+------------
+Gabriel O. Samach 
+East  209
+-1  1962  9144711349
+------------
+Gordon S. Bauer 
+UNKNOWN
+-1  1557  -1
+------------
+Guedis S. Cardenas 
+Morgan  010
+-1  1562  -1
+------------
+Grace S. Lapier 
+Poker Flats  F202
+-1  1308  -1
+------------
+Gillian S. Miller-Lewis 
+Mills 2  M227
+-1  2374  -1
+------------
+Graham S. Righi 
+21 Spring Street Apt.  #8
+-1  1448  -1
+------------
+Gabriel S. Stephens 
+Carter  A45
+-1  2000  -1
+------------
+Grant A. Torres 
+UNKNOWN
+-1  -1  -1
+------------
+Gabriela T. Bronfman 
+East  311
+-1  1545  -1
+------------
+Gregory J. H. Kehne 
+Armstrong 2  A203
+-1  2277  -1
+------------
+Grace T. Rehnquist 
+Garfield  203
+-1  1441  -1
+------------
+Galen T. Squiers 
+Dennett MD  D112
+-1  2530  -1
+------------
+Justin V. Guttek 
+UNKNOWN
+-1  -1  -1
+------------
+George W. Dunbar
+UNKNOWN
+-1  -1  -1
+------------
+Gregory W. Payton 
+Carter  A32
+-1  3013  -1
+------------
+Hayk Ayvazyan
+1065 Main  Street
+-1  Center  -1
+------------
+Hayley A. Cook 
+UNKNOWN
+-1  2684  -1
+------------
+Hussein A. Ireri 
+Williams C  306
+-1  2251  -1
+------------
+Hunter A. Lent 
+UNKNOWN
+-1  -1  -1
+------------
+Herrick A. Sullivan 
+Sewall  103
+-1  1526  -1
+------------
+Haley A. Stewart 
+Gladden  B32
+-1  2003  -1
+------------
+Hector A. Trujillo 
+Williams F  402
+-1  2562  3235945937
+------------
+Hyun Kyoung Cho 
+42 Moorland  Street
+-1  1086  -1
+------------
+Hoi Ching Cheung 
+Williams D  203
+-1  2090  -1
+------------
+Harrison C. Gatlin 
+Williams F  403
+-1  2192  -1
+------------
+Holly C. Harper 
+UNKNOWN
+-1  -1  -1
+------------
+Hana C. Tomozawa 
+Fayerweather  210
+-1  2023  -1
+------------
+Henry D. Gaines 
+Tyler Annex  109
+-1  1673  -1
+------------
+Heather E. Biehl 
+UNKNOWN
+-1  2627  -1
+------------
+Hadley E. Boltres 
+Williams F  302
+-1  1770  -1
+------------
+Hadley E. DesMeules 
+Armstrong 2  A221
+-1  2129  -1
+------------
+Haley E. Eagon 
+39B Spring  Street
+-1  1136  -1
+------------
+Hannah E. Hindel 
+Susie Hopkins  101
+-1  1248  -1
+------------
+Hannah E. Ohlson 
+Mark Hopkins  A34
+-1  1897  -1
+------------
+Hamza Farrukh 
+Morgan  325
+-1  1655  4133468723
+------------
+Helena F. Barber 
+Williams B  308
+-1  1336  -1
+------------
+Hannah F. F. Levin 
+Williams A  204
+-1  2316  -1
+------------
+Harry H.K. Gilbert 
+Gladden  A31
+-1  2767  -1
+------------
+Hailey H. Herring-Newbound 
+Mills 3  M328
+4135976886  2234  -1
+------------
+Hannah J. Brown 
+Pratt 4  P421
+-1  1867  -1
+------------
+Henry J. S. Coats 
+UNKNOWN
+-1  2677  -1
+------------
+Haley J. Ladd-Luthringshauser 
+Mark Hopkins  B33
+-1  1766  -1
+------------
+Haley J. Mahar 
+Sage B  208
+-1  2345  -1
+------------
+Haley J.J. Pessin 
+Hubbell  205
+-1  1421  -1
+------------
+Harrison J. Weber 
+Sage A  110
+-1  2589  -1
+------------
+Howard J. Weiss 
+Armstrong 4  A413
+-1  2590  -1
+------------
+Holly K. Fisher 
+Morgan  117
+-1  1163  -1
+------------
+Hayden K. Rooke-Ley 
+West  104
+-1  3048  -1
+------------
+Hrishikesh K. Srinagesh 
+63 North  Street
+-1  1517  -1
+------------
+Henry K Schmidt 
+UNKNOWN
+-1  3065  3147798076
+------------
+Hanna Lee 
+Fayerweather  313
+-1  1772  -1
+------------
+Haena M. Lee 
+Lehman  104B
+-1  2873  -1
+------------
+Henry L. Drewyer 
+East  312
+-1  2716  -1
+------------
+Hannah L. Van Wetter 
+Fayerweather  310
+-1  2034  -1
+------------
+Hannah L. Wang 
+41 Park  Street
+-1  2460  -1
+------------
+Hayley M. Elszasz 
+Pratt 3  P322
+-1  2156  -1
+------------
+Heath M. Goldman 
+Lambert  204
+-1  1198  -1
+------------
+Hannah M. Kaemmer 
+71 Hoxsey  Street
+-1  1280  -1
+------------
+Helen M. Song 
+UNKNOWN
+-1  3089  -1
+------------
+Hamza M Zaidan 
+Garfield  101
+-1  3197  -1
+------------
+Henry P. Megley 
+UNKNOWN
+-1  2950  -1
+------------
+Herbert P. Smith 
+Prospect  101
+-1  1990  -1
+------------
+Hillary Reder
+Fort Hoosac  9
+-1  Graduate  -1
+------------
+Hannah R. Friedland 
+Bryant  B44
+-1  1669  -1
+------------
+Henry K. Su 
+Gladden  C22
+-1  1524  -1
+------------
+Haley P. Sallquist 
+Prospect  119
+-1  1961  -1
+------------
+Henry S. Bergman 
+Bryant  B23
+-1  1362  -1
+------------
+Hillary S. Cook 
+Brooks  305
+-1  1592  -1
+------------
+Helen S. O'Brien 
+Dennett 2  D201
+-1  2409  -1
+------------
+Hayley S. Swan 
+18-20 Meadow  Street
+-1  1529  -1
+------------
+Heidi Tan 
+Goodrich  1
+-1  2013  -1
+------------
+Helen Tang 
+Dennett 4  D424
+-1  2548  -1
+------------
+Hikari Tanaka
+Mills 2  M229
+-1  3206  -1
+------------
+Henry W. Koster IV 
+UNKNOWN
+-1  2850  -1
+------------
+Hannah W. Smith 
+Prospect  118
+-1  1989  -1
+------------
+Haotian Xu 
+Dodd  204
+-1  3168  8323858229
+------------
+Isaac A. Abodunrin 
+UNKNOWN
+-1  -1  -1
+------------
+Ian A. McLean 
+Currier  N20
+-1  1356  -1
+------------
+Ivan A. Rybkin 
+Agard  201
+-1  1957  -1
+------------
+Isabel A Yoon 
+Prospect  416
+-1  3195  -1
+------------
+Ivan N. Badinski 
+Lehman  101A
+-1  2607  -1
+------------
+Ilya D. Amburg 
+West  311
+-1  2547  -1
+------------
+Ivan Evsyukov 
+UNKNOWN
+-1  -1  -1
+------------
+Ilana Ellis 
+UNKNOWN
+-1  2729  -1
+------------
+Isabel E. Abraham-Raveson 
+Currier  B3
+-1  1002  -1
+------------
+Isabel F. Vazquez 
+UNKNOWN
+-1  3132  -1
+------------
+Ivory N. Goudy 
+Perry  11
+-1  1206  -1
+------------
+Isabelle Gillet
+UNKNOWN
+-1  Graduate  -1
+------------
+Isabel A. Hanson 
+Mills 2  M208
+-1  2226  -1
+------------
+Isaiah H. Leonard 
+Mark Hopkins  D43
+-1  1777  -1
+------------
+Iman I. Lipumba 
+Thompson  304
+-1  2884  -1
+------------
+Ivan J. Huerfano 
+Mark Hopkins  D45
+-1  1730  -1
+------------
+Isaac K. Johnson 
+Williams A  408
+-1  2269  -1
+------------
+Isaac C. Loh 
+Agard  217
+-1  1789  -1
+------------
+Irene Lim 
+Armstrong 4  A431
+4135972824  2326  -1
+------------
+Inan L. Barrett 
+18-20 Meadow  Street
+-1  1031  -1
+------------
+Isaac Maze-Rothstein 
+UNKNOWN
+-1  -1  -1
+------------
+Ivan Marrero 
+Pratt 4  P429
+-1  2351  7862538820
+------------
+Isaiah M. Clark 
+Garfield  116
+-1  1582  -1
+------------
+Irene M. Castillo 
+Mills 2  M230
+-1  2077  -1
+------------
+Isabella M. Ferre 
+Perry  16B
+-1  2745  -1
+------------
+Isabel M. Griffin-Smith 
+Woodbridge  204
+-1  1213  -1
+------------
+Isabel M. Greer 
+Mark Hopkins  C24
+-1  2785  -1
+------------
+Isaac M. Hoenig 
+Currier  C21
+-1  2814  -1
+------------
+Ian Nesbitt 
+Poker Flats  D205
+-1  1389  -1
+------------
+Isabella M. Tillman 
+Dennett MD  D106
+-1  2558  -1
+------------
+Ivana Nikolau 
+Dennett 4  D407
+-1  2990  -1
+------------
+Ioannis R. Florokapis 
+Armstrong 4  A424
+-1  2176  -1
+------------
+Isabel Zaiss
+UNKNOWN
+-1  -1  -1
+------------
+Josselyn Atahualpa 
+Spencer  5A
+-1  1016  -1
+------------
+Jan-Erik Asplund
+UNKNOWN
+-1  -1  -1
+------------
+Jennifer A. Akotoh 
+Agard  110
+-1  1061  -1
+------------
+Joseph A. Baca III 
+East  208
+-1  1137  -1
+------------
+Joseph A. Bianco 
+Williams B  406
+-1  1623  -1
+------------
+Julia A. Cobb 
+Sage D  203
+-1  2100  -1
+------------
+Jorge A. Castro 
+Pratt 3  P329
+-1  2078  -1
+------------
+Jacob A. Goldenring 
+Fayerweather  103
+-1  1681  -1
+------------
+Jonathan A. Gonzalez 
+Bryant  C21
+-1  1683  -1
+------------
+Jason A. Hernandez 
+Fitch  303A
+-1  1243  -1
+------------
+Justin A. Hunte 
+Currier  N34
+-1  1265  -1
+------------
+James A. Hitchcock 
+Agard  205
+-1  1720  -1
+------------
+Joyce A. Huang 
+Dennett 3  D302
+-1  2245  -1
+------------
+James A. Lowenthal
+UNKNOWN
+-1  -1  -1
+------------
+Jennifer A. Monge 
+UNKNOWN
+-1  -1  Morgan406
+------------
+Joseph A. Mallock 
+UNKNOWN
+-1  -1  -1
+------------
+James A. Mazur 
+UNKNOWN
+-1  -1  -1
+------------
+Jared A. Nowell 
+Fayerweather  115
+-1  1888  -1
+------------
+Jackline A. Odhiambo 
+Lehman  206B
+4135976382  1901  4132424582
+------------
+John A. Okemah 
+Sage C  305
+-1  2417  -1
+------------
+John A. Puskas 
+UNKNOWN
+-1  -1  -1
+------------
+Joshua A.R. Revkin 
+Milham  202
+-1  1444  -1
+------------
+Jeffrey A. Rovenpor 
+Thompson  104
+-1  1464  -1
+------------
+Jason A. Ring 
+Armstrong AP  A106
+-1  2468  -1
+------------
+Jennifer A. Slade
+UNKNOWN
+-1  -1  -1
+------------
+Jessica A. Wicker 
+Bryant  C21
+-1  3149  9199436683
+------------
+Jessica Bernheim 
+Sage E  305
+-1  1577  -1
+------------
+JiHye Baek 
+Lehman  204C
+-1  1021  -1
+------------
+John B. Bourke 
+Morgan  415
+-1  2609  -1
+------------
+Jade B. Carter 
+Prospect  220
+-1  1078  -1
+------------
+Jesse B. Freeman 
+Brooks  308
+-1  1668  -1
+------------
+James B. Gruseke 
+Fayerweather  113
+-1  1699  -1
+------------
+James B. Marvel-Coen 
+Bryant  B24
+-1  1819  -1
+------------
+John B. Sanderson 
+Currier  C23
+-1  3060  3399271634
+------------
+Jacob B. Tamposi 
+Sage E  109
+-1  2546  -1
+------------
+Jane B. Wilde 
+Brooks  303
+-1  3178  -1
+------------
+Julius R. Collado 
+Fayerweather  307
+-1  1586  -1
+------------
+Juno Cho 
+Bryant  B22
+-1  1576  -1
+------------
+Jack Chen
+UNKNOWN
+-1  -1  -1
+------------
+Jenna C. Adams 
+Sage A  209
+-1  1953  -1
+------------
+Jennifer C. Borderud 
+18-20 Meadow  Street
+-1  1054  -1
+------------
+Jeff C. Brewington Jr. 
+Tyler  312
+-1  2639  -1
+------------
+John C. Bissell 
+Mills 4  M431
+-1  1653  -1
+------------
+Julia C. Cohan 
+UNKNOWN
+-1  -1  -1
+------------
+John C. Hawthorne 
+Dodd  320
+-1  1239  -1
+------------
+Julio C. Luquin Fausto 
+Bryant  A36
+-1  1333  -1
+------------
+Jackson C. Lauroesch 
+Williams A  102
+-1  2303  -1
+------------
+John C. Russell 
+Sage E  106
+-1  2489  -1
+------------
+Jackson C. Ryan 
+Armstrong 4  A421
+-1  2490  -1
+------------
+Jacob C. Stark 
+Morgan  413
+-1  3094  -1
+------------
+John C Weinheimer 
+Mills 2  M205
+-1  3147  -1
+------------
+John C. Witty III
+UNKNOWN
+-1  Graduate  -1
+------------
+Jeffrey C. Wang 
+Sage C  107
+-1  2581  -1
+------------
+Jacob D. Addelson 
+Sage F  204
+-1  1956  9785053357
+------------
+John D. Bond 
+Williams E  303
+-1  1779  -1
+------------
+Jared D. Hallett 
+Gladden  C35
+-1  2791  -1
+------------
+Jeremy D. Markson 
+Garfield  307
+-1  1813  -1
+------------
+James D. Nolan 
+Currier  S30
+-1  1064  -1
+------------
+James D. Page 
+Spring Street Apt.  #2
+-1  1409  -1
+------------
+Jaclyn D. Porfilio 
+Carter  C44
+-1  1930  -1
+------------
+Jack T. Ervasti 
+11-13 Meadow  Strett
+-1  1146  -1
+------------
+Jesus Espinoza 
+Williams A  109
+-1  2160  7025731458
+------------
+Jonathan E. Brenner 
+Tyler  203
+-1  2118  -1
+------------
+Josephine E. Cook 
+UNKNOWN
+-1  -1  -1
+------------
+Julia E. Damion 
+West  305
+-1  1606  -1
+------------
+James E. Dunivan 
+Sage F  202
+-1  2143  -1
+------------
+Julia E. Diaz 
+Armstrong 2  A209
+-1  2131  -1
+------------
+Joshua E. Geller 
+Carter  A22
+-1  2764  -1
+------------
+Jenay E. Haskins 
+Parsons  103
+4135973359  1238  -1
+------------
+Jacqueline E. Lusardi 
+UNKNOWN
+-1  2900  -1
+------------
+Jacqueline E. Lee 
+Gladden  A56
+-1  1773  -1
+------------
+Julia E. Marver 
+Lehman  203A
+-1  2925  -1
+------------
+Josephine E.V. McDonald 
+UNKNOWN
+-1  2935  -1
+------------
+Jessica E. Monterrosa Mena 
+Gladden  B24
+-1  2961  -1
+------------
+Jacob E. Munach 
+West  403
+-1  2392  -1
+------------
+Jonathan E. Pekar 
+UNKNOWN
+-1  3014  -1
+------------
+Jonathan E. M. Reder 
+Pratt 2  P222
+-1  2462  -1
+------------
+Justin E. Toomer 
+189 Stratton  Road
+-1  1834  -1
+------------
+Julia E. van Hoogstraten 
+UNKNOWN
+-1  -1  -1
+------------
+Jonathan E. Wosen 
+Morgan  409
+-1  3164  -1
+------------
+Jocelyn H. Fifield 
+Lambert  205
+-1  1157  -1
+------------
+Julieanne Fontana 
+UNKNOWN
+-1  2754  -1
+------------
+Jasmine F. Adekoya 
+UNKNOWN
+-1  -1  -1
+------------
+Jacob F. Blau 
+Mark Hopkins  D46
+-1  1451  -1
+------------
+James F. Howe 
+Sage D  305
+-1  2242  -1
+------------
+Julia F. Juster 
+Prospect  323
+-1  2835  -1
+------------
+John F. Martin Jr. 
+Williams F  403
+-1  2352  -1
+------------
+Jacob G. Gelman 
+Fitch  201A
+-1  1188  -1
+------------
+Jennifer Garcia 
+Morgan  110
+-1  1181  -1
+------------
+Jennifer Galaviz 
+Morgan  008
+-1  1674  -1
+------------
+Jay Gbleh-bo Brown
+1065 Main  Street
+-1  Center  4135972631
+------------
+Joshua G. Nimer 
+Morgan  320
+-1  2991  -1
+------------
+James G. Ray 
+Morgan  101
+-1  1438  -1
+------------
+Jacob G. Verter 
+Pratt 3  P328
+-1  2576  -1
+------------
+Heng Chao J. Gu 
+Currier  C34
+-1  3158  -1
+------------
+John H. Greenwald 
+Williams B  407
+-1  2211  -1
+------------
+Julia H. Nguyen 
+Gladden  B25
+-1  2983  -1
+------------
+Jane H. Youngberg 
+Poker Flats  C102
+-1  3175  -1
+------------
+Joy Jing 
+Fitch  208
+-1  1274  -1
+------------
+Jennifer Jauregui 
+West  206
+-1  2826  -1
+------------
+Jallicia A. Jolly 
+UNKNOWN
+-1  2832  -1
+------------
+Julie Jung 
+UNKNOWN
+-1  1746  -1
+------------
+Justin Jones 
+Williams C  106
+-1  2272  -1
+------------
+Jaliz J. Albanese 
+Currier  S22
+-1  1007  -1
+------------
+Jabulani J. Blyden 
+Lehman  203B
+-1  1051  -1
+------------
+James J. Elish 
+Prospect  422
+-1  1143  -1
+------------
+Jessica J. Fitts 
+41 Park  Street
+-1  1164  -1
+------------
+Joseph J. Haddad 
+15 Spring  Street
+-1  1226  -1
+------------
+Jennifer J. Helinek 
+Currier  B3
+-1  1712  -1
+------------
+Jacqueline J. Harris 
+Sage E  309
+-1  2231  -1
+------------
+Joe J. Long 
+Thompson  204
+-1  1325  -1
+------------
+Jeffrey J. Riemann 
+Perry  14A
+-1  1447  -1
+------------
+Jennifer J. Turner 
+Poker Flats  B202
+-1  2076  -1
+------------
+Jay J. Xu 
+UNKNOWN
+-1  -1  7156999161
+------------
+Jens J. Zentil 
+UNKNOWN
+-1  3198  -1
+------------
+Joseph K. Aduboffour 
+Gladden  C12
+4135973841  1034  -1
+------------
+Jesper K. Bodd 
+Mark Hopkins  B32
+-1  1452  -1
+------------
+Julia K. Davis 
+UNKNOWN
+-1  2695  -1
+------------
+Jalynne K. Figueroa 
+Fitch  306B
+-1  1158  -1
+------------
+Jeremy K. Gold 
+UNKNOWN
+-1  2774  -1
+------------
+Joshua K. Helmkamp 
+Tyler Annex  115
+-1  1715  -1
+------------
+Jonas K. Luebbers 
+Williams B  206
+-1  2338  -1
+------------
+Joel K. Lee 
+Williams D  004
+-1  2309  -1
+------------
+Jennifer K. Potvin 
+UNKNOWN
+-1  -1  -1
+------------
+Joshua K. Torres 
+Perry  B5
+-1  2026  -1
+------------
+Jieming Liu 
+Fayerweather  309
+-1  1787  -1
+------------
+Joseph W. Leidy 
+Poker Flats  C202
+-1  1313  -1
+------------
+Jingyi Liu 
+UNKNOWN
+-1  2886  -1
+------------
+Jessica Luning 
+Bryant  C36
+-1  2898  -1
+------------
+Joan L. Brunetta 
+Thompson  108
+-1  1549  -1
+------------
+Jennifer L. Chan 
+UNKNOWN
+-1  2662  -1
+------------
+Jamie L. Dickhaus 
+247 Eleanor  Road
+-1  2704  4134419619
+------------
+Jonathan L. Dely 
+Carter  A44
+-1  1618  -1
+------------
+Jillian L. Giornelli 
+UNKNOWN
+-1  2769  -1
+------------
+Jasmyne L. Grismore 
+West  309
+-1  1696  5712590343
+------------
+Jennifer L.-L. Law 
+Poker Flats  E202
+-1  1332  -1
+------------
+Jorge L. Lopez 
+Dennett 2  D230
+-1  2337  -1
+------------
+Jessica L. Stertzer 
+63 Hoxsey Street Apt.  #5
+-1  1520  -1
+------------
+Juana Manzanares-Torres 
+Williams C  407
+-1  2349  -1
+------------
+Javier Mariscal 
+Bryant  A34
+-1  1343  3106253392
+------------
+John T. Mackessy Jr. 
+UNKNOWN
+-1  2903  -1
+------------
+Julia B. Matejcek 
+Gladden  A25
+-1  1820  -1
+------------
+John Maimone-Medwick 
+Fayerweather  110
+-1  1803  -1
+------------
+Jeffrey M. Bak 
+UNKNOWN
+-1  -1  -1
+------------
+Joowon M. Choi 
+Prospect  301
+-1  1578  -1
+------------
+Jennifer M. Doctolero 
+Gladden  B22
+-1  2707  -1
+------------
+Johanna M. Dombrowski 
+Sage D  304
+-1  2136  -1
+------------
+Julia M. Embry 
+Perry  5B
+-1  1145  -1
+------------
+Jeffrey M. Fossett 
+Dodd  203
+-1  1171  -1
+------------
+Julian M. Fernandez 
+Currier  C31
+-1  2741  -1
+------------
+Jennifer M. Gossels 
+Morgan  229
+-1  1205  -1
+------------
+Julian M. Hess
+UNKNOWN
+-1  -1  9175962412
+------------
+James M. Kinney 
+Tyler  311
+-1  2848  -1
+------------
+Joannlee M. Lebron 
+UNKNOWN
+-1  2869  -1
+------------
+Jay M. Mehta 
+Poker Flats  C201
+-1  1361  -1
+------------
+Julia M. May 
+Lehman  305
+-1  2927  -1
+------------
+Jenna M. Maddock 
+Bryant  B43
+-1  1801  -1
+------------
+Jessica M. Plumbley 
+Susie Hopkins  204
+-1  1428  -1
+------------
+James M. Rosten 
+Lambert  101
+-1  1463  -1
+------------
+Jasmine M. Thomasian 
+Thompson  120
+-1  2016  -1
+------------
+Joseph N. Benenati 
+Dennett 2  D212
+-1  1410  -1
+------------
+John N. Ho 
+Morgan  410
+-1  2813  -1
+------------
+Julie N. Le 
+Wood  313
+-1  2911  -1
+------------
+Jessica N. Ndungu 
+West  204
+-1  1388  -1
+------------
+Jordan N.M. Roberts 
+Woodbridge  210
+4135972626  1450  -1
+------------
+Jillian N. Schwiep 
+62 Spring Street Apt.  #2
+-1  1481  -1
+------------
+Jessica G.K. O'Brien 
+Sage D  303
+-1  2410  -1
+------------
+Jochebed O. Bogunjoko 
+Mills 2  M228
+-1  1760  -1
+------------
+Jean-Luc O. Etienne 
+Tyler Annex  106
+-1  1651  -1
+------------
+John O. Noelke 
+Currier  S35
+-1  1398  2012071209
+------------
+John P. Atchue 
+East  113
+-1  1090  -1
+------------
+Jennifer P. Ginsberg 
+Milham  301
+4135972535  1193  -1
+------------
+Joshua P. Harrington 
+Mills 2  M202
+-1  2230  -1
+------------
+Justin P. Mangope 
+Goodrich  5
+4135975973  1341  -1
+------------
+John P. McKenna 
+Carter  B36
+-1  2941  -1
+------------
+Julie P. Okorn 
+UNKNOWN
+-1  -1  -1
+------------
+John P. Sutton 
+Fayerweather  303
+-1  2009  -1
+------------
+Jose M. Raventos 
+Pratt AP  P102
+4135976730  2461  -1
+------------
+Jesse Rodriguez 
+Sage E  108
+-1  2475  -1
+------------
+Jacqueline Rodriguez 
+East  213
+-1  1944  -1
+------------
+John R. Armstrong IV 
+Wood  309C
+-1  1015  4843432461
+------------
+Jeanelle R. Augustin 
+Bryant  B25
+-1  1118  -1
+------------
+Julia R. Bender Stern 
+Wood  210A
+-1  1038  -1
+------------
+Jacob R. Butts 
+Sage B  205
+-1  2649  -1
+------------
+Jason R. Briggs 
+East  102
+-1  2641  -1
+------------
+Jeremy R. Boissevain 
+Prospect  106
+-1  1458  -1
+------------
+John R. Bihn 
+Dennett 4  D409
+-1  1632  -1
+------------
+Judith R. Clerjeune 
+West  409
+-1  2676  -1
+------------
+Julia R.K. Cline 
+Tyler Annex  308
+-1  1584  -1
+------------
+Jordan R. Dallas
+UNKNOWN
+-1  -1  8643846060
+------------
+John R. Damstra 
+Sage B  107
+-1  2116  -1
+------------
+Janna R. Gordon 
+UNKNOWN
+-1  -1  -1
+------------
+Johnny R. Hinojosa 
+Wood  209A
+-1  1249  -1
+------------
+Jennie R. L. Harding 
+Fitch  203B
+-1  1235  -1
+------------
+Joseph R. Iafrate 
+Currier  B11
+-1  2820  -1
+------------
+James R. Klemm 
+Garfield  308
+-1  1292  -1
+------------
+Joseph R. Kinney 
+Fayerweather  111
+-1  1759  7202573198
+------------
+Joseph R. Kilcullen 
+Tyler Annex  216
+-1  1636  -1
+------------
+Jessamyn R. Lockard 
+UNKNOWN
+-1  -1  -1
+------------
+Jacqueline R. Lane 
+Sage C  205
+-1  2300  -1
+------------
+Jelani R. Medford 
+UNKNOWN
+4135973822  2949  -1
+------------
+Juan R. Mena 
+Mark Hopkins  A25
+-1  1843  -1
+------------
+Justine R. Neubarth 
+Poker Flats  E102
+-1  1390  -1
+------------
+Julie R. Paschal 
+Agard  214
+-1  1415  -1
+------------
+Julia R. Seyferth 
+UNKNOWN
+-1  -1  -1
+------------
+Jesse R Sardell 
+Lehman  103C
+-1  3062  -1
+------------
+Jillian R. H. Stallman 
+Agard  209
+-1  1997  -1
+------------
+Jacob R. Slater 
+Carter  C32
+-1  1987  -1
+------------
+James R. Temple 
+Armstrong 4  A412
+-1  2554  -1
+------------
+James R. Wilcox 
+Gladden  C26
+-1  3121  6153321102
+------------
+John R. Wickman 
+15 Spring Street Apt.  #21
+-1  3100  -1
+------------
+Joseph R. Wetherell 
+Morgan  209
+-1  3148  -1
+------------
+Jirapat Samranvedhya 
+West  209
+-1  3058  4133514462
+------------
+Joon Hun Seong 
+Armstrong 2  A225
+-1  3070  -1
+------------
+Janine C. Stuart 
+UNKNOWN
+-1  -1  -1
+------------
+Jamie S. Baik 
+UNKNOWN
+-1  2610  -1
+------------
+Jack S. Bequeaith 
+Mills 4  M430
+-1  1484  -1
+------------
+Julian S. Drobetsky 
+11 Meadow  Street
+-1  2718  2035899634
+------------
+Johanna S. Eidmann 
+Prospect  214
+-1  2724  -1
+------------
+Jace S. Forbes-Cockell 
+Sage C  306
+-1  2177  -1
+------------
+Julia S. Hoch 
+Hubbell  206
+-1  1722  -1
+------------
+Jody S. Kremer 
+Currier  N33
+-1  1298  -1
+------------
+Joshua S. Miller-Lewis 
+UNKNOWN
+-1  2957  -1
+------------
+Joshua S. C. Morrison 
+Pratt 3  P309
+-1  2387  -1
+------------
+Jackson S. Saul 
+Currier  S33
+-1  1475  -1
+------------
+Julia S. Simon 
+UNKNOWN
+-1  3081  -1
+------------
+Jin S. Su 
+UNKNOWN
+-1  3105  -1
+------------
+John S. Wawrose 
+Thompson  313
+-1  3144  -1
+------------
+Jonathan S. Westling 
+Sage F  103
+-1  2593  -1
+------------
+Jacob T. Abrahams 
+Spencer  13
+-1  1822  -1
+------------
+Jonathan T. Berry 
+Pratt 2  P203
+-1  1617  -1
+------------
+Julia T. Carroll 
+UNKNOWN
+-1  -1  -1
+------------
+John T. Foehl 
+Williams F  205
+-1  2753  -1
+------------
+John T. Gorman 
+UNKNOWN
+-1  -1  -1
+------------
+Jaclyn T. Milian 
+Milham  303
+4135973759  1367  -1
+------------
+Jocelyn T. Volk 
+Williams F  105
+-1  2578  -1
+------------
+Jacob T. Walls 
+UNKNOWN
+-1  -1  -1
+------------
+Joel Vall Thomas
+One College  Drive
+4135973792  -1  -1
+------------
+John V. Hoover 
+Currier  B1
+-1  1724  -1
+------------
+Jack V. Schweighauser 
+Currier  N25
+-1  1970  -1
+------------
+Joshua M. Wilson 
+UNKNOWN
+-1  -1  -1
+------------
+Jiaqi Wang 
+Parsons  203
+-1  3139  -1
+------------
+James W. Grzelak 
+Susie Hopkins  203
+-1  1218  -1
+------------
+John W. Hammond 
+Mills MD  M109
+-1  2224  -1
+------------
+James W. O'Grady 
+Sage B  106
+-1  2416  -1
+------------
+Jackson W Scher 
+Thompson  124
+-1  3064  -1
+------------
+Jonathan W. Yin 
+Mills 3  M321
+-1  2888  -1
+------------
+Jingwei Xu 
+Williams A  103
+-1  2777  -1
+------------
+Jung Chan Yee 
+Bryant  A31
+-1  3172  -1
+------------
+Jimeen Yoo 
+Tyler  208
+-1  2297  -1
+------------
+Jeewon Yoo 
+Bryant  B36
+-1  2260  -1
+------------
+Jonathan S. Yu 
+Mills 4  M409
+4135972710  2917  -1
+------------
+Jiuwei Yin 
+Sage B  107
+-1  2845  -1
+------------
+Kavitha Arunasalam
+1065 Main  Street
+-1  Center  -1
+------------
+Katherine A. Amano 
+Poker Flats  D201
+-1  1012  -1
+------------
+Kyle A. Bolo 
+Hubbell  304
+-1  1052  -1
+------------
+Kathryn A. Dryer 
+Dennett 2  D207
+-1  2717  -1
+------------
+Kimberly A. Golding 
+Mills 2  M231
+-1  2198  -1
+------------
+Katherine A. Jolin 
+East  304
+-1  1740  -1
+------------
+Kathryn Kirkpatrick 
+UNKNOWN
+-1  -1  -1
+------------
+Kelsey A. Loy 
+Gladden  B06
+-1  1795  -1
+------------
+Karyn A. Moss 
+UNKNOWN
+-1  -1  -1
+------------
+Kathryn A. McNaughton 
+Sage E  303
+-1  2366  -1
+------------
+Kevin A. Morrell 
+Thompson  106
+-1  2976  -1
+------------
+Kelly A. Nault 
+UNKNOWN
+-1  -1  -1
+------------
+Katherine A. Newcomer 
+UNKNOWN
+-1  2982  -1
+------------
+Kathryn A Rondeau 
+Williams B  106
+-1  3047  -1
+------------
+Khan Asfandyar G. Shairani 
+Mark Hopkins  17B
+-1  1975  5082891790
+------------
+Kayla A. Shore 
+Sage F  403
+-1  2512  -1
+------------
+Kiah A. Walker 
+Carter  C05
+-1  2044  -1
+------------
+Kathleen A. Westervelt 
+Sage D  204
+-1  2592  -1
+------------
+Klejdi Banka 
+East  101
+-1  1196  -1
+------------
+Katherine B. Bennett 
+Williams B  308
+-1  1445  -1
+------------
+Kelsey B. Gauger 
+UNKNOWN
+-1  2763  -1
+------------
+Kwasi B. Offei-Addo 
+Bryant  B21
+-1  1896  -1
+------------
+Kang-Yee J. Chyou 
+West  109
+-1  1580  -1
+------------
+Kyung Jun Chae 
+Sage B  308
+-1  2081  -1
+------------
+Kathryn C. Barrows 
+Morgan  109
+-1  1032  -1
+------------
+Kathryn C. Ha 
+Wood  203B
+-1  1225  -1
+------------
+Kristin C. Halvorsen 
+Prospect  222
+-1  2794  -1
+------------
+Karina C. Hofstee 
+UNKNOWN
+-1  2815  -1
+------------
+Katherine C. Kiernan 
+Fitch  211
+-1  1753  -1
+------------
+Kenneth C. Murphy 
+11 Meadow  Street
+-1  1380  -1
+------------
+Kiara C. Valdez 
+Sage A  408
+-1  2570  -1
+------------
+Kyle Duncker Kastick 
+UNKNOWN
+-1  -1  -1
+------------
+Kerry D. Goettlich 
+UNKNOWN
+-1  2773  -1
+------------
+Kelsey D. McDermott 
+Armstrong 2  A227
+-1  2934  -1
+------------
+Kira D. Marrero 
+Thompson  209
+-1  1814  5046695949
+------------
+Katherine D. Mooney 
+Williams E  405
+-1  2384  -1
+------------
+Kevin D. Persons 
+Williams D  103
+-1  2440  -1
+------------
+Kendra D. Sims 
+UNKNOWN
+-1  -1  -1
+------------
+Kamaar D. Taliaferro 
+UNKNOWN
+-1  -1  -1
+------------
+Kelly D. Wall 
+Gladden  B51
+-1  2045  -1
+------------
+Kathleen D. Elkins 
+Mark Hopkins  C26
+-1  2728  -1
+------------
+Kathleen E. Brantley
+UNKNOWN
+-1  -1  -1
+------------
+Kaitlin E. Dinet 
+Woodbridge  111
+-1  1121  -1
+------------
+Katherine E. Dennis 
+Carter  A25
+-1  1622  -1
+------------
+Khary E. Dennis 
+Sage E  104
+-1  2127  -1
+------------
+Kendall E. Follert 
+Fitch  110
+-1  1168  -1
+------------
+Kenny E. Jean 
+Gladden  C44
+-1  2827  -1
+------------
+Katherine E. Litman 
+Mills 4  M403
+-1  2332  -1
+------------
+Kimberly E. Oliva 
+Morgan  010
+-1  1898  -1
+------------
+Kara E. Sperry 
+Armstrong 4  A429
+-1  2529  -1
+------------
+Knox E.H. Young 
+Sage C  306
+-1  2916  -1
+------------
+Kushatha Fanikiso 
+Dodd  322
+-1  1151  -1
+------------
+Katy Golvala 
+18-20 Meadow  Street
+-1  1200  -1
+------------
+Kaya S. Gingras 
+Williams A  302
+-1  2196  8139511524
+------------
+Kalila G. Booker-Cassano 
+Bryant  C45
+-1  2631  -1
+------------
+Katherine G. Flanagan 
+Garfield  115
+-1  2750  -1
+------------
+Kerstin G. Graham 
+UNKNOWN
+-1  -1  -1
+------------
+Kerrin G. Hensley 
+Pratt 2  P227
+-1  2803  -1
+------------
+Katherine G. Lane 
+Sage E  408
+-1  2301  -1
+------------
+Kiyoul Huh 
+UNKNOWN
+-1  -1  -1
+------------
+Kam Shan Ho 
+Currier  S12
+4135972671  1250  -1
+------------
+Katharine H. Dusenbury 
+Fitch  301B
+-1  1132  -1
+------------
+Katherine H. O'Leary 
+Wood  203A
+-1  1404  -1
+------------
+Katherine J. Feder 
+Thompson  127
+-1  2742  -1
+------------
+Kelsey J. Gaetjens 
+Thompson  114A
+4135973467  1176  -1
+------------
+Katherine J. Kiernan 
+Lehman  310
+-1  2844  -1
+------------
+Kimberly J. Kiplagat 
+Dennett 3  D324
+-1  2285  -1
+------------
+Karina J. Moy 
+UNKNOWN
+-1  2974  -1
+------------
+Kelsey J. Roggensack 
+Poker Flats  B101
+-1  1459  -1
+------------
+Katherine J. Susa 
+Goodrich  1
+-1  2007  -1
+------------
+Kelly W. Y. Kung 
+Sage E  404
+-1  2298  -1
+------------
+Karlan K. Eberhardt 
+55 North Street Apt.  #2
+-1  1138  -1
+------------
+Kristine K. Nakada 
+62 Spring Street Aptl  #5
+-1  1382  -1
+------------
+Kevin K. O'Connell 
+Prospect  404
+-1  1311  -1
+------------
+Kevin C. Lawkins 
+UNKNOWN
+-1  -1  -1
+------------
+Kristian T. LaPointe 
+UNKNOWN
+-1  2862  -1
+------------
+Katie L. Aguila 
+Mills 4  M425
+-1  1065  -1
+------------
+Katherine L. Arellano 
+Dennett 2  D224
+-1  1179  -1
+------------
+Katherine L. Buoymaster 
+Mark Hopkins  D33
+-1  1553  -1
+------------
+Karen L. Huan 
+Dennett 2  D202
+-1  2244  -1
+------------
+Kalle L. Jahn 
+Currier  C25
+-1  2825  8023801863
+------------
+Kerry L. Koehler 
+Spencer  6A
+-1  1296  -1
+------------
+Kara L. Mclaughlin 
+Morgan  111
+-1  1355  -1
+------------
+Katherine L. Pollan 
+Williams D  403
+-1  2447  -1
+------------
+Keelia L. Willison 
+Pratt 4  P407
+-1  3182  -1
+------------
+Kanishka Malik 
+Sage A  102
+-1  2346  -1
+------------
+Katherine M. Belk 
+71 Hoxsey  Street
+-1  1037  -1
+------------
+Kaitlyn M. Carrigan 
+Morgan  405
+-1  2657  -1
+------------
+Kevin M. Chen 
+Carter  B23
+-1  1569  -1
+------------
+Krysten M. Fernandez 
+Dodd  314
+-1  1156  -1
+------------
+Kimberly M. Holachek
+UNKNOWN
+-1  -1  4136721707
+------------
+Kathryn M. Kistler 
+Tyler  304
+-1  3049  -1
+------------
+Kadija M. Legesse 
+UNKNOWN
+-1  -1  -1
+------------
+Keith M. Owiti 
+UNKNOWN
+-1  2422  -1
+------------
+Katherine M. Pettengill 
+27 Spring Street Apt.  #7
+-1  1422  -1
+------------
+Krista M. Pickett 
+West  404
+-1  1426  4135756969
+------------
+Kathleen M. Ritter 
+Pratt 2  P230
+-1  2469  -1
+------------
+Kara M. Shoemaker 
+Morgan  114
+-1  3076  -1
+------------
+Kelsey M. Trudo 
+UNKNOWN
+-1  -1  -1
+------------
+Kayla K. Noel 
+UNKNOWN
+-1  -1  -1
+------------
+Katherine Nunez 
+Mills 4  M423
+-1  2405  -1
+------------
+Kyung N. Alvarez 
+Pratt AP  P111
+4135976754  1119  -1
+------------
+Kyra N. Deeth-Stehlin 
+Dennett 3  D301
+-1  2124  -1
+------------
+Kamuela N. Lau 
+UNKNOWN
+-1  2865  -1
+------------
+Katakyie Ofori-Atta 
+Dennett 2  D231
+-1  2415  -1
+------------
+Kevin O. Garcia 
+Lehman  201A
+-1  1182  -1
+------------
+Kwan Young Paik 
+UNKNOWN
+-1  -1  -1
+------------
+Katherine E. Preston 
+Sage C  405
+-1  2450  -1
+------------
+Kelsey P. Adamson 
+Pratt 3  P303
+-1  1046  -1
+------------
+Kyle P. Gaffney 
+Prospect  007
+-1  1672  -1
+------------
+Khanh P. Nguyen 
+Carter  A13
+-1  2984  -1
+------------
+Katherine Quezada 
+UNKNOWN
+-1  3033  -1
+------------
+Katherine R. Holmes 
+Poker Flats  A201
+-1  1257  -1
+------------
+Kristina R. Krone 
+Fitch  106B
+-1  1300  -1
+------------
+Kaleigh R. Kenny 
+Prospect  303
+-1  2841  -1
+------------
+Kyle R. Kistinger 
+Sage A  301
+-1  2287  -1
+------------
+Kelsey R. Leonard 
+Prospect  419
+-1  1778  -1
+------------
+Kaitlin R. Macholz 
+Pratt 2  P208
+-1  2341  -1
+------------
+Katherine R. Taylor-Hasty 
+Tyler  306
+-1  3114  -1
+------------
+Kairav Sinha 
+Bryant  C24
+-1  1985  -1
+------------
+Katie S. Y. Shao 
+Pratt 3  P304
+-1  2508  -1
+------------
+Kristen L. Sinicariello 
+Hubbell  107
+-1  1507  -1
+------------
+Kirk C. Swanson 
+Morgan  309
+4135974034  3110  -1
+------------
+Katie S. Berenbaum 
+Morgan  321
+-1  2624  -1
+------------
+Kyle S. Cheng 
+Armstrong 4  A423
+-1  2088  -1
+------------
+Kirsten S. Lee 
+Sage C  307
+-1  2310  -1
+------------
+Kylen S. Moran 
+Woodbridge  205
+-1  1377  -1
+------------
+Katherine S. McDowell 
+Mark Hopkins  A26
+-1  1830  -1
+------------
+Kirby S. Neuner 
+Tyler  101
+-1  1882  -1
+------------
+Kaison Tanabe 
+Prospect  410
+-1  1531  -1
+------------
+Katherine T. Cavanaugh 
+Williams D  304
+-1  2079  -1
+------------
+Kevin T. Eagan 
+Tyler Annex  206
+4135976531  1640  5085055248
+------------
+Katherine T. Griffith 
+Tyler  210
+-1  1214  -1
+------------
+Katherine T. Hrach 
+Armstrong 4  A401
+4135976348  2243  -1
+------------
+Kellie T. Macdonald 
+Fitch  211
+-1  1799  -1
+------------
+Kassandra V. Spiller 
+UNKNOWN
+-1  3093  -1
+------------
+Kaitlin Webber
+UNKNOWN
+-1  -1  -1
+------------
+Kai Wang 
+UNKNOWN
+-1  -1  -1
+------------
+Kelly A. Wang 
+Armstrong 3  A311
+-1  2583  -1
+------------
+Khaled W. Awad 
+UNKNOWN
+-1  2606  3129142897
+------------
+Katharine W. Costantini 
+Williams C  207
+-1  2107  -1
+------------
+Kellen W. Cramer 
+Sage B  207
+-1  2108  -1
+------------
+Kathleen W. Higgins 
+UNKNOWN
+-1  2812  -1
+------------
+Kevin X. Barbary 
+UNKNOWN
+-1  2614  -1
+------------
+Kwan Y. Tang 
+Dodd  218
+-1  1532  -1
+------------
+Kaijie Zheng 
+Prospect  115
+-1  3203  -1
+------------
+Lucas A. Casso 
+Hubbell  306
+-1  1082  -1
+------------
+Lauren A. Moseley 
+Williams B  207
+-1  2389  -1
+------------
+Lilias A. Reeder 
+Morgan  120
+-1  1440  -1
+------------
+Laura A. Ureste 
+Sage F  304
+-1  2566  -1
+------------
+Luis A. Urrea 
+Sage D  103
+-1  2567  -1
+------------
+Lindsey A. Vandergrift 
+Dennett 2  D225
+-1  2571  -1
+------------
+Luis A. Berroa 
+UNKNOWN
+-1  -1  9788571410
+------------
+Lexie K. Brackenridge 
+Williams D  304
+-1  1796  -1
+------------
+Lea N. Burgess 
+Sage B  405
+-1  1910  -1
+------------
+Louis B. Gilbert-Bono 
+Sage F  102
+-1  2194  -1
+------------
+Laurel B. O'Connor 
+Fayerweather  204
+-1  1891  -1
+------------
+Lilly B. Wellenbach 
+Fayerweather  210
+-1  2055  -1
+------------
+Luke B. Warren 
+Williams B  406
+-1  2584  -1
+------------
+Linda Tzu-Kwan Chu 
+UNKNOWN
+-1  2672  -1
+------------
+Lauren L. Christiansen 
+Dennett MD  D105
+-1  2094  -1
+------------
+Laurel C. Hamers 
+Bryant  C32
+-1  2795  -1
+------------
+Lydia C. Heinrichs 
+Mark Hopkins  D25
+-1  1711  -1
+------------
+Luisa C. Hammond 
+Mills 3  M303
+-1  2225  5026936085
+------------
+Logan C. Jester 
+Armstrong 2  A201
+-1  2264  -1
+------------
+Laura C. White 
+UNKNOWN
+-1  -1  -1
+------------
+Lucy M. Davis 
+Williams F  106
+-1  2123  -1
+------------
+Libby Dvir 
+Armstrong 3  A310
+-1  2146  -1
+------------
+Lauren D. Claypoole 
+Williams E  305
+-1  2098  -1
+------------
+Luke D. Faust 
+Bryant  C41
+-1  2740  -1
+------------
+Logan D. Lawson 
+Williams C  308
+-1  2306  -1
+------------
+Logan D. McCracken 
+UNKNOWN
+-1  -1  -1
+------------
+Liam E. Abbott 
+Perry  13B
+-1  1001  -1
+------------
+Laura E. Berman 
+Tyler Annex  201
+-1  1392  -1
+------------
+Lauren E. Feeney
+375 Church Street, Unit  6178
+-1  -1  -1
+------------
+Lauren E. Glenn 
+West  408
+-1  1680  -1
+------------
+Laura E. Henry 
+71 Hoxsey  Street
+-1  1242  -1
+------------
+Lacey E. Hankin 
+Morgan  416
+-1  2797  -1
+------------
+Laurel E. Jarombek 
+Dodd  120
+-1  1736  -1
+------------
+Lauren E. Miller 
+Dodd  220
+-1  1849  -1
+------------
+Lauren E. Smits 
+Garfield  220
+-1  3085  -1
+------------
+Louisa F. Costa 
+Fayerweather  105
+-1  1594  -1
+------------
+Lis J. Garcia 
+Pratt AP  P109
+-1  2188  -1
+------------
+Laura G. Cullen 
+Prospect  329
+-1  2690  -1
+------------
+Leah G. Horowitz 
+Tyler  302
+-1  1259  -1
+------------
+Likea Hor
+1065 Main  Street
+-1  Center  -1
+------------
+Lysander Jaffe 
+Tyler Annex  212
+-1  2831  -1
+------------
+Lucy J. Bergwall 
+UNKNOWN
+-1  1386  -1
+------------
+Liam J. Mullen 
+Sage C  106
+-1  2390  -1
+------------
+Lindsey J. Moran 
+Williams A  201
+-1  2386  -1
+------------
+Liliane J. Nienstedt 
+UNKNOWN
+-1  2989  -1
+------------
+Lucas J. Thoreson 
+Armstrong 3  A321
+-1  2557  -1
+------------
+Laura K. Calloway 
+41 Park  Street
+-1  1070  -1
+------------
+Laura K. Donnelly 
+Poker Flats  C205
+-1  1125  -1
+------------
+Leo K. Obata 
+UNKNOWN
+-1  2996  -1
+------------
+Lily K. Riopelle 
+UNKNOWN
+-1  3044  -1
+------------
+Lara K. Roche'-Sudar 
+UNKNOWN
+-1  3045  -1
+------------
+Laura K. Shamsie 
+Sage C  206
+-1  2507  -1
+------------
+Laura K. Stamp 
+Dennett 3  D325
+-1  2531  -1
+------------
+Leanne Lin 
+UNKNOWN
+-1  -1  -1
+------------
+Louisa M. Lee 
+Williams A  209
+-1  2875  -1
+------------
+Lauren L. Agoubi 
+39B Spring  Street
+-1  1005  -1
+------------
+Lindsey L. Precht 
+East  114
+-1  1932  3057423851
+------------
+Lovemore Makusha 
+Morgan  217
+-1  1340  -1
+------------
+Lillian Ma 
+Gladden  B08
+-1  1798  -1
+------------
+Linamarie Miller 
+Dodd  313C
+-1  1850  -1
+------------
+Lillian M. Audette 
+Agard  209
+-1  1100  -1
+------------
+Lauren M. Bender 
+East  301
+-1  1330  -1
+------------
+Lucie M. Coleman 
+Garfield  111
+-1  2681  -1
+------------
+Lauren M. Casey 
+Williams F  304
+-1  2051  -1
+------------
+Lourdes M Orlando 
+UNKNOWN
+-1  3004  -1
+------------
+Lauren O. Nevin 
+Agard  106
+-1  1883  -1
+------------
+Lena O. Olumide 
+Mark Hopkins  A31
+-1  1899  -1
+------------
+Lucy E. Page 
+Dennett 2  D222
+-1  2425  -1
+------------
+Laura C. Partida 
+Sage F  404
+-1  2430  -1
+------------
+Long P. Dang 
+Garfield  306
+-1  1609  -1
+------------
+Luxi Qiao 
+Pratt 3  P324
+-1  2454  -1
+------------
+Lisa Ruiz 
+Pratt 4  P423
+-1  2488  -1
+------------
+Leslie R. Blackshear 
+Fayerweather  107
+-1  2629  -1
+------------
+Lindsey R. Graham 
+Poker Flats  E101
+-1  1210  -1
+------------
+Luigia R. Goodman 
+East  214
+-1  2778  7187812255
+------------
+Lucas R. Pierce 
+Mark Hopkins  C36
+-1  1926  -1
+------------
+Laurice L. Shern 
+UNKNOWN
+-1  -1  -1
+------------
+Lacey M. Serletti 
+Williams F  106
+-1  2504  -1
+------------
+Lily S. An 
+Dodd  120
+-1  1072  -1
+------------
+Lei S. Brutus 
+Mills 3  M301
+-1  1903  -1
+------------
+Lydia S. Carmichael 
+80 South  Street
+-1  2654  -1
+------------
+Leslie S. Chae 
+Armstrong 2  A210
+-1  2082  -1
+------------
+Lilliana S. Morris 
+Williams F  204
+-1  2971  -1
+------------
+Lillian S. Podlog 
+Agard  303
+-1  1928  -1
+------------
+Laye S. Samoura 
+Bryant  A23
+4135973783  1963  -1
+------------
+Llewellyn S. Smith 
+Carter  B31
+-1  1991  -1
+------------
+Lindsay S. Thygesen 
+Mark Hopkins  D21
+-1  3116  -1
+------------
+Laura T. Ball 
+UNKNOWN
+-1  -1  -1
+------------
+Lysa T. Vola 
+West  107
+-1  2380  -1
+------------
+Laura G. Villafranco 
+Spencer  5B
+-1  2331  -1
+------------
+Lane Wang 
+UNKNOWN
+-1  -1  -1
+------------
+Laura T. Wann 
+UNKNOWN
+-1  -1  -1
+------------
+Lani Willmar 
+UNKNOWN
+4135973865  2067  -1
+------------
+Liam W. Gallagher 
+Garfield  219
+-1  2759  -1
+------------
+Lauren J. Yu 
+Sage A  401
+-1  2920  -1
+------------
+Leqi Yu
+Fort Hoosac  8
+-1  Graduate  -1
+------------
+Lawrence Y. Luo 
+Williams C  306
+-1  2339  -1
+------------
+Melissa Arias 
+Morgan  220
+-1  2600  -1
+------------
+Muhammetdurdy Agayev
+1065 Main  Street
+-1  Center  -1
+------------
+Martin A. Clarke Jr. 
+Sage D  206
+-1  2675  -1
+------------
+Marcus A. Christian II 
+Sage F  205
+-1  2093  -1
+------------
+Michael A. Essman 
+UNKNOWN
+-1  -1  -1
+------------
+Max A. Elgart 
+Pratt AP  P103
+-1  2152  -1
+------------
+Mia A. Fry 
+71 Hoxsey  Street
+-1  1174  -1
+------------
+Marguerite A. Ferrera-Anthony 
+UNKNOWN
+-1  2747  -1
+------------
+Margaret A. Hughes 
+Carter  A05
+-1  1732  9144193759
+------------
+Megan A. Hartney 
+Dennett 4  D423
+-1  2233  -1
+------------
+Martin A. Indiatsi 
+UNKNOWN
+-1  -1  -1
+------------
+Matthew Alan Kluk
+Fort Hoosac  2
+4135973677  Graduate  -1
+------------
+Mohammed A. Lotif 
+UNKNOWN
+-1  -1  3133106777
+------------
+Michael A. Lomio Jr. 
+Tyler  213
+-1  2889  -1
+------------
+Matthew A. Muralles 
+East  107
+-1  1870  9547019704
+------------
+Melissa A. Martinez 
+UNKNOWN
+-1  1817  -1
+------------
+Michelle A. May-Curry 
+East  213
+-1  1821  -1
+------------
+Miguel A. Mendez 
+Sage A  101
+-1  2369  -1
+------------
+Mohammed Ali Malfi
+1065 Main  Street
+-1  Center  -1
+------------
+Michael A. Navarrete 
+Pratt 2  P202
+-1  2395  -1
+------------
+Michael A. Phillips 
+Tyler  305B
+-1  1462  -1
+------------
+Michael A. Petrick 
+Dennett MD  D111
+-1  2442  -1
+------------
+Mark A. Pomella 
+Armstrong 3  A301
+-1  2448  -1
+------------
+Mohammed A. Rashid 
+Dennett 4  D413
+-1  2458  -1
+------------
+Megan A. Steele 
+Williams D  303
+-1  2534  -1
+------------
+Melissa A. Soule 
+Bryant  C23
+-1  1993  -1
+------------
+Metin A. Turgut 
+Pratt AP  P106
+-1  2564  -1
+------------
+Michael A. Williams 
+Tyler Annex  105
+-1  2066  -1
+------------
+Matija Budisin 
+West  411
+-1  1552  -1
+------------
+Michael A. Barajas 
+Sage F  105
+-1  1315  -1
+------------
+Meagan B. Goldman 
+Sage D  203
+-1  2199  -1
+------------
+Marisa B. Lupo 
+UNKNOWN
+-1  -1  -1
+------------
+Marissa B. Lowe 
+Prospect  104
+-1  2895  -1
+------------
+Michael B. Luciani 
+Currier  C22
+-1  2897  -1
+------------
+Michaela B. Levine 
+Williams E  104
+-1  2318  -1
+------------
+Margaret B. Richardson 
+Williams A  303
+-1  2467  -1
+------------
+Melinda B. Wang 
+Prospect  208
+-1  3140  -1
+------------
+Meagan J. Clark 
+Mills 3  M305
+-1  2674  -1
+------------
+Marina Chaves Caldieraro 
+Williams B  405
+4135976364  2085  2068549324
+------------
+Megan C. Casey 
+Fitch  104B
+-1  1081  -1
+------------
+Matthew C. Conway 
+Morgan  118
+-1  1590  -1
+------------
+Melissa C. Cendejas 
+Pratt 3  P302
+-1  2080  -1
+------------
+Maria C. Galvez 
+Sewall  101
+-1  1721  -1
+------------
+Matthew C. Jewett 
+Mills 3  M322
+-1  2265  -1
+------------
+Matthew C. Kastner 
+Spencer  8
+-1  2838  -1
+------------
+Maxwell C. LaBerge 
+Prospect  423
+-1  2856  -1
+------------
+Michael C. McPhee 
+Fitch  312
+-1  1839  -1
+------------
+Marica C. McCoy 
+Sage B  407
+-1  2360  -1
+------------
+Meg C. O'Connor 
+Bryant  C33
+-1  2999  -1
+------------
+Molly C. Prindle 
+East  215
+-1  1934  -1
+------------
+Marisa C. Repka 
+Bryant  C31
+-1  3038  -1
+------------
+Matthew C. Rock 
+Williams E  109
+-1  2473  -1
+------------
+Mia C. Smith 
+Armstrong AP  A108
+-1  2524  -1
+------------
+Mariama Cire Sylla
+1065 Main  Street
+-1  Center  -1
+------------
+Merrilee C. Weston 
+Fitch  104A
+-1  2908  -1
+------------
+Maria De Los Angeles Alvarez Fernandez
+UNKNOWN
+-1  -1  -1
+------------
+Markus D. Gonzales 
+Goodrich  3
+-1  1162  -1
+------------
+Miles D. Horton 
+Morgan  420
+-1  2819  -1
+------------
+Massimo D. Heninger 
+Prospect  424
+-1  2802  -1
+------------
+Michael D. Levy 
+UNKNOWN
+-1  -1  -1
+------------
+Michael D Mayer 
+Prospect  005
+-1  2928  -1
+------------
+Mohamed D. Soussi 
+Dennett 2  D209
+-1  2528  -1
+------------
+Michelle E. Almeida 
+Dodd  216
+-1  1010  -1
+------------
+Margaret E. Belk 
+Mills 4  M401
+-1  1394  -1
+------------
+Miranda E. Cooper 
+Dennett MD  D104
+-1  2137  -1
+------------
+Merritt E. Harlan 
+Dennett 4  D421
+-1  2228  -1
+------------
+Michaela E. Kearney 
+Bryant  A12
+-1  1751  -1
+------------
+Megan E. Kosinski
+Fort Hoosac  1
+-1  Graduate  -1
+------------
+Molly E. Larsen
+UNKNOWN
+-1  -1  -1
+------------
+Maeve E. Maguire 
+Fayerweather  301
+-1  2979  6107158436
+------------
+Miles E. McCarthy 
+Dennett MD  D108
+-1  2357  -1
+------------
+Meghan E. Rowe 
+UNKNOWN
+-1  3053  -1
+------------
+Mahaney E. Sippel 
+Agard  106
+-1  1986  -1
+------------
+Margaret E. Yang 
+Dennett 3  D322
+-1  2840  -1
+------------
+Matthew F. Doyle 
+Spencer  12
+-1  2714  -1
+------------
+Max F. Dugan-Knight 
+Sage D  104
+-1  2141  -1
+------------
+Margaret F. Mitts 
+East  308
+-1  1856  -1
+------------
+Michael F. Neubauer 
+Dodd  313B
+-1  1880  -1
+------------
+Meredith F. Yang 
+UNKNOWN
+-1  3194  -1
+------------
+Manal F. Yousef
+UNKNOWN
+-1  -1  -1
+------------
+Matthew C. Green 
+Fitch  309
+-1  1693  -1
+------------
+Manthon G. Baker 
+Gladden  C41
+-1  2611  -1
+------------
+Marcel G. Brown 
+Gladden  C11
+4135976612  1546  -1
+------------
+Maksym G. Kolenov 
+Sage A  102
+-1  2291  -1
+------------
+Molly G. Moran 
+UNKNOWN
+-1  2968  4136520652
+------------
+Michael G. Madding 
+East  108
+-1  1800  -1
+------------
+Michael G. Shaw 
+Williams A  104
+-1  2510  -1
+------------
+Mir Henglin 
+East  210
+-1  1241  -1
+------------
+Michael R. Hellstern 
+Fayerweather  305
+-1  1714  -1
+------------
+Melissa Horn
+Fort Hoosac  10
+-1  Graduate  -1
+------------
+Molly H. McEntee 
+UNKNOWN
+-1  2936  -1
+------------
+Mericos H. Rhodes 
+Williams B  105
+-1  3041  -1
+------------
+Martin H. Soderstrom 
+Currier  N35
+-1  3086  -1
+------------
+Megan H. Trager 
+Dodd  321
+-1  3119  -1
+------------
+Manasi Iyer 
+Dodd  321
+-1  2823  -1
+------------
+Melanie Idler 
+UNKNOWN
+-1  2821  -1
+------------
+Michelle I. Higgins 
+Mark Hopkins  B24
+-1  1719  -1
+------------
+Maria I. Pylypiv 
+Fayerweather  317
+-1  1937  -1
+------------
+Michael J. Brofft 
+15 Spring  Street
+-1  1060  -1
+------------
+Megan J. Bantle 
+Perry  15C
+-1  2612  -1
+------------
+Matias J. Crespo 
+Goodrich  7
+-1  1598  -1
+------------
+Maria Jimena Degiovanni
+UNKNOWN
+-1  -1  -1
+------------
+Madeline J. Epsten 
+Williams C  207
+-1  2158  -1
+------------
+Moses J.E. Flash 
+Gladden  B11
+-1  1660  -1
+------------
+Michael J. Flynn 
+Carter  B32
+-1  1663  -1
+------------
+Molly J. Goldberg 
+Fitch  202B
+-1  2776  -1
+------------
+Madeline J. Gilmore 
+East  307
+-1  1679  -1
+------------
+Marco J. Hernandez 
+Tyler  309
+-1  2806  -1
+------------
+Mark J. Lyons 
+15 Spring  Street
+-1  1244  -1
+------------
+Matthew J. Micheli 
+Spencer  11
+-1  2954  -1
+------------
+Meilu J. McDermott 
+Williams A  310
+-1  2361  -1
+------------
+Matthew J. McNaughton 
+Mills 3  M311
+-1  2367  -1
+------------
+Michella J. Ore 
+Williams E  404
+-1  2419  -1
+------------
+Meredith J. Sopher 
+UNKNOWN
+-1  3091  -1
+------------
+Maria Jose Sobalvarro Obregon
+1065 Main  Street
+-1  Center  -1
+------------
+Michael J. Vercillo 
+Dennett 4  D425
+-1  3133  -1
+------------
+Min Kyu Kim 
+Morgan  306
+-1  1289  -1
+------------
+Moonhyung Kim 
+Dennett 2  D228
+-1  2283  -1
+------------
+Mei Kazama 
+Mills MD  M103
+-1  2275  -1
+------------
+Monica K. Civille 
+Gladden  C43
+-1  2673  -1
+------------
+Mmaserame K.E. Gaefele 
+Carter  C34
+-1  1671  -1
+------------
+Maya K. Hart 
+Mills MD  M104
+-1  2232  -1
+------------
+Maija K. C. Lindaas 
+Pratt 4  P422
+-1  2329  -1
+------------
+Mia K. Nafziger 
+UNKNOWN
+-1  -1  -1
+------------
+Morgan K. Stevens 
+Mark Hopkins  C35
+-1  2001  -1
+------------
+Michelle K. Wise 
+Spencer  4A
+-1  3161  -1
+------------
+Matthew D. Larose 
+Sage F  202
+-1  2302  -1
+------------
+Muzhou Lu 
+Morgan  128
+-1  1331  -1
+------------
+Min Joo Lee 
+Lehman  309
+-1  2876  -1
+------------
+Minica Long 
+Thompson  207
+-1  1790  -1
+------------
+Martha L. Anderson 
+Prospect  230
+-1  1077  -1
+------------
+Miranda L. Bona 
+Poker Flats  E204
+-1  1053  -1
+------------
+Marina L. Bousa 
+Spring Street Apt.  #4
+-1  1055  -1
+------------
+Micaela L. Dussel 
+Pratt 4  P409
+4135976793  2145  -1
+------------
+Mia L. Knowles 
+Williams C  307
+-1  2290  -1
+------------
+Mika L. Nakashige 
+Morgan  205
+4135976223  1383  -1
+------------
+Mitchell L. Prevot 
+Fayerweather  106
+-1  1933  -1
+------------
+Maia R. McCormick 
+UNKNOWN
+-1  2933  -1
+------------
+Myya I. McGregory 
+UNKNOWN
+-1  2940  -1
+------------
+Mary Margaret MacCallum 
+Mark Hopkins  C23
+-1  2902  -1
+------------
+Maximiliano Magana 
+Sage C  208
+-1  2906  -1
+------------
+Marilisande Montes De Oca 
+Bryant  A11
+-1  1860  -1
+------------
+Matthew W. McCreary 
+Garfield  212
+-1  2913  -1
+------------
+Mai Mitsuyama 
+Sage F  403
+-1  2376  -1
+------------
+Mizzel M. Badruddin 
+West  203
+-1  1141  -1
+------------
+Marian M. Deuker 
+UNKNOWN
+-1  -1  -1
+------------
+Madeleine M. Holker 
+Williams C  205
+-1  2239  -1
+------------
+Meghan M. Landers 
+Morgan  121
+-1  1306  -1
+------------
+Margaret M. Lanphier 
+Mark Hopkins  C22
+-1  2860  -1
+------------
+Madlyn M. Mgrublian 
+Poker Flats  C204
+-1  1365  -1
+------------
+Malika M Mouflet 
+Morgan  316
+-1  2973  -1
+------------
+Maeve M. Mulholland 
+Brooks  205
+-1  1866  -1
+------------
+Molly M. Pickel 
+UNKNOWN
+-1  1925  -1
+------------
+Monica M. Pastor 
+Prospect  015
+-1  1913  -1
+------------
+Monica M. Torres 
+Currier  S21
+-1  1844  -1
+------------
+Madison M. Weist 
+Hubbell  105
+-1  2054  -1
+------------
+Maikhanh Nguyen 
+UNKNOWN
+-1  2985  -1
+------------
+McKenzie N. Murdoch 
+Morgan  211
+-1  2977  -1
+------------
+Matthew N. Radford 
+Dennett MD  D113
+-1  2455  -1
+------------
+Mai Okimoto 
+Fitch  102B
+-1  1403  -1
+------------
+Marcela Osorio 
+Carter  C36
+-1  1906  -1
+------------
+MaryKate O'Brien 
+Sage F  305
+-1  2413  -1
+------------
+Marika O. Aleksieieva 
+Dennett  D001
+4135971234  -1  4135227272
+------------
+Michael O. Erickson 
+Dennett 4  D430
+-1  2159  -1
+------------
+Michelle E. Paradis 
+Thompson  213
+-1  3009  -1
+------------
+Min Hae Park 
+UNKNOWN
+-1  3011  -1
+------------
+Michael P. Girouard 
+Carter  C25
+-1  1194  -1
+------------
+Matthew P. Gardner Spencer
+UNKNOWN
+4135973957  -1  -1
+------------
+Martin P. Lawrence 
+Williams F  405
+-1  2305  4802761172
+------------
+Margaret P. Steer 
+Poker Flats  D204
+-1  1518  -1
+------------
+Marissa P. Shieh 
+Prospect  201
+-1  1978  9177330306
+------------
+Maryanne Rodriguez 
+Agard  302
+-1  1945  -1
+------------
+Maxwell S. Rivas 
+Morgan  429
+-1  1449  -1
+------------
+Megan C. Rogers 
+Gladden  B14
+-1  1947  -1
+------------
+Matthew R. Ahlgren 
+UNKNOWN
+-1  -1  -1
+------------
+Maxwell R. Dietrich 
+Mills 4  M411
+-1  2133  -1
+------------
+Maya R. Hawkins-Nelson 
+UNKNOWN
+-1  2799  -1
+------------
+Molly R. Leonard 
+Armstrong 3  A309
+-1  2315  -1
+------------
+Molly R. Malinowski 
+Fitch  209
+-1  1808  4017490509
+------------
+Moneesha R. Mukherjee 
+Gladden  B52
+-1  1865  -1
+------------
+Michael R. Ormsbee 
+Dodd  313A
+-1  1406  -1
+------------
+Matthew R. Werner 
+Armstrong 2  A202
+-1  2591  -1
+------------
+Miho Sakuma 
+UNKNOWN
+-1  1960  4133588864
+------------
+Michael N. Stone 
+Armstrong 3  A303
+-1  2539  -1
+------------
+Marieme N. Sall 
+Williams B  305
+-1  2492  -1
+------------
+Mona G. Sami 
+Williams C  405
+-1  2494  -1
+------------
+Michael Semensi 
+UNKNOWN
+-1  -1  -1
+------------
+Michael E. Shelton 
+Brooks  203
+-1  1977  -1
+------------
+Malik Nashad Sharpe 
+UNKNOWN
+-1  3071  -1
+------------
+Max S. Axelrod 
+UNKNOWN
+-1  -1  -1
+------------
+Mitchell S. Breitbart 
+Carter  C46
+-1  1543  -1
+------------
+Marc S. Burnett 
+Mills 3  M310
+-1  2008  -1
+------------
+Matilda S. Feder 
+Wood  206B
+-1  1153  -1
+------------
+Melany S. Funes 
+UNKNOWN
+-1  2758  -1
+------------
+Michael S. Gold 
+Lehman  312A
+-1  2775  -1
+------------
+Mariam S. Hale 
+UNKNOWN
+-1  2790  -1
+------------
+Mpaza S. Kapembwa 
+West  308
+-1  1748  -1
+------------
+Medina S. Mody-Fitzmaurice 
+Fayerweather  109
+4135972951  1857  -1
+------------
+Michelle S. Ryang 
+Sewall  102
+-1  1470  -1
+------------
+Madelynn S. Taylor
+UNKNOWN
+-1  -1  -1
+------------
+Marissa Thiel 
+Woodbridge  201
+-1  1745  -1
+------------
+Max Tejeda-Albrecht 
+UNKNOWN
+-1  -1  -1
+------------
+Matthew A. Tarduno 
+Pratt 4  P427
+4135973541  2551  -1
+------------
+Martha T. Joseph
+UNKNOWN
+-1  Graduate  -1
+------------
+Meghan T. Kiesel 
+Poker Flats  A204
+-1  1286  -1
+------------
+Morlene T Magoronga 
+Lehman  301A
+4135973190  2907  -1
+------------
+Matthew T. Ratajczak 
+66 Hoxsey  Street
+-1  1437  -1
+------------
+Samuel D. von Mehren 
+11 Meadow  Street
+-1  2431  -1
+------------
+Madeline Y. Vuong 
+Thompson  203
+-1  3138  -1
+------------
+Melissa Vargas 
+Tyler Annex  213
+4135976541  2035  -1
+------------
+Meghana Vunnamadala 
+Williams E  408
+-1  2580  -1
+------------
+Mattia B. Wruble 
+Morgan  225
+-1  3190  8607263807
+------------
+Mariah C. Widman 
+UNKNOWN
+-1  2063  -1
+------------
+Michael W. Hanley 
+UNKNOWN
+-1  -1  -1
+------------
+Matthew W. McCarron 
+Brooks  204
+-1  2930  -1
+------------
+Michael Yi 
+Armstrong AP  A103
+-1  2842  -1
+------------
+Marshall Y. Akita 
+Sewall  95
+-1  1048  -1
+------------
+Maya Y. Dennis 
+Dodd  221
+-1  1113  -1
+------------
+Mohammed Yousef Saleh
+1065 Main  Street
+-1  Center  4132127302
+------------
+Menghan Zhao 
+Thompson  114
+-1  3177  -1
+------------
+Nicolas A. Akiwumi 
+Hubbell  102
+-1  1496  -1
+------------
+Nicholas A. Anderson 
+Spencer  7
+-1  2549  -1
+------------
+Natalie Anne Dupecher
+UNKNOWN
+-1  Graduate  -1
+------------
+Neal A. Ellis 
+UNKNOWN
+-1  2730  -1
+------------
+Nataly A. Garzon 
+UNKNOWN
+-1  2762  -1
+------------
+Nehemiah A. Paramore 
+East  314
+-1  3010  -1
+------------
+Nancy A. Palmer 
+East  307
+-1  1909  -1
+------------
+Nicholas A. Scaglione 
+Williams D  405
+-1  2498  -1
+------------
+Nels A. Snyder 
+Sage E  105
+-1  2526  -1
+------------
+Nicolas A. Tomczyk 
+UNKNOWN
+-1  -1  14356407780
+------------
+Nathan P. Barker 
+Poker Flats  D102
+-1  1028  -1
+------------
+Noah J. Bashevkin 
+Mills 3  M307
+-1  2620  -1
+------------
+Nicolei B. Gupit 
+42 Moorland  Street
+-1  1222  -1
+------------
+Nina B. Horowitz 
+Wood  B06
+-1  2818  -1
+------------
+Nicholas B. Hirsch 
+Mills 3  M325
+-1  2237  -1
+------------
+Nthabiseng Choma 
+UNKNOWN
+-1  2671  -1
+------------
+Nicole G. Chen 
+Gladden  B53
+-1  1570  -1
+------------
+Nicolette L. Caravelli 
+Williams B  405
+-1  2031  -1
+------------
+Nell C. Davis 
+Dodd  313C
+-1  1613  -1
+------------
+Nicolle C. Perry 
+27 Spring Street Apt.  #7
+-1  1420  -1
+------------
+Nina C. Pelaez
+Fort Hoosac  7
+-1  Graduate  -1
+------------
+Nathaniel C. Sutton 
+Prospect  132
+-1  3109  6148675309
+------------
+Nai Chien C Yeat 
+Morgan  305
+4135976244  3171  -1
+------------
+Nicholas E. Dyja 
+Armstrong 2  A228
+-1  2147  -1
+------------
+Nneka D. Dennie 
+Dodd  202
+-1  1112  -1
+------------
+Nicole D. Feshbach 
+Mills 3  M327
+-1  2170  -1
+------------
+Natalie D. Plasencia 
+Prospect  112
+-1  3027  -1
+------------
+Nicholas L. Evert 
+Currier  N15
+-1  2736  -1
+------------
+Nathaniel E. Buckholz 
+UNKNOWN
+-1  -1  -1
+------------
+Nathaniel E. Robertson 
+66 Hoxsey  Street
+4135976786  1453  -1
+------------
+Nicole E. Smith 
+Sage C  207
+-1  3084  -1
+------------
+Naomi F. Fields 
+Sage D  405
+-1  2171  -1
+------------
+Nitsan Goldstein 
+Fayerweather  217
+-1  1682  -1
+------------
+Nikoloz Gagua
+1065 Main  Street
+-1  Center  -1
+------------
+Natalie G. Bernstein 
+Williams C  405
+-1  1608  -1
+------------
+Nancy G. Gonzalez 
+Currier  S25
+-1  1202  -1
+------------
+Nathan G. F. Miller 
+Gladden  C51
+-1  1851  -1
+------------
+Nicholas G. Neumann-Chun 
+West  211
+-1  3180  6514914928
+------------
+Nakita G. VanBiene 
+Hubbell  201
+-1  2033  5084686649
+------------
+Nicholas G. Wolf 
+Prospect  130
+-1  3185  -1
+------------
+Nathaniel H. Finan 
+66 Hoxsey  Street
+-1  1160  4138842584
+------------
+Nina I. Halty 
+UNKNOWN
+-1  -1  -1
+------------
+Noah I. Klag 
+Sage A  109
+-1  2288  -1
+------------
+Natalie S. Johnson 
+41 Park  Street
+-1  1276  -1
+------------
+Nicholas J. Brownrigg 
+Mills 2  M203
+-1  1878  -1
+------------
+Noah J. Cadet 
+UNKNOWN
+-1  2650  -1
+------------
+Nickolas J Maziarka 
+Morgan  219
+-1  2929  -1
+------------
+Naomi J. Patterson 
+Thompson  209
+-1  1915  -1
+------------
+Nathan J. Thompson 
+Mark Hopkins  D36
+-1  2017  -1
+------------
+Nancy J. Worley 
+Morgan  116
+-1  3163  -1
+------------
+Nicholas K. Gardner 
+Carter  A04
+-1  1675  -1
+------------
+Nicholas K. Pasteris 
+Williams D  103
+-1  2433  -1
+------------
+Nicole J. Lou 
+Prospect  312
+-1  1328  -1
+------------
+NanNan Q. Li 
+Wood  307
+-1  1318  -1
+------------
+Noah L. Grumman 
+Dennett 3  D328
+-1  2215  -1
+------------
+Nina L. Kumar 
+Sage A  302
+-1  2295  -1
+------------
+Noah L. Wentzel 
+190 Water  Street
+-1  2809  -1
+------------
+Nathaniel L. Whittle 
+Williams E  206
+-1  2596  -1
+------------
+Neo Mokgwathi 
+Carter  C35
+-1  1859  -1
+------------
+Nicholas Marks 
+Gladden  C24
+-1  1344  -1
+------------
+Narah Moon 
+Parsons  102
+-1  2963  -1
+------------
+Nigel Munoz 
+Fayerweather  311
+-1  1868  -1
+------------
+Nicholas M. Greaves-Tunnell 
+Gladden  B35
+-1  1691  -1
+------------
+Nile M. Livingston 
+Morgan  303
+-1  1788  -1
+------------
+Ngoc M. T. Nguyen 
+Fayerweather  316
+-1  1885  -1
+------------
+Nitza M Solis 
+UNKNOWN
+-1  3088  -1
+------------
+Natalie M. Weyerhaeuser 
+Fayerweather  102
+-1  2058  -1
+------------
+Nicholas P. Nosce 
+Armstrong 2  A204
+-1  2403  -1
+------------
+Clement Ncuti
+1065 Main  Street
+4135974446  Center  4132126074
+------------
+Nykeah H. Parham 
+West  106
+-1  1411  -1
+------------
+Niharika Pendurthi 
+Tyler Annex  209
+-1  1920  -1
+------------
+Natasha Pangarkar 
+Sage B  306
+-1  2427  -1
+------------
+Nico P. Ekasumara 
+UNKNOWN
+-1  2727  -1
+------------
+Nathan W. Reynolds 
+UNKNOWN
+-1  3040  -1
+------------
+Nayahra K. Resende 
+UNKNOWN
+-1  -1  -1
+------------
+Nabil K. Revan 
+UNKNOWN
+-1  -1  7879480828
+------------
+Nicholas W. Romer 
+Sage F  102
+-1  2481  -1
+------------
+Nolan P. Raimo 
+Dennett 4  D412
+-1  2457  -1
+------------
+Nathan R. Bricault 
+Currier  B11
+-1  2640  -1
+------------
+Natalee R. Dawson 
+Tyler Annex  202
+4135976524  1614  -1
+------------
+Natalie R. Gill 
+Armstrong 3  A330
+-1  2195  -1
+------------
+Nathan R. McCue 
+Garfield  211
+-1  1829  -1
+------------
+Nina R. Oberman 
+UNKNOWN
+-1  2997  -1
+------------
+Nathan A. Schine 
+Milham  102
+-1  1477  -1
+------------
+Natalie G. Szykowny 
+UNKNOWN
+-1  3111  -1
+------------
+Nathan A. Saffold 
+Tyler  308
+-1  3056  -1
+------------
+Nicholas S. Kraus 
+UNKNOWN
+-1  2851  4138842494
+------------
+Nicholas S. Tyson 
+UNKNOWN
+-1  3126  -1
+------------
+Nana Agyeman Taylor 
+Currier  S23
+-1  1535  -1
+------------
+Nam T. Ngo 
+Prospect  431
+-1  3002  -1
+------------
+Ny Riavo Gilbertinie Voarintsoa
+UNKNOWN
+-1  -1  -1
+------------
+Nancy Zhong 
+East  202
+-1  1853  -1
+------------
+Nicholas Zaza Jr. 
+Williams E  209
+-1  2921  -1˜˜
+Owen A. Barnett-Mulligan 
+Lambert  201
+-1  1030  -1
+------------
+Omar A. Gouda 
+Sage C  106
+-1  2207  -1
+------------
+Olivia B. Uhlman 
+Prospect  316
+-1  2096  -1
+------------
+Ofelia Carrillo Dorado 
+UNKNOWN
+-1  2658  -1
+------------
+Oona G Watkins 
+Mark Hopkins  B41
+-1  2050  -1
+------------
+Olivia J. Daniels 
+Williams C  406
+-1  2117  -1
+------------
+Oma Lee
+Sage F  303
+-1  3204  -1
+------------
+Olivia Ndari
+UNKNOWN
+-1  -1  -1
+------------
+Oladeji Odewade 
+Agard  203
+-1  1894  -1
+------------
+Olivia O. Pham 
+Tyler Annex  207
+-1  1924  -1
+------------
+Olivia R. Polk 
+Sage A  304
+-1  2446  -1
+------------
+Olivia S. Gordon 
+Pratt 3  P325
+4135976856  2204  -1
+------------
+Olivia S. Meyerson 
+Williams C  208
+-1  2371  -1
+------------
+Ogechukwu F. Uwanaka 
+Williams E  308
+-1  2569  -1
+------------
+Olivia W. Foley 
+Carter  C24
+-1  1167  -1
+------------
+Omer Y. Khalayleh 
+Dodd  303
+-1  1284  -1
+------------
+Olivia Y. Wang 
+West  304
+-1  3141  -1
+------------
+Parmalier E. Arrington 
+Perry  B2
+-1  1080  -1
+------------
+Peter A. Christiani 
+11-13 Meadow  Street
+-1  1088  -1
+------------
+Paul A. de Konkoly Thege 
+Carter  C41
+-1  2698  -1
+------------
+Paul A. Deaderick 
+Fitch  101
+-1  1615  -1
+------------
+Pacifique A. Irankunda 
+West  210
+-1  1270  -1
+------------
+Phillip A. Parnell 
+Sewall  92
+-1  1413  -1
+------------
+Pedro A. Roque 
+Dodd  316
+-1  1461  5084393079
+------------
+Peter A. Sullivan 
+Morgan  422
+-1  3107  -1
+------------
+Philip A. B. von Hahn 
+Prospect  016
+-1  2038  -1
+------------
+Patrick C. Blizzard 
+39B Spring  Street
+-1  1050  -1
+------------
+Piroune Balachandran 
+Armstrong 3  A324
+-1  1294  -1
+------------
+Phillip C. Sull 
+Garfield  201
+-1  3106  -1
+------------
+Peter C. Waggonner 
+UNKNOWN
+-1  -1  -1
+------------
+Peter M. Drews 
+Prospect  203
+-1  2715  -1
+------------
+Phuong Binh D. Duong 
+Currier  B13
+-1  1637  -1
+------------
+Philip D. Tosteson 
+Chadbourne  103
+-1  2056  -1
+------------
+Paul D. Taylor 
+Spencer  9
+-1  3113  -1
+------------
+Peter D. Young 
+Doughty  205
+-1  3174  -1
+------------
+Patrick A. Ebobisse Ebolo 
+66 Hoxsey  Street
+-1  1139  -1
+------------
+Pablo Ernesto Evia Salas
+UNKNOWN
+-1  -1  -1
+------------
+Philip F. McGovern V 
+Garfield  114
+-1  1832  -1
+------------
+Pushpanjali Giri 
+Thompson  214
+-1  2770  -1
+------------
+Peter G. Awad 
+Sewall  95
+-1  1123  6154975152
+------------
+Peter G. Ellis 
+Currier  N32
+-1  2731  -1
+------------
+Phoebe A. Hall 
+Williams E  403
+-1  2219  -1
+------------
+Patricia Ho 
+Williams C  307
+-1  2238  -1
+------------
+Peter H. Crane 
+Mills 4  M427
+-1  2110  -1
+------------
+Peter H. Labovich 
+Carter  B26
+-1  2857  7032172653
+------------
+Patrick F. Johnson 
+Mark Hopkins  C42
+-1  1739  -1
+------------
+Precious Jivinali Tobias Chimbamba
+1065 Main  Street
+-1  Center  -1
+------------
+Paul J. Garofalo 
+East  211
+-1  1183  -1
+------------
+Peter J. Mistretta 
+Fayerweather  104
+-1  1854  -1
+------------
+Phoebe J. Rosen 
+UNKNOWN
+-1  2540  -1
+------------
+Peter J. Skipper 
+Dodd  210
+-1  1510  -1
+------------
+Paul J. Steinig 
+Spencer  12
+-1  3096  -1
+------------
+Paul E. Kiernan 
+21 Spring Street Apt.  #2
+-1  1285  -1
+------------
+Paris K. Fineberg-Heymann 
+Fayerweather  315
+-1  1717  -1
+------------
+Paige K. Haller 
+Dennett 3  D323
+-1  2221  -1
+------------
+Phoebe K. House 
+Sage E  403
+-1  2241  -1
+------------
+Patrick K. McLaughlin 
+Williams D  002
+-1  2365  -1
+------------
+Peter L. Clement 
+Wood  304
+-1  2637  -1
+------------
+Perry L. McCarthy 
+Brooks  201
+-1  1827  -1
+------------
+Paige L. Whidbee 
+Carter  A26
+-1  2059  -1
+------------
+Paige L. Wilkinson 
+Sage E  306
+-1  2599  -1
+------------
+Petra Mijanovic 
+UNKNOWN
+-1  -1  -1
+------------
+Philton Makena
+1065 Main  Street
+-1  Center  -1
+------------
+Paul M.A. Adeleke 
+Fayerweather  312
+-1  1023  -1
+------------
+Paul M. Dyrkacz 
+Wood  312
+-1  1133  -1
+------------
+Phoebe M. Gould 
+Currier  B15
+-1  1207  -1
+------------
+Patrick M.N. Joslin 
+Spencer  11
+-1  2834  -1
+------------
+Parker M. McClelland 
+66 Hoxsey  Street
+-1  1350  3607741169
+------------
+Peter M. McDonald Jr. 
+Sage B  105
+-1  2362  -1
+------------
+Perry M. Osgood 
+Carter  B21
+-1  1905  -1
+------------
+Phillip Oung 
+Pratt 2  P204
+-1  2420  -1
+------------
+Paige E. Peterkin 
+Williams E  104
+-1  2441  -1
+------------
+Priscilla C. Pino 
+Armstrong 4  A427
+-1  2444  -1
+------------
+Philippe P. Demontigny 
+Lehman  103A
+-1  2701  -1
+------------
+Patrick P. Lin 
+Perry  14B
+-1  1322  -1
+------------
+Patrick R. Daly 
+East  105
+-1  1604  -1
+------------
+Peter R. Morrell 
+UNKNOWN
+-1  2970  -1
+------------
+Philip R. Treesh 
+Wood  309B
+-1  2071  -1
+------------
+Phonkrit Tanavisarut 
+Mark Hopkins  D41
+4135972934  1959  -1
+------------
+Parker S. Semin 
+UNKNOWN
+-1  -1  -1
+------------
+Penny Sun 
+Mills 2  M211
+-1  2543  -1
+------------
+Parker S. Finch 
+Currier  N31
+-1  2748  -1
+------------
+Peter T. Christman 
+66 Hoxsey  Street
+-1  1089  -1
+------------
+Peter T.W. Cihon 
+Pratt 3  P330
+-1  2095  -1
+------------
+Peter T. De Riemer 
+Chadbourne  202
+-1  1115  -1
+------------
+Paul T. Friedrich 
+Armstrong 2  A229
+-1  2183  -1
+------------
+Patsorn Udomritthiruj 
+Prospect  315
+-1  2092  -1
+------------
+Philip V. Vu 
+UNKNOWN
+-1  -1  -1
+------------
+Peter W. Watson 
+Doughty  210
+-1  2561  -1
+------------
+Quratul Ain
+1065 Main  Street
+-1  Center  -1
+------------
+Qaim B. Wynter 
+UNKNOWN
+-1  3192  -1
+------------
+Quinn D. Pitcher 
+Carter  A46
+-1  1927  -1
+------------
+Qadir J. Forbes 
+Morgan  007
+-1  1664  -1
+------------
+Quinn H. Griffin 
+West  407
+-1  1695  -1
+------------
+Qiya Li 
+Williams D  204
+4135972645  2323  4132129988
+------------
+Quinn S. Solfisburg 
+UNKNOWN
+-1  3087  -1
+------------
+Qiao Zhang 
+Currier  N30
+-1  3176  -1
+------------
+Robert A. Castro 
+Williams A  203
+-1  2660  3109560126
+------------
+Rachel A. Caffey 
+UNKNOWN
+-1  2651  -1
+------------
+Refiloe A. Damane 
+UNKNOWN
+-1  2692  -1
+------------
+Rebecca A. Dryer 
+Prospect  013
+-1  1633  -1
+------------
+Robert A. Evans 
+Armstrong 3  A323
+-1  2163  -1
+------------
+Rachel A. Essner 
+Pratt 2  P207
+-1  2161  -1
+------------
+Ricardo A. Faillace 
+Brooks  310
+-1  2464  -1
+------------
+Rebecca A. Nichols 
+18-20 Meadow  Street
+-1  1396  -1
+------------
+Rachel A. Neuharth
+UNKNOWN
+-1  -1  -1
+------------
+Reid A. Pryzant 
+Pratt 3  P308
+-1  2451  -1
+------------
+Robert A. Way 
+Williams C  002
+-1  2586  -1
+------------
+Robert Allen Wainstein
+UNKNOWN
+-1  Graduate  -1
+------------
+Rachael K. Burns 
+Gladden  B56
+-1  1555  -1
+------------
+Russell B. Train 
+Carter  B34
+-1  3120  -1
+------------
+Ryan C. Barry 
+Tyler Annex  114
+-1  1258  -1
+------------
+Ryan C. Prokesch 
+Carter  A34
+-1  3029  -1
+------------
+Robert D. Carnes 
+Morgan  318
+-1  2656  -1
+------------
+Rose D. Courteau 
+UNKNOWN
+-1  2688  -1
+------------
+Rachel D. Durrant 
+Currier  B14
+-1  1131  -1
+------------
+Robin D. Hackett 
+Agard  206
+-1  1219  -1
+------------
+Russell D. Taylor 
+Mark Hopkins  C32
+-1  2014  -1
+------------
+Rebecca E. Curran 
+Fayerweather  207
+-1  1601  -1
+------------
+Racquel E. Gibson 
+Morgan  008
+-1  1678  -1
+------------
+Richard E. Gentry 
+Williams E  106
+-1  2193  -1
+------------
+Rani E. Onyango 
+Williams D  204
+-1  2418  -1
+------------
+Randy E Reyes 
+UNKNOWN
+-1  3039  -1
+------------
+Raea E. Rasmussen 
+Goodrich  6
+-1  1939  -1
+------------
+Rebecca E. Staff 
+Carter  B43
+-1  1996  -1
+------------
+Rebecca E. Tseytkin 
+Mark Hopkins  D26
+-1  2032  -1
+------------
+Rebecca Goldstein
+UNKNOWN
+-1  Graduate  -1
+------------
+Rhys G. Watkins 
+Bryant  A33
+-1  2536  -1
+------------
+Ryan J. Hamilton 
+Mills 4  M408
+-1  2223  -1
+------------
+Rebecca H. Fallon 
+UNKNOWN
+-1  2738  -1
+------------
+Raven H. Hills
+UNKNOWN
+4135974567  -1  -1
+------------
+Richard I. Beaton 
+Armstrong 4  A405
+-1  2623  -1
+------------
+Robert J. Brackup 
+Morgan  102
+-1  1056  -1
+------------
+Ryan J. Eagan 
+Morgan  430
+-1  2261  -1
+------------
+Ryan J. McCloskey 
+Sage A  309
+-1  2359  2155953551
+------------
+Ryan J. Pavano 
+Tyler  305A
+-1  1417  -1
+------------
+Rachel H. Kessler 
+18-20 Meadow  Street
+-1  1283  -1
+------------
+Rebecca K. Bell 
+Agard  108
+-1  1297  -1
+------------
+Robin K. Crigler 
+UNKNOWN
+-1  -1  -1
+------------
+Remmington K. Damper 
+Wood  310
+-1  1626  3138501323
+------------
+Ryan K. Farley 
+Dennett 2  D203
+-1  2166  -1
+------------
+Renula K. Mitra 
+Woodbridge  203
+-1  1373  -1
+------------
+Rak Dong Lim 
+Gladden  C52
+-1  1781  -1
+------------
+Rebecca M. Lewis 
+Williams F  305
+-1  2320  -1
+------------
+Ranana L. Dine 
+Armstrong 2  A208
+-1  2134  -1
+------------
+Rebecca L. Fine 
+63 Hoxsey Street Apt.  #5
+-1  1161  -1
+------------
+Rachel L. Krcmar 
+Armstrong 3  A308
+-1  2293  -1
+------------
+Rebecca L. Maher 
+Poker Flats  A102
+-1  1338  -1
+------------
+Richard L. Meyer 
+Spring Street Apt.  #1
+-1  1364  -1
+------------
+Rachel L. Maclean 
+Perry  1
+-1  2905  -1
+------------
+Renee V. Marcellus 
+UNKNOWN
+-1  2915  -1
+------------
+Robert M. Ainsworth 
+Milham  204
+-1  1006  -1
+------------
+Ryan M. Brand 
+Bryant  A44
+-1  1057  2033137176
+------------
+Ross M. Bowen 
+Carter  A31
+-1  2633  -1
+------------
+Raza M. Currimjee 
+Williams B  206
+-1  2111  -1
+------------
+Ruby M. Froom 
+Pratt 2  P209
+-1  2184  -1
+------------
+Robin M. Gimm 
+UNKNOWN
+-1  2768  -1
+------------
+Remy M. Gates 
+Williams D  004
+-1  2191  -1
+------------
+Robin M. Lippman 
+Fitch  104C
+-1  1324  -1
+------------
+Rosalia M. Pembroke 
+Currier  B2
+-1  1918  -1
+------------
+Rene M Rodriguez 
+Carter  C43
+-1  3046  -1
+------------
+Richard M. Whitney 
+Sage A  103
+-1  2595  -1
+------------
+Rudi A.J.M. Yniguez 
+Williams E  306
+-1  2904  -1
+------------
+Rumbidzai Ndoro 
+Spencer  4B
+-1  1387  -1
+------------
+Rahul Nath 
+Agard  203
+-1  1876  -1
+------------
+Rebecca Nakaba
+UNKNOWN
+-1  -1  -1
+------------
+Rachel N. Hagler 
+Wood  305
+-1  1227  -1
+------------
+Rachel N. Lee 
+Armstrong 3  A313
+-1  2311  -1
+------------
+Rohan N. Paranjpe 
+Williams F  405
+-1  2428  -1
+------------
+Ryan O. Buchanan 
+UNKNOWN
+-1  2646  -1
+------------
+Richard P. Eiselen Jr. 
+West  405
+-1  2725  -1
+------------
+Ryan P. Loughran 
+Morgan  215
+-1  1329  -1
+------------
+Ralston P. Louie 
+UNKNOWN
+-1  2893  -1
+------------
+Rebecca P. McGovern 
+Sage F  203
+-1  2938  -1
+------------
+Rachel P. Nguyen 
+Perry  12
+-1  1886  -1
+------------
+Rebeca Rodriguez 
+Williams D  404
+-1  2478  -1
+------------
+Raquel Rodriguez 
+Williams E  405
+-1  2476  -1
+------------
+Rylee R. Bethea 
+Prospect  430
+-1  2626  4137680085
+------------
+Randall R. Otis 
+Bryant  C43
+-1  1907  -1
+------------
+Rebecca R. Shoer 
+Poker Flats  F204
+-1  1498  -1
+------------
+Roshan Sharma 
+Perry  3
+4135972967  1489  -1
+------------
+Reema Sharma 
+Woodbridge  207
+-1  1488  -1
+------------
+Rahul Sangar 
+Lehman  103B
+-1  3061  -1
+------------
+Robyn A. Shapiro 
+Carter  A24
+-1  1976  -1
+------------
+Regal A. Sealy 
+Pratt 4  P404
+-1  2501  -1
+------------
+Rohan S. Bhatt 
+Carter  C45
+-1  1419  -1
+------------
+Radina T. Angelova 
+Doughty  309
+-1  1013  -1
+------------
+Roger Vargas Jr. 
+Dennett MD  D110
+-1  2574  -1
+------------
+Rebecca V. Comella 
+Lehman  304
+-1  2682  -1
+------------
+Robert W. Amster 
+Currier  N23
+-1  2874  -1
+------------
+Robert W. Feder 
+UNKNOWN
+-1  2743  -1
+------------
+Ryan W. Jenks 
+Lambert  102
+-1  1272  -1
+------------
+Robert W. Kalb 
+UNKNOWN
+-1  -1  -1
+------------
+Robert W. McDonald 
+Bryant  A22
+-1  1357  -1
+------------
+Robert W. Yang 
+Gladden  B34
+-1  2109  -1
+------------
+Samantha Avila 
+Pratt AP  P108
+-1  1263  -1
+------------
+Sameer Aryal 
+UNKNOWN
+-1  -1  -1
+------------
+Sikandar Ahmadi 
+West  406
+-1  1958  -1
+------------
+Sophia A. Blakey 
+Morgan  329
+-1  1047  -1
+------------
+Sophie A. Bird 
+UNKNOWN
+-1  -1  -1
+------------
+Stephanie A. Cardenas 
+UNKNOWN
+-1  2655  -1
+------------
+Sierra A. Cordova 
+Morgan  212
+4135973261  2182  -1
+------------
+Sean A. Donnelly 
+UNKNOWN
+-1  -1  -1
+------------
+Samuel A. Donow 
+Williams B  108
+-1  2138  -1
+------------
+Spencer A. Flohr 
+UNKNOWN
+-1  2752  -1
+------------
+Salmaan A. Karim 
+Dodd  315
+-1  1749  9733567629
+------------
+Steve A. Mendoza 
+Morgan  407
+-1  1363  -1
+------------
+Samantha A. Murray 
+UNKNOWN
+-1  2978  -1
+------------
+Sarah A. Mirseyedi
+UNKNOWN
+-1  Graduate  -1
+------------
+Spencer A. Mitchell-Schwartz 
+Dennett 3  D308
+-1  2375  -1
+------------
+Stephen A. Mayfield 
+Pratt 3  P311
+-1  2354  -1
+------------
+Salma A. Mohammed 
+Mills 4  M402
+-1  2377  -1
+------------
+Stephanie A. Neul 
+Carter  A02
+-1  1881  -1
+------------
+Shazeen A. Rattansi 
+Mills 4  M404
+-1  2459  -1
+------------
+Seth A. Tobolsky 
+Currier  S13
+-1  1824  -1
+------------
+Stacy A. Thompson 
+Mark Hopkins  A33
+-1  2020  -1
+------------
+Samantha A. Troia 
+Morgan  113
+-1  2030  -1
+------------
+Sarah A. Wilson 
+UNKNOWN
+-1  -1  -1
+------------
+Sivahn Barsade 
+UNKNOWN
+-1  2619  -1
+------------
+Sarah R. Brathwaite 
+Sage B  405
+-1  1823  -1
+------------
+Stanley B. T. Ewala 
+Pratt 3  P327
+-1  2165  -1
+------------
+Shannon C. P. Campbell 
+Fitch  106A
+-1  2653  -1
+------------
+Shiwen Chen 
+UNKNOWN
+-1  2668  -1
+------------
+Sau Man Cheng 
+Sage F  404
+-1  2089  -1
+------------
+Sophia Chen 
+UNKNOWN
+-1  2669  -1
+------------
+Sarah Cottrill 
+Mark Hopkins  A43
+-1  1597  -1
+------------
+Simon C. Chase 
+Currier  C36
+-1  2666  -1
+------------
+Simone C. Frank 
+East  308
+-1  1667  -1
+------------
+Sierra C. Germeyan 
+Morgan  324
+-1  1189  -1
+------------
+Sean C. Hurley 
+UNKNOWN
+-1  2808  -1
+------------
+Stephanie C. Johnson 
+Armstrong 3  A331
+-1  2270  -1
+------------
+Samuel C. Leiter 
+Tyler  201
+-1  1644  9197579061
+------------
+Sarah C. Waters 
+Prospect  401
+-1  2048  -1
+------------
+Sean P. Dougherty 
+Fayerweather  117
+-1  1628  -1
+------------
+Sarah D. Eades 
+21 Spring Street Apt.  #6
+-1  1134  -1
+------------
+Sergio D. Manrique 
+Currier  N21
+-1  1810  -1
+------------
+Sam D. O'Donnell 
+Thompson  108
+-1  1895  -1
+------------
+Samuel D. Rashin 
+Chadbourne  204
+-1  1436  20327327822
+------------
+Scott D. Symonds 
+Morgan  311
+-1  1530  3oh!35220799
+------------
+Shinelle M. Edwin 
+Woodbridge  104
+-1  1142  -1
+------------
+Sarah Elias Bou Atmeh
+1065 Main  Street
+-1  Center  -1
+------------
+Sarah E. Lyon 
+Dodd  213
+-1  1334  -1
+------------
+Sarah E. Meyerhoff 
+UNKNOWN
+-1  2953  -1
+------------
+Seth E. Montgomery 
+Armstrong 3  A304
+-1  2382  -1
+------------
+Sarah E. Sanders 
+Prospect  122
+-1  3059  -1
+------------
+Steven E. Servius 
+West  412
+-1  1973  -1
+------------
+Sara E. Thompson 
+East  212
+-1  2018  -1
+------------
+Sean F. Hoffmann 
+Garfield  309
+-1  1255  -1
+------------
+Sara F. Hassan 
+Gladden  B06
+-1  1707  -1
+------------
+Stanislas F. Monfront 
+Bryant  A21
+-1  1376  -1
+------------
+Stephen F. Simalchik 
+Thompson  302
+-1  1501  -1
+------------
+Saleh Fadhl Hussein Saleh
+1065 Main  Street
+-1  Center  -1
+------------
+Sarah F. Thompson 
+Fayerweather  209
+-1  2019  -1
+------------
+Samantha F. Weinstein 
+Wood  204A
+-1  2605  -1
+------------
+Samir Ghosh 
+Prospect  420
+-1  1190  -1
+------------
+Sara G. Finkle 
+23 Hoxsey  Street
+-1  3202  -1
+------------
+Scott G. Pelton-Stroud 
+UNKNOWN
+-1  -1  -1
+------------
+Scott G. Singer 
+UNKNOWN
+-1  -1  -1
+------------
+Samantha G. Vilaboa 
+Perry  15A
+-1  2325  -1
+------------
+Shenai G. Williams 
+Prospect  216
+-1  3129  -1
+------------
+Shirl G. Yang 
+Currier  S11
+-1  3169  -1
+------------
+Siobhan J. Harrity 
+Currier  B2
+-1  1706  -1
+------------
+Sophie H. Chatas 
+Sage C  307
+-1  2084  -1
+------------
+Susan H. Donohue 
+Sewall  104
+-1  1126  -1
+------------
+Sarai Infante 
+Currier  S20
+-1  1268  -1
+------------
+Sanghyun Im 
+West  205
+-1  2822  -1
+------------
+Samuel I. Austin 
+Lehman  104C
+-1  2602  -1
+------------
+Samuel I. Green 
+West  207
+-1  1694  7817380893
+------------
+Sola I. Haye 
+West  105
+-1  2800  -1
+------------
+Samuel Jeong 
+Pratt 2  P225
+4135976881  2830  -1
+------------
+Steven J. Kiesel 
+Mark Hopkins  B23
+-1  1754  -1
+------------
+Sallie J. Lau 
+Tyler  209
+-1  1769  -1
+------------
+Stephen J Marino 
+Garfield  102
+-1  2918  -1
+------------
+Santiago J. Sanchez 
+UNKNOWN
+-1  -1  -1
+------------
+Sora Kim 
+Morgan  228
+-1  1290  9736478999
+------------
+Samuel Kurland 
+Spencer  2D
+-1  2854  -1
+------------
+Su-Young Kim 
+Spencer  2A
+-1  2847  -1
+------------
+Sara Kang 
+UNKNOWN
+-1  2836  -1
+------------
+Simmon Kim 
+East  315
+-1  1758  -1
+------------
+Soomin Kim 
+Sage D  303
+-1  2284  -1
+------------
+Sarah K. Austin 
+Mills 3  M302
+-1  1203  -1
+------------
+Stefan K. Lainovic 
+Tyler  310
+-1  2859  -1
+------------
+Stephanie K. Nguyen 
+Lehman  106B
+-1  2987  -1
+------------
+Sarah J. Lenfest 
+UNKNOWN
+-1  -1  -1
+------------
+Sang Hwan Lee 
+Dodd  211
+-1  1774  -1
+------------
+Siyao Liu 
+Sage B  306
+-1  2333  -1
+------------
+Sophie L. Brigstocke 
+63 Hoxsey Street Apt.  #5
+-1  1058  -1
+------------
+Sharona L. Bollinger 
+Prospect  331
+-1  2630  -1
+------------
+Sarah L. Brink 
+Carter  B46
+-1  1544  -1
+------------
+Sara L. Clark 
+Carter  C03
+-1  1583  -1
+------------
+Sarah L. Freymiller 
+Poker Flats  F201
+-1  1172  -1
+------------
+Sarah L. Guillot 
+Carter  C26
+-1  1220  -1
+------------
+Sean Logan
+UNKNOWN
+-1  -1  -1
+------------
+Sophia L. Rosenfeld 
+Bryant  B41
+-1  1954  -1
+------------
+Sophia L. Wilansky 
+Armstrong 3  A329
+-1  2598  -1
+------------
+Sugi Min 
+Dodd  201
+-1  1370  -1
+------------
+Sato Matsui 
+UNKNOWN
+-1  2926  4138843040
+------------
+Si Young Mah 
+West  303
+-1  2909  -1
+------------
+Sarabeth S. Mairs 
+Poker Flats  B201
+-1  1339  -1
+------------
+Sarah M. Abramson 
+Hubbell  103
+-1  1003  -1
+------------
+Sumaya M. Awad 
+Dennett MD  D102
+-1  1269  -1
+------------
+Shayna M. Barbash 
+UNKNOWN
+-1  2615  -1
+------------
+Sevonna M. Brown 
+Agard  302
+-1  1547  -1
+------------
+Shmuel M. M. Bindell 
+Dennett 3  D330
+-1  1648  -1
+------------
+Samira Martinhago-Custodia 
+West  102
+-1  1102  -1
+------------
+Stephanie M. Gallo 
+Mark Hopkins  C25
+-1  2760  -1
+------------
+Suzannah M. Leiter 
+Fitch  106C
+-1  1314  -1
+------------
+Sara M. Munoz 
+Tyler Annex  214
+4135976542  1869  -1
+------------
+Sierra M. Mcdonald 
+Mills 3  M304
+-1  2363  -1
+------------
+Sarah M. Rosenberg 
+UNKNOWN
+-1  3050  -1
+------------
+Sarah R.M. Rhu 
+Mills MD  M101
+-1  2466  -1
+------------
+Sandra M. Shedd 
+Garfield  214
+-1  1492  -1
+------------
+Sean M Sutherland 
+Dennett 2  D205
+-1  3108  -1
+------------
+Shelby M. Shote 
+Mark Hopkins  D22
+-1  1979  -1
+------------
+Sonja M.N. Thalheimer 
+13 Grundy  Court
+-1  1983  -1
+------------
+Sarah M. Vukelich 
+Gladden  B36
+-1  2040  -1
+------------
+Shannon M. Zikovich 
+Mark Hopkins  17A
+-1  2523  -1
+------------
+Shaan N. Amin 
+Garfield  218
+-1  1069  -1
+------------
+Steven N. Hailey 
+UNKNOWN
+-1  2786  -1
+------------
+Samuel N. Hine 
+Morgan  302
+4135972648  1635  8479702495
+------------
+Son N. Le 
+UNKNOWN
+-1  2867  -1
+------------
+Samantha N. Petti 
+Gladden  B13
+-1  1923  -1
+------------
+Stacy N. Purcell 
+Mark Hopkins  B46
+-1  1936  -1
+------------
+Samuel O. Flinn 
+UNKNOWN
+-1  2751  -1
+------------
+Susmita Paul 
+Williams F  306
+-1  2436  -1
+------------
+Shubhanga Pandey 
+Spencer  3A
+-1  3015  4138842315
+------------
+Sarah H. Pier 
+Mills MD  M105
+-1  2443  -1
+------------
+Stephanie P. Browne 
+Fitch  203A
+-1  3179  -1
+------------
+Sofia P. Benares 
+Williams E  306
+-1  1402  -1
+------------
+Sarah P. Gottesman 
+UNKNOWN
+-1  2780  -1
+------------
+Stefan P. Ward-Wheten 
+UNKNOWN
+-1  -1  4135616073
+------------
+Sarah E. Rowe 
+Poker Flats  E201
+-1  1465  -1
+------------
+Sofia Roitman 
+Williams D  206
+-1  2479  -1
+------------
+Santiago Rosas 
+Armstrong 3  A302
+-1  2484  -1
+------------
+Silvio Resuli 
+Sage C  108
+-1  2465  -1
+------------
+Shadman Rahman 
+Williams E  106
+-1  2456  -1
+------------
+Samuel R.R. Chapin 
+Carter  A03
+-1  1566  -1
+------------
+Stephanie R. Durell 
+Garfield  113
+-1  2720  -1
+------------
+Shana R. Dorsey 
+Lehman  204A
+-1  2164  -1
+------------
+Sharldine R. L. Desire 
+Armstrong 2  A211
+-1  2128  -1
+------------
+Sophia K. Jannetty 
+Armstrong AP  A111
+-1  2258  -1
+------------
+Sam R. Krieg 
+23 Thomas  Street
+-1  1299  -1
+------------
+Scott R. Rodilitz 
+Doughty  209
+-1  1456  -1
+------------
+Samuel R. Woodbury 
+UNKNOWN
+-1  3189  -1
+------------
+Stewart T. G. Stewart 
+UNKNOWN
+-1  -1  -1
+------------
+Shanice Steadman-Olliver 
+Carter  A42
+-1  2106  -1
+------------
+Shara Singh
+UNKNOWN
+4135979876  -1  4138844610
+------------
+Scott B. Sanderson 
+Milham  302
+-1  1473  -1
+------------
+Sabrina S. Castle 
+UNKNOWN
+-1  1631  -1
+------------
+Samantha S. Cutts 
+Dodd  220
+-1  1602  -1
+------------
+Samuel S. Devine 
+Carter  A43
+-1  1624  -1
+------------
+Shannon S. Hsu 
+West  310
+-1  1728  6262974060
+------------
+Samantha Teng 
+Poker Flats  B204
+-1  1538  -1
+------------
+Samuel T. Amdur IV 
+Currier  B1
+-1  1063  8478109389
+------------
+Samuel T. Brinkley 
+21 Spring Street Apt.  #2
+-1  1059  -1
+------------
+Stefan T. Popov 
+Bryant  B32
+-1  1929  -1
+------------
+Shanice T. Scantlebury 
+Bryant  A14
+4135973762  1965  -1
+------------
+Stephen T. Upton 
+Tyler  205
+-1  3130  -1
+------------
+Scott T. Wieman 
+Gladden  C32
+-1  3160  -1
+------------
+Samuel T. Whittemore 
+UNKNOWN
+-1  -1  2075126099
+------------
+Sarah T. Wieman 
+Williams C  206
+-1  2597  -1
+------------
+Sunny Velez 
+Dodd  305
+-1  2155  -1
+------------
+Sarah V. Rosemann 
+UNKNOWN
+-1  -1  -1
+------------
+Sarah V. Zager 
+Wood  207
+-1  1418  -1
+------------
+Shanali A. Weeresinghe 
+Morgan  212
+-1  3146  -1
+------------
+Sarah Wu 
+Mills MD  M101
+-1  2765  -1
+------------
+Steven-Louis W. Dreyfus 
+Williams D  305
+-1  2140  -1
+------------
+Spencer W. Irvine 
+Pratt 3  P310
+-1  2252  -1
+------------
+Samuel W. Lewis 
+Garfield  208
+-1  1791  -1
+------------
+Sophia W. Montgomery 
+Fayerweather  201
+-1  2962  -1
+------------
+Sarah W. Peters 
+Mills MD  M111
+-1  3021  -1
+------------
+Samuel W Tripp 
+Dennett MD  D101
+-1  3124  -1
+------------
+Sungik Yang 
+Currier  C33
+-1  3170  -1
+------------
+Shirley Y. Li 
+Fitch  102A
+-1  1319  -1
+------------
+Stephanie Y. Owyang 
+East  205
+-1  1408  -1
+------------
+Stephanie Y. Sun 
+Williams B  307
+-1  2544  -1
+------------
+Tala A. Abujbara 
+Dennett 3  D305
+-1  1874  -1
+------------
+Todd A. Brenner 
+Lehman  104A
+-1  2638  -1
+------------
+Tatum A. Barnes 
+Fitch  309
+-1  1228  -1
+------------
+Thomas A. Beaudoin Jr. 
+Prospect  011
+-1  1266  -1
+------------
+Tre'dez A. Colbert 
+Pratt 4  P405
+-1  2680  -1
+------------
+Tara A. Deonauth 
+Susie Hopkins  201
+-1  1114  -1
+------------
+Tayler A. Donze 
+Williams E  308
+-1  2139  -1
+------------
+Tyler A. Holden 
+Fitch  306A
+-1  1256  -1
+------------
+Thomas A. Wohlwender 
+Goodrich  4
+-1  3162  -1
+------------
+Timothy G. Brock 
+Morgan  310
+-1  2642  -1
+------------
+Thomas Bruno
+One College  Drive
+4135972733  -1  -1
+------------
+Theresa B Legan 
+Prospect  320
+-1  2877  -1
+------------
+Tucker B. Moore 
+UNKNOWN
+-1  2965  -1
+------------
+Thuan Bich Nguyen
+1065 Main  Street
+-1  Center  -1
+------------
+Timothy R. Cannon 
+West  301
+-1  1654  -1
+------------
+Taylor L. Chertkov 
+Thompson  202
+-1  2670  -1
+------------
+Talia J. Calnek-Sugin 
+Bryant  B46
+-1  1558  -1
+------------
+Tamuka Chidanguro 
+Fayerweather  309
+-1  1573  -1
+------------
+Tendai Chisowa 
+Dennett 4  D401
+-1  2091  -1
+------------
+Tyler Q. J. P. Conroy 
+Dennett MD  D109
+-1  2104  -1
+------------
+Tucker C. Burleigh 
+Williams E  208
+-1  2002  -1
+------------
+Thomas C. Daubert 
+63 North  Street
+-1  1103  -1
+------------
+Thomas C. Engleby 
+Carter  A21
+-1  2733  -1
+------------
+Todd C. Ford 
+Pratt 2  P221
+-1  2178  -1
+------------
+Thomas C. Hester 
+UNKNOWN
+-1  -1  -1
+------------
+Taylor C. Jerome 
+Armstrong AP  A112
+-1  2263  -1
+------------
+Theo C. Pippins 
+UNKNOWN
+-1  3026  -1
+------------
+Thomas C. Vieth 
+Garfield  302
+-1  2294  -1
+------------
+Tenzin Dolkar 
+Pratt 4  P425
+-1  2135  -1
+------------
+Timothy Desrosiers
+1 College  Drive
+-1  -1  -1
+------------
+Taylor D. Epley 
+Prospect  002
+-1  2735  -1
+------------
+Tobias D. McCarthy 
+Spencer  10
+-1  2932  -1
+------------
+Taylor D. Treadgold 
+UNKNOWN
+-1  -1  -1
+------------
+Tansu Eris
+UNKNOWN
+-1  -1  -1
+------------
+Tallis E. Moore 
+UNKNOWN
+-1  2964  -1
+------------
+Thomas E Stephens 
+Tyler  202
+-1  3097  -1
+------------
+Temair E. Shorty 
+Sage E  304
+-1  2513  -1
+------------
+Tess E. Vorselen 
+Fayerweather  310
+-1  2039  -1
+------------
+Tamari Giorgadze 
+Sage E  308
+-1  2197  -1
+------------
+Theodora H. Gruseke 
+Pratt AP  P107
+-1  2216  -1
+------------
+Tanasia Hoffler 
+Prospect  219
+-1  1252  -1
+------------
+Tiantian He 
+Prospect  332
+-1  1710  -1
+------------
+Todd M. Hall 
+Mills MD  M106
+-1  2220  -1
+------------
+Thomas H. Hamrick 
+23 Thomas  Street
+-1  1232  7045621762
+------------
+Talia H. Mizikovsky 
+UNKNOWN
+-1  -1  -1
+------------
+Tafarii H. McKenzie 
+Dennett 2  D204
+-1  2364  -1
+------------
+Tatiana I. Perez 
+Mills 3  M330
+-1  2439  -1
+------------
+Tyler J. Aveni 
+Morgan  204
+-1  1017  -1
+------------
+Tucker J.H. Bair 
+Currier  C10
+-1  2634  -1
+------------
+Thomas J. Cabarle 
+East  105
+-1  1556  -1
+------------
+Thadeus J. D. Dowad
+Fort Hoosac  5B
+-1  Graduate  -1
+------------
+Thomas J. Gaidus 
+Doughty  101
+-1  1177  -1
+------------
+Timothy J. Garripoli 
+Mills 2  M204
+-1  2190  -1
+------------
+Timothy J. Morris 
+23 Thomas  Street
+-1  1378  -1
+------------
+Thaddeus J. Ricotta 
+Gladden  B44
+-1  1942  -1
+------------
+Tyler J. Sparks 
+Mark Hopkins  A21
+-1  1994  -1
+------------
+Tania Karboff 
+Brooks  304
+-1  1281  -1
+------------
+Teal K. Baskerville 
+UNKNOWN
+-1  2621  -1
+------------
+Tyler K. Fitzgerald 
+Williams A  102
+-1  2174  -1
+------------
+Tara K. Miller 
+Agard  303
+-1  1852  -1
+------------
+Tanzim K. Milkey 
+East  301
+-1  1846  -1
+------------
+Tirhakah T. Love 
+Carter  A36
+-1  1794  -1
+------------
+Tong Liu 
+Williams A  101
+-1  2334  -1
+------------
+Tracy L. Hu 
+Hubbell  203
+-1  1261  -1
+------------
+Taylor L. Halperin 
+UNKNOWN
+-1  2793  -1
+------------
+Thobo Mogojwe 
+Fayerweather  211
+-1  1858  -1
+------------
+Timothy M. Berry 
+West  306
+-1  1412  -1
+------------
+Thomas M. Kuczmarski 
+UNKNOWN
+-1  -1  -1
+------------
+Timothy M. Marchese 
+East  107
+-1  1812  -1
+------------
+Thomas M. Murphy 
+Tyler Annex  113
+-1  1871  -1
+------------
+Tejesh M. Pradhan 
+Doughty  303
+4135976993  1431  -1
+------------
+Tarun S. Narasimhan 
+Fitch  201B
+-1  1384  4042290321
+------------
+Tobias Nicholson
+UNKNOWN
+-1  -1  -1
+------------
+Taylor N. Jackvony 
+Pratt 4  P410
+-1  2254  -1
+------------
+Teddy O Onserio 
+Thompson  303
+-1  3003  8178972762
+------------
+Thomas Pesce 
+UNKNOWN
+-1  -1  -1
+------------
+Thi Kim Dung Pham
+1065 Main  Street
+-1  Center  -1
+------------
+Tony P. Huang 
+Sage D  106
+4135976472  2246  -1
+------------
+Tyler P. Mallery 
+Tyler Annex  107
+-1  1809  -1
+------------
+Talia P. Simon 
+Williams D  205
+-1  2518  -1
+------------
+Taylor R. Bundy 
+Brooks  306
+-1  1066  -1
+------------
+Taylor R. Carmola 
+UNKNOWN
+-1  -1  -1
+------------
+Timothy R. Lattimer 
+Agard  205
+-1  1768  -1
+------------
+Tilekbek Shamurzaev
+1065 Main  Street
+-1  Center  -1
+------------
+Theodore S. Cohan 
+Williams B  107
+-1  2101  -1
+------------
+Trust S. Mandevhana 
+Lehman  301B
+-1  2914  -1
+------------
+Mina Dinh 
+Spencer  2B
+-1  1122  -1
+------------
+Tong Wu 
+UNKNOWN
+-1  3191  -1
+------------
+Thomas W. Foote 
+Goodrich  G3
+4135976600  1170  -1
+------------
+Taylor W. Mondshein 
+11 Meadow  Street
+-1  1375  -1
+------------
+Tanner W. Macivor 
+Williams D  306
+-1  2342  -1
+------------
+Taylor W. Nutting 
+Lehman  206A
+-1  2995  -1
+------------
+Troy W. Ritter 
+Pratt 2  P201
+-1  2470  8054557860
+------------
+Tabitha W. Tongoi 
+Carter  C33
+-1  2025  -1
+------------
+Tiffany Y. Chang 
+Armstrong 3  A325
+-1  2664  -1
+------------
+User Kushaina 
+Mark Hopkins  C21
+-1  2855  -1
+------------
+Ugochuku Nwachuku 
+Morgan  206
+-1  1400  2033935059
+------------
+Uttara Partap 
+Currier  S16
+-1  1414  -1
+------------
+Valerie A. Gonzalez 
+Perry  2
+-1  3030  -1
+------------
+Vera A. Gould 
+Morgan  221
+-1  2781  -1
+------------
+Vincent B. Molinari Jr. 
+Dennett 3  D310
+-1  2378  -1
+------------
+Victor D. Luo 
+Prospect  426
+-1  2899  -1
+------------
+Veronique E. Hob-Hob 
+Perry  16A
+-1  1251  -1
+------------
+Veroneque F. Ignace 
+Mark Hopkins  D23
+-1  1734  -1
+------------
+Vy H. Duong 
+Dennett 4  D403
+-1  2144  -1
+------------
+Veronica J. Gould 
+Gladden  A42
+-1  1684  -1
+------------
+Victoria K. Lippman 
+Gladden  B33
+-1  1785  -1
+------------
+Veranika Li 
+Morgan  112
+-1  1320  -1
+------------
+Vu Le 
+UNKNOWN
+-1  2868  4133468100
+------------
+Victor M. Arechiga 
+Mills 3  M323
+-1  1155  -1
+------------
+Viviana M. Benjumea 
+Dodd  319
+-1  1040  -1
+------------
+Vera M. Cecelski 
+13 Grundy  Court
+-1  1083  -1
+------------
+Venson M. Williams 
+Williams B  108
+-1  2709  -1
+------------
+Valeria Pelayo 
+Sage A  402
+-1  2438  -1
+------------
+Victoria R. Student 
+UNKNOWN
+-1  -1  -1
+------------
+Virginia S. Sweeney
+UNKNOWN
+-1  Graduate  -1
+------------
+Varun S. Sharma 
+Williams C  005
+-1  2509  -1
+------------
+Vy T. Pham 
+Sewall  105
+-1  1424  -1
+------------
+Victor W Major 
+Fayerweather  108
+-1  1806  -1
+------------
+Tony W. Ahn 
+Morgan  414
+-1  2070  -1
+------------
+William A. Brown IV 
+Bryant  A43
+-1  1548  -1
+------------
+William A. Gutierrez 
+Sage D  305
+-1  2218  -1
+------------
+William A. Harron 
+UNKNOWN
+-1  -1  8057484567
+------------
+William A. Marsh IV 
+Currier  C11
+-1  2922  -1
+------------
+Wyatt A. Sparks 
+11-13 Meadow  Street
+-1  1515  -1
+------------
+Wyatt B. Boyer 
+Gladden  C14
+-1  1540  -1
+------------
+William B. Earle 
+Mark Hopkins  B22
+-1  1641  -1
+------------
+William C. B. Keating 
+Mills 3  M308
+-1  2276  -1
+------------
+William B. Raskin 
+Brooks  301
+-1  1938  -1
+------------
+Weng-Him Cheung 
+West  407
+-1  1572  -1
+------------
+Willis C. Kuelthau 
+Morgan  313
+-1  1764  -1
+------------
+William C. Speer 
+Gladden  C21
+-1  1516  -1
+------------
+William C. Stewart 
+11 Meadow  Street
+-1  1521  -1
+------------
+William D. Feeney 
+Armstrong 2  A205
+-1  2167  -1
+------------
+William D. Gomez 
+Mills 4  M410
+-1  2202  -1
+------------
+William F. Simmons 
+Prospect  425
+-1  1505  -1
+------------
+Waheedullah Farooqi Zargar
+1065 Main  Street
+-1  Center  -1
+------------
+Willis G. Koomson 
+Gladden  B21
+-1  2849  4133463975
+------------
+Wen Han 
+Chadbourne  109
+-1  1234  -1
+------------
+Wade I. Davis 
+Doughty  312
+-1  1106  -1
+------------
+Weiting Ji 
+Sage E  308
+-1  2266  -1
+------------
+William J. Edwards-Mizel 
+UNKNOWN
+-1  2723  -1
+------------
+William J. Glidden 
+Prospect  121
+-1  2772  -1
+------------
+Willem J. Humes 
+Williams C  002
+-1  2247  -1
+------------
+Won-Jun Kuk 
+Lehman  312B
+-1  2853  -1
+------------
+Wei Li 
+Currier  C14
+-1  2328  -1
+------------
+William L. Hamrick 
+23 Thomas  Street
+-1  1233  -1
+------------
+William L. Slack 
+UNKNOWN
+-1  -1  4049649892
+------------
+Winnie Ma 
+Sage D  404
+-1  2340  -1
+------------
+Eleanor Gordon
+UNKNOWN
+-1  -1  -1
+------------
+William M. Hayes 
+Prospect  231
+-1  2801  -1
+------------
+William M. Hardesty-Dyck 
+Mills 3  M324
+-1  2227  -1
+------------
+Wade M. Phenicie 
+Lehman  101B
+-1  3023  -1
+------------
+William M. Wright III 
+62 Spring Street Apt.  #4
+-1  3165  -1
+------------
+Walker Olesen 
+UNKNOWN
+-1  -1  -1
+------------
+William Craig 
+Morgan  125
+-1  2659  2073295442
+------------
+William R. Lindsey
+UNKNOWN
+-1  -1  -1
+------------
+William R. Zito 
+Sage E  104
+-1  3018  -1
+------------
+William Su 
+UNKNOWN
+-1  -1  -1
+------------
+Wei Sun 
+West  302
+4135976145  1528  -1
+------------
+William T. Dayton 
+Spencer  7
+-1  2696  -1
+------------
+William T. O'Connor 
+UNKNOWN
+-1  -1  -1
+------------
+Will J. Wicherski 
+Fayerweather  205
+-1  2062  -1
+------------
+Xixi Edelsbrunner 
+Dennett 3  D303
+-1  2149  -1
+------------
+Xiaoxun Jiang 
+Mills 3  M301
+-1  2267  -1
+------------
+Xavier S. O'Connor 
+Thompson  122
+-1  3000  -1
+------------
+Xiaoxiao Tu 
+Thompson  306
+-1  3125  -1
+------------
+Yedidya A. Erque 
+UNKNOWN
+-1  -1  -1
+------------
+Yoonsang Bae 
+Morgan  411
+-1  1159  -1
+------------
+Yeljas Bakhyt 
+Bryant  C14
+-1  1186  -1
+------------
+Yifan Cao 
+Woodbridge  113
+-1  1075  -1
+------------
+Yazmine C. Nichols 
+Fayerweather  203
+-1  1887  -1
+------------
+Yasmine Goelzer 
+Prospect  322
+-1  1195  -1
+------------
+Danny Guo 
+Lehman  201B
+-1  1221  -1
+------------
+Yiqin Jiang 
+Dodd  206A
+-1  1273  -1
+------------
+Yang Lu 
+UNKNOWN
+-1  2896  -1
+------------
+Young Sun Lee 
+Williams A  302
+-1  2312  -1
+------------
+Yoelkys Morales 
+Morgan  417
+-1  2967  -1
+------------
+Yogeeta M. Chatoredussy 
+West  310
+-1  1568  -1
+------------
+Yaroslav Nemenov 
+Williams D  305
+-1  2396  -1
+------------
+You Jin Shin 
+Morgan  218
+-1  1497  -1
+------------
+Yuvraj Singh 
+Mills 4  M428
+-1  2521  -1
+------------
+Zachary D. Bradley 
+UNKNOWN
+-1  -1  -1
+------------
+Zachary B. Shapiro 
+Prospect  405
+-1  1487  -1
+------------
+Zara Currimjee 
+Fitch  301A
+-1  1101  -1
+------------
+Zorelly C. Cepeda-Derieux 
+UNKNOWN
+-1  2661  7876489260
+------------
+Zoe Dillon-Davidson 
+East  313
+-1  2206  -1
+------------
+Zoe D. Trutner 
+Williams E  403
+-1  2563  -1
+------------
+Zoe E. Grueskin 
+Thompson  125
+-1  2787  -1
+------------
+Zatio N. Kone 
+Pratt 2  P231
+-1  2292  -1
+------------
+Zane K. Martin 
+Perry  10
+-1  1347  -1
+------------
+Zachary L. Baca 
+Perry  13A
+-1  1019  -1
+------------
+Zachary L. Stewart 
+Tyler Annex  208
+-1  2004  -1
+------------
+Zachary M. McKenzie 
+West  201
+-1  2942  -1
+------------
+Zaw-htut Naing 
+Bryant  C13
+-1  1872  -1
+------------
+Zachary N. Ferguson 
+Fitch  202A
+-1  1154  -1
+------------
+Zoe O. Kline 
+Chadbourne  113
+-1  1293  -1
+------------
+Zachary R. Grady 
+East  310
+-1  1686  -1
+------------
+Zachary R. Weiss 
+Spring Street Apt.  #2
+-1  2635  -1
+------------
+Zachary T. Tarlow 
+Dodd  215
+-1  1533  -1
+------------
+Ziang Zhang 
+UNKNOWN
+-1  3199  4138845020
+------------
+Zhaoda Zhou 
+Gladden  C53
+-1  2421  2033029678
+------------

@@ -1,0 +1,75 @@
+
+import structure5.*; 
+import java.util.Random; 
+
+public class FrequencyList{
+
+    private Vector<Association<String,Integer>> frequencyList; 
+    private int total; 
+
+    public FrequencyList(){
+
+	frequencyList = new Vector<Association<String,Integer>>(); 
+
+	
+    }
+
+    public void add(String character){
+
+	Assert.pre(character.length()==1,"Must input character"); 
+
+	character = character.toLowerCase(); 
+
+	//check if frequencyList contains character 
+	//if we update an existing character frequency, signal to create new frequency
+	for(int i = 0; i<frequencyList.size(); i++){
+	    if(frequencyList.get(i).getKey().equals(character)){
+		frequencyList.get(i).setValue( frequencyList.get(i).getValue()+1 );
+		//comment out for vector method: 
+		total ++; 
+		return; 
+	    }
+	}
+	frequencyList.add( new Association<String,Integer>(character,1)); 
+	total ++; 
+    }
+
+    public String pickNext(){
+
+	/*
+	Random random = new Random(); 
+	int result = random.nextInt(total); 
+	int i = 0; 
+	while(result>0){
+	    i++; 
+	    result -= frequencyList.get(i).getValue(); 
+	    
+	}
+
+	return frequencyList.get(i).getKey(); 
+	
+	*/
+	
+	Vector<String> totalList = new Vector<String>(); 
+	for(int i = 0; i<total; i++){
+	    for(int j = 0; j<frequencyList.get(i).getValue(); j++){
+		totalList.add(frequencyList.get(i).getKey()); 
+	    }
+	}
+	Random random = new Random(); 
+	System.out.println(totalList.size()); 
+	return totalList.get( random.nextInt(totalList.size()) ); 
+	
+	
+    }
+
+    public String toString(){
+	String result = ""; 
+	for(int i = 0; i<frequencyList.size(); i++){
+	    result = result + frequencyList.get(i).getKey() + "=" + Integer.toString(frequencyList.get(i).getValue()) + "\n"; 
+	}
+	return result; 
+	
+    }
+
+}

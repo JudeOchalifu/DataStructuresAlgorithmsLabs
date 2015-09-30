@@ -1,0 +1,200 @@
+
+import structure5.*;
+import java.util.*;
+
+/**
+ * This class represents one creature on the board.
+ * Each creature must remember its species, position, direction,
+ * and the world in which it is living.
+ * <p>
+ * In addition, the Creature must remember the next instruction
+ * out of its program to execute.
+ * <p>
+ * The creature is also repsonsible for making itself appear in
+ * the WorldMap.  In fact, you should only update the WorldMap from
+ * inside the Creature class.  
+ */
+
+public class Creature {
+
+    /** The North compass point. */
+    static public final int NORTH = 0;     
+
+    /** The East compass point. */
+    static public final int EAST = 1;      
+
+    /** The South compass point. */
+    static public final int SOUTH = 2;     
+
+    /** The West compass point. */
+    static public final int WEST = 3; 
+
+    /**
+     * Create a creature of the given species, with the indicated
+     * position and direction.  Note that we also pass in the 
+     * world-- remember this world, so that you can check what
+     * is in front of the creature and to update the board
+     * when the creature moves.
+     */
+    private Species species; 
+    private World<Creature> world; 
+    private Position pos; 
+    private int dir; 
+    private int step;
+    public Creature(Species species,
+		    World<Creature> world,
+		    Position pos,
+		    int dir) {
+	this.species = species;
+	this.world = world;
+	this.pos = pos; 
+	this.dir = dir;
+	step = 1;
+
+	WorldMap.displaySquare( pos, species.getName().charAt(0), dir, species.getColor() ); 
+	world.set(pos,this); 
+
+    }
+
+    /**
+     * Return the species of the creature.
+     */
+    public Species species() {
+	return this.species; 
+    }
+    public void setSpecies(Species species){
+	this.species = species; 
+    }
+
+    /**
+     * Return the current direction of the creature.
+     */
+    public int direction() {
+	return this.dir; 
+    }
+
+    /**
+     * Return the position of the creature.
+     */
+    public Position position() {
+	return this.pos; 
+    }
+
+    /**
+     * Execute steps from the Creature's program until 
+     * a hop, left, right, or infect instruction is executed.
+     */
+    public void takeOneTurn() {
+	//note instructions start at 1 
+	Instruction programStep = this.species.programStep( step ); 
+	this.doInstruction( programStep.getOpcode(), programStep.getAddress() ); 
+
+	if( programStep.getOpcode() > 4){
+	    step ++; 
+	    this.takeOneTurn(); 
+	}
+	else{
+	step = (step+1)%species.programSize(); 
+	if(step==0) step++; 
+	}
+	
+    }
+
+    //return true if another instruction can run, returns false to end turn 
+    protected void doInstruction(int opcode, int address){
+	    if(opcode==1) this.hop(); 
+	    else if(opcode==2) this.left(); 
+	    else if(opcode==3) this.right(); 
+	    else if(opcode==4) this.infect(address);
+	    else if(opcode==5) this.ifEmpty(address);
+	    else if(opcode==6) this.ifWall(address);
+	    else if(opcode==7) this.ifSame(address);
+	    else if(opcode==8) this.ifEnemy(address);
+	    else if(opcode==9) this.ifRandom(address);
+	    else if(opcode==10)this.go(address); 
+	    else Assert.condition(false,"wrong input"); 
+	
+
+    }
+    protected void hop(){
+
+	Position moveTo = this.position().getAdjacent(this.direction()); 
+	if(world.inRange(moveTo) && world.get(moveTo)==null){
+	    WorldMap.displaySquare( pos, ' ', 0, ""); 
+	    WorldMap.displaySquare( moveTo, species.getName().charAt(0), this.direction(), species.getColor() ); 
+	    this.world.set(pos,null); 
+	    this.world.set(moveTo,this); 
+	    this.pos = moveTo; 
+	}
+
+    }
+    protected void left(){
+	this.dir = this.leftFrom(this.direction()); 
+	WorldMap.displaySquare( pos, species.getName().charAt(0), this.direction(), species.getColor() ); 
+    }
+    protected void right(){
+	this.dir = this.rightFrom(this.direction()); 
+	WorldMap.displaySquare( pos, species.getName().charAt(0), this.direction(), species.getColor() ); 
+    }
+    protected void infect(int address){
+	if(address<1) address = 1; //make sure address is not -1 
+	Creature victim = world.get( this.position().getAdjacent(this.direction()) );  
+	if(victim!=null && victim.species()!=this.species() ){
+	    victim.setSpecies(this.species()); 
+	    WorldMap.displaySquare( victim.position(), this.species().getName().charAt(0), victim.direction(), this.species().getColor());
+	}
+    }
+    protected void ifEmpty(int address){
+	if(world.get( this.position().getAdjacent(this.direction()))==null) this.go(address); 
+    }
+    protected void ifWall(int address){
+	if(!world.inRange(this.position().getAdjacent(this.direction())  )) this.go(address); 
+    }
+    protected void ifSame(int address){
+	Creature other = world.get( this.position().getAdjacent(this.direction()) );  
+	if( (other!=null && other.species()!=this.species() ) ) this.go(address); 
+    }
+    protected void ifEnemy(int address){
+	Creature victim = world.get( this.position().getAdjacent(this.direction()) );  
+	if( (victim!=null && victim.species()!=this.species() ) ) this.go(address); 
+    }
+    protected void ifRandom(int address){
+	Random random = new Random(); 
+	if(random.nextInt(2)==1) this.go(address); 
+	else this.step++; //double check for accuracy 
+    }
+    protected void go(int address){
+	System.out.println(address); 
+	this.step = address-1;
+
+    }
+    /**
+     * Return the compass direction the is 90 degrees left of
+     * the one passed in.
+     */
+    public static int leftFrom(int direction) {
+	Assert.pre(0 <= direction && direction < 4, "Bad direction");
+	return (4 + direction - 1) % 4;
+    }
+
+    /**
+     * Return the compass direction the is 90 degrees right of
+     * the one passed in.
+     */
+    public static int rightFrom(int direction) {
+	Assert.pre(0 <= direction && direction < 4, "Bad direction");
+	return (direction + 1) % 4;
+    }
+
+    /**
+     */
+    public static void main(String st[]) {
+	World<Creature> demoWorld = new World<Creature>(10,10); 
+	Species hop = new Species("Hop.txt"); 
+	Creature bunny1 = new Creature(hop,demoWorld,new Position(4,4),0); 
+	bunny1.left(); 
+
+    }
+
+
+}

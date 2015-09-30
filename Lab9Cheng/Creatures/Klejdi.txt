@@ -1,0 +1,12 @@
+Klejdi
+red
+ifenemy 8
+ifsame 6
+ifwall 6
+hop
+go 1
+left 
+go 1
+infect 
+go 1
+.

@@ -1,0 +1,103 @@
+
+import java.util.Scanner;
+
+
+public class Main{
+
+    private FileReader test = new FileReader(); 
+    private MyVector<Student> students;
+
+    public Main(){
+	students = test.getStudents(); 
+
+	insertionSort(students,students.size()); 
+	//recSelectionSort(students,students.size()-1,new NameComparator()); 
+        //students.sort(comparator); 
+
+	for(int i = 0; i<students.size(); i++){
+	    System.out.println( students.get(i).getName() ); 
+	}
+	//System.out.println(students.get(1).getName()); 
+	//System.out.println(students.get(2).getName()); 
+	//System.out.println(comparator.compare(students.get(1),students.get(2)));
+    }
+
+
+    public static <T> void insertionSort( MyVector<T> data, Comparator<T> c, int n ){
+	int numSorted = 1; 
+	int index; 
+	while(numSorted<n){
+	    T temp = data.get(numSorted); 
+	    for(index = numSorted; index>0; index--){
+		if( c.compare(temp,data.get(index-1)<0)){
+		    data.set(index,data.get(index-1)); 
+		}
+		else{
+		    break; 
+		}	
+	    }
+	    data.set(index,temp); 
+	    numSorted ++; 
+	}
+    }
+
+    public static void main(String args[]){
+	Main program = new Main(); 
+	
+	//test = new MyVector<String>(); 
+	//test.add("hi"); 
+	//System.out.println(test.get(0)); 
+    }
+
+}
+
+class FileReader{
+
+    private MyVector<Student> students = new MyVector<Student>(); 
+    private Scanner in = new Scanner(System.in); 
+    private StringBuffer textBuffer = new StringBuffer(); 
+
+    public FileReader(){
+
+	//Read in the text file and extract the information for 
+	//the student class 
+	while(in.hasNextLine()){
+
+	    //Read in info for the student object 
+	    String name = in.nextLine();
+	    String address = in.nextLine();
+	    long campusPhone = in.nextLong();
+	    long boxNumber = in.nextLong();
+	    long phoneNumber = in.nextLong();
+	    
+	    //Catch exception issues 
+	    if(campusPhone < 1000000000){
+		campusPhone = -1; 
+	    }
+	    if(boxNumber > 9999 || boxNumber < 1000){
+		boxNumber = -1; 
+	    }
+	    if(phoneNumber < 1000000000){
+		phoneNumber = -1; 
+	    }
+
+	    Student student = new Student(name, address, campusPhone, boxNumber,
+					  phoneNumber); 
+	    students.add(student); 
+
+	    in.nextLine();
+	    in.nextLine();
+	}
+	//test that desych has not occured for reading lines 
+	//System.out.println( students.get(1500).getName() );
+	//System.out.println( students.get(1500).getHomePhone() ); 
+
+
+    }
+    
+    public MyVector<Student> getStudents(){
+	return students; 
+    }
+
+}    
+

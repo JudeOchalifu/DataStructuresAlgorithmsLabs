@@ -1,0 +1,39 @@
+import java.util.Scanner; 
+
+public class WordGen{
+
+    public static void main(String args[]){
+	WordGen test = new WordGen(Integer.parseInt(args[0])); 
+    }
+
+    public WordGen(int k){
+	
+	Scanner in = new Scanner(System.in); 
+
+	String input= ""; 
+	while(in.hasNextLine()){
+	    input = input + in.nextLine();
+	}
+
+	Table table = new Table(); 
+
+	int index = 0; 
+	while(index != input.length()-1-k){
+	    table.add( input.substring(index,index+1+k) ); 
+	    index ++; 
+	}
+
+	//print out frequency list matches 
+	//System.out.println(table.toString()); 
+
+	String output = "Of this story it goes"; 
+	int start = output.length(); 
+	for(int i = 0; i<500; i++){
+	    //System.out.println( output.substring( start-k, start) ); 
+	    output = output + table.pickNext( output.substring( start-k, start) ); 
+	    start ++;		       
+	}
+	//print out randomly generated 
+	System.out.println(output); 
+    }
+}

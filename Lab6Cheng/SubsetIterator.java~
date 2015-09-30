@@ -1,0 +1,29 @@
+import structure5.*;
+import java.util.Iterator; 
+
+public class SubsetIterator<E> extends AbstractIterator<Vector<E>>{
+    private long currentSubset; 
+    private Vector<E> vector;
+    public SubsetIterator( Vector<E> vector ){
+	this.vector = vector; 
+	this.reset(); 
+	this.get(); 
+    }
+    public void reset(){
+	currentSubset = 0; 
+    }
+    public boolean hasNext(){
+	return currentSubset<=Math.power(2,vector.size())-1
+    }
+    public Vector<E> get(){
+	Vector<E> subset = new Vector<E>(); 
+	currentSubset = 5 
+	for(int i = 0; i<64, i++){
+	    if( currentSubset & (1L << i) > 0 ){
+		subset.add(vector.get(i)); 
+		System.out.println(i); 
+	    }
+	}
+    }
+
+}

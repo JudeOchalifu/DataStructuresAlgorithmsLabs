@@ -1,0 +1,69 @@
+
+import structure5.*; 
+
+
+public class WebCrawler{
+    
+    private QueueVector<Association<HTML,Integer>> queue = new QueueVector<Association<HTML,Integer>>(); 
+    private HTML page; 
+
+    public WebCrawler(String url){
+	page = new HTML(url,20*1024); 
+	//queue.add(page); 
+	
+    }
+
+    public int search(String targeturl){
+	//int count = 0; 
+	HTML target = new HTML(targeturl,20*1024); 
+	int found = this.readLinks(page,target,0); 
+	while(found==-1){
+	    //System.out.println(queue); 
+	    Association<HTML,Integer> removed = queue.remove(); 
+	    HTML test = removed.getKey(); 
+	    int index = removed.getValue(); 
+	    System.out.println("index: " + index); 
+	    //System.out.println(queue); 
+	    //System.out.println(queue.remove()); 
+	    index++;
+	    found = this.readLinks(test,target,index); 
+	    //count ++;
+	}
+	return found;
+    }
+    // .equals
+
+    //updates the queue with links of the HTML object 
+    //read the links of object
+    public int readLinks(HTML object,HTML target, int count){
+	//System.out.println("hello"); 
+	while(object.hasNext()){
+	    HTML newPage = new HTML(object.nextURL(),20*1024);
+	    //System.out.println("l:" + newPage); 
+	    if( queue.contains(new Association<HTML,Integer>(newPage))){ 
+		if( newPage.equals(target) ){		    
+		    return count; 
+		}
+		//otherwise, don't add redundant links 
+	    }
+	    else{
+		//System.out.println("adding: " + (count+1)); 
+		//Association<HTML,Integer> test = new Association<HTML,Integer>(newPage,count+1); 
+		//System.out.println("value: "+ test.getValue()); 
+		Integer s = count; 
+		queue.add(new Association<HTML,Integer>(newPage,s)); 
+	    }
+	}
+	return -1; 
+    }
+
+    //is wikipedia not an html webpage?  
+    public static void main(String args[]){
+	WebCrawler crawler = new WebCrawler("http://www.yahoo.com"); 
+	System.out.println( crawler.search("http://autos.yahoo.com/used_cars.html") ); 
+	//System.out.println( crawler.search("https://www304.americanexpress.com/personal-card-application/delta-gold-credit-card/40519-10-0/") ); 
+    }
+    
+
+}
+

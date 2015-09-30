@@ -1,0 +1,185 @@
+
+import structure5.*;
+import java.io.*;
+import java.util.Scanner; 
+//import java.util.*;
+
+/**
+ * The individual creatures in the world are all representatives of
+ * some species class and share certain common characteristics, such
+ * as the species name and the program they execute.  Rather than copy
+ * this information into each creature, this data can be recorded once
+ * as part of the description for a species and then each creature can
+ * simply include the appropriate species pointer as part of its
+ * internal data structure.
+ * <p>
+ * 
+ * To encapsulate all of the operations operating on a species within
+ * this abstraction, this provides a constructor that will read a file
+ * containing the name of the creature and its program, as described
+ * in the earlier part of this assignment.  To make the folder
+ * structure more manageable, the species files for each creature are
+ * stored in a subfolder named Creatures.  This, creating the Species
+ * for the file Hop.txt will causes the program to read in
+ * "Creatures/Hop.txt".
+ * 
+ * <p>
+ *
+ * Note: The instruction addresses start at two, not zero.
+ *
+ * Author: Alex Wheelock
+ * Version: 5/5/10
+ */
+public class Species implements Comparable<Species> {
+
+    private String name;
+    private String color;
+    private Vector<Instruction> program;
+
+    /**
+     * Create a species for the given file.
+     * @pre fileName exists in the Creature subdirectory.
+     */
+    public Species(Vector<Instruction> program, String name){
+	this.program = program; 
+	this.color = "red"; 
+	this.name = name; 
+    }
+    public Species(String fileName)  {
+	Scanner in = 
+	    new Scanner(new FileStream("Creatures" + 
+				       java.io.File.separator + 
+				       fileName));
+
+	name = in.nextLine();
+	color = in.nextLine();
+
+	program = new Vector<Instruction>();
+
+	while (in.hasNextLine()) {
+	    String operation = in.next();
+	    int address = 1;
+	    if(in.hasNextInt()) address = in.nextInt(); 
+
+	    if(operation.indexOf('.')!=-1 || operation.equals(".")){
+		break; 
+	    }
+
+	    Instruction instruction = this.instructionMaker(operation,address);
+	    if(instruction!=null){
+		program.add(instruction); 
+		in.nextLine();
+	    }
+	    else{
+		break; 
+	    }
+
+	}   
+    }
+
+    //method that receives a string and int and converts it to an instruction 
+    public static Instruction instructionMaker(String operation, int address){
+	int opcode = 0; 
+	    if (operation.contains(".")) {
+		System.out.println("dtedsfasjfasdkfjlads"); 
+		return null; 
+	    } else if (operation.equals("hop")) {
+		opcode = Instruction.HOP;
+	    } else if (operation.equals("left")) {
+		opcode = Instruction.LEFT;
+	    } else if (operation.equals("right")) {
+		opcode = Instruction.RIGHT;
+	    } else if (operation.equals("infect")) {
+		opcode = Instruction.INFECT;
+	    } else if (operation.equals("ifempty")) {
+		opcode = Instruction.IFEMPTY;
+	    } else if (operation.equals("ifwall")) {
+		opcode = Instruction.IFWALL;
+	    } else if (operation.equals("ifsame")) {
+		opcode = Instruction.IFSAME;
+	    } else if (operation.equals("ifenemy")) {
+		opcode = Instruction.IFENEMY;
+	    } else if (operation.equals("ifrandom")) {
+		opcode = Instruction.IFRANDOM;
+	    } else if (operation.equals("go")) {
+		opcode = Instruction.GO;
+	    }
+
+	    return new Instruction(opcode,address); 
+    }
+    public int compareTo(Species other) {
+	return this.name.compareTo(other.name);
+    }
+
+    /**
+     * Return whether two species are the same.
+     */
+    public boolean equals(Species other) {
+	return this.name.equals(other.name) && this.color.equals(other.color)
+	    && this.programToString().equals(other.programToString());
+    }
+
+    /**
+     * Return the name of the species.
+     */
+    public String getName() {
+	return name;
+    }
+
+    /**
+     * Return the color of the species.
+     */
+    public String getColor() {
+	return color;
+    }
+
+    /**
+     * Return the number of instructions in the program.
+     */
+    public int programSize() {
+	return program.size();
+    }
+
+    public Vector<Instruction> getInstructions(){
+	return this.program; 
+    }
+
+    /**
+     * Return an instruction from the program.
+     * @pre  1 <= i <= programSize().
+     * @post returns instruction i of the program.
+     */
+    public Instruction programStep(int i) {
+	return program.get(i - 1);
+    }
+
+    /**
+     * Return a String representation of the program.
+     */
+    public String programToString() {
+	String s = "";
+	for (int i = 1; i <= programSize(); i++) {
+	    s += (i) + ": " + programStep(i) + "\n";
+	}
+	return s;
+    }
+
+    public String toString() {
+	return name + " program: "+ program;
+    }
+    
+    public static void main(String s[]) {
+
+	Species s1 = new Species("Flytrap.txt");
+	System.out.println(s1.getName());
+	System.out.println(s1.getColor());
+	System.out.print(s1.programToString());
+	Species s2 = new Species("Flytrap.txt");
+	Species s3 = new Species("Rover.txt");
+	System.out.println(s1.equals(s2));
+	System.out.println(s1.equals(s3));
+
+    }
+
+}
+   

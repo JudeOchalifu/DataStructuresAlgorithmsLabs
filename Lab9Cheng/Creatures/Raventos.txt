@@ -1,0 +1,26 @@
+Raventos
+red
+ifrandom 13
+ifwall 7
+ifsame 9
+ifenemy 11
+hop
+go 1
+right
+go 1
+right
+go 1
+infect
+go 1
+ifwall 18
+ifsame 20
+ifenemy 22
+hop
+go 1
+left
+go 1
+left
+go 1
+infect
+go 1
+.

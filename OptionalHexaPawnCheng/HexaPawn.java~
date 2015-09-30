@@ -1,0 +1,26 @@
+public class HexaPawn{
+
+    public static void main(String args[]){
+	HexBoard board = new HexBoard(args[0],args[1]); 
+	Player Player1 = this.getPlayer(args[2],HexBoard.WHITE);
+	Player Player2 = this.getPlayer(args[3],HexBoard.BLACK); 
+
+	Player1.play(new GameTreeNode(board),HexBoard.WHITE); 
+    }
+
+    //Creates a player based on input 
+    static Player getPlayer(String player,char side){
+	if(player.equals("human")){
+	    return new HumanPlayer(side); 
+	}
+	else if(player.equals("random")){
+	    return new RandomPlayer(side); 
+	}
+	else{
+	    return new CompPlayer(side); 
+	}
+    }
+	
+
+	
+}

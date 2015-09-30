@@ -1,0 +1,29 @@
+
+README for Random Sentence Generator
+
+To run the program, use a command like the following:
+
+      java RandomSentenceGenerator < Poem.g
+
+
+This directory contains:
+
+1. Definition.java: keeps info about one non-terminal
+
+2. DefinitionTable.java: maps strings to definitions
+
+3. RandomSentenceGenerator.java: reads in grammar from standard input
+     and prints out random sentences.
+
+4. Sample Grammar Files:
+
+     Poem.g
+     Extension-request.g
+     Haiku.g  
+     College-rejection-letter.g  
+     StarTrek-episode.g
+
+  These were written by a number of people, including Karl Brown,
+  Lucas Ryan, Garret Kaminga, and other unsuspecting individuals.  Feel
+  free to write your own grammars as well...
+

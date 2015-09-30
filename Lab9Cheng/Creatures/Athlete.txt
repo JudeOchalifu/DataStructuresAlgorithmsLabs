@@ -1,0 +1,19 @@
+Athlete
+red
+ifenemy 13
+ifwall 5
+ifempty 8
+ifsame 10
+left
+go 1
+ifempty 6
+hop
+go 1
+right
+right
+go 1
+infect
+go 1
+.
+
+By Danny Seidita

@@ -1,0 +1,85 @@
+
+import structure5.*;
+import java.util.Comparator;
+
+public class MyVector<E> extends Vector<E> {
+    //static MyVector<String> test; 
+
+    public MyVector(){
+	super(); 
+    }
+
+    //pre: c is a valid comparator 
+    //post: sort this vector in order determined by c 
+    public void sort(Comparator<E> c){
+	
+	boolean changed = true; 
+	//assume compare method written
+	for(int i = 0; i<this.size()-1; i++){
+
+	    if( c.compare( this.get(i), this.get(i+1) ) > 0 ){
+		//WHY IS THIS RETURNING TYPE OBJECT?
+		//System.out.println((Student)this.get(i).getName());
+		//System.out.println((Student)this.get(i+1).getName()); 
+		swap( this.get(i), this.get(i+1), i); 	
+		changed = true; 
+	    }
+
+	    else{
+	    changed = false; 
+	    }
+
+	}
+
+	if(changed){
+	    sort(c); 
+	}
+	    
+    }
+
+    protected void swap(E a, E b, int i){
+	E temp = this.get(i+1); 
+	this.set(i+1, this.get(i) ); 
+	this.set(i, temp ); 
+    }
+}
+
+//COMPARATORS 
+
+//Compare which name comes first alphabetically 
+class NameComparator implements Comparator<Student>{
+    // <0 a alphabetically before b 
+    // >0 a alphabetically after b 
+    public int compare(Student studentA, Student studentB){
+	String nameA = studentA.getName();
+	String nameB = studentB.getName(); 
+	int index = 0; 
+	int result = 0; 
+	int min = Math.min(nameA.length(),nameB.length()); 
+	while(index<min && result==0){
+	    result = (int)nameA.charAt(index)-(int)nameB.charAt(index); 
+	    index++; 
+	}
+	return result; 
+    }
+}
+
+class VowelComparator implements Comparator<String>{
+    public int compare(String nameA, String nameB){
+	return 0; 
+    }
+}
+
+class AddressComparator implements Comparator<String>{
+    public int compare(String nameA, String nameB){
+	return 0; 
+    }
+}
+
+class AreaCodeComparator implements Comparator<Long>{
+    public int compare(Long codeA, Long codeB){
+	return 0; 
+    }
+}
+
+

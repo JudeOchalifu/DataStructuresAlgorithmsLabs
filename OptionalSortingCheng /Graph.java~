@@ -1,0 +1,83 @@
+
+import structure5.*; 
+import java.util.Random; 
+import java.io.PrintWriter; 
+import java.io.FileNotFoundException;
+
+public class Graph {
+
+    public void Graph(){
+
+    }
+
+    public static void main(String args[]){
+	Main test = new Main(); 
+	test.plot(100,20); 
+    }
+    public void plot(int xRange, int yRange){
+	//xRange is number of vectors to sort
+	//yRange is range of random values to populate the vector
+	try{
+	PrintWriter writer = new PrintWriter("data.txt"); 
+	
+	for(int i = 0; i<xRange; i++){
+	   
+	    Vector<Integer> toSort = this.generateIntVector(i,yRange);  
+
+	    //test time taken here 
+	    long startTime = System.currentTimeMillis(); 
+	    this.selectionSort(toSort,toSort.size()); 
+	    long endTime = System.currentTimeMillis(); 
+	    long duration = endTime - startTime; 
+
+	    //write to file here 
+	    writer.println(i + " " + duration); 
+
+	}
+
+	writer.close(); 
+	
+	}catch(FileNotFoundException fnfe){
+	    System.out.println(fnfe.getMessage()); 
+	}
+
+    }
+    //ex:    # #  // gnuplot> plot "name.dat" using 1:2 title 'Speed'
+
+    public Vector<Integer> generateIntVector(int size, int range){
+	Random random = new Random(); 
+	Vector<Integer> theVector = new Vector<Integer>(size); 
+	for(int i = 0; i<size; i++){
+	    theVector.add(random.nextInt(range+1)); 
+	}
+	return theVector; 
+    }
+
+    public static void selectionSort(Vector<Integer> vector, int n)
+    // pre: 0 <= n <= data.length
+    // post: values in data[0..n-1] are in ascending order
+    {
+        int numUnsorted = n;
+        int index;      // general index
+        int max;        // index of largest value
+        while (numUnsorted > 0){
+            // determine maximum value in array
+            max = 0;
+            for (index = 1; index < numUnsorted; index++)
+            {
+                if (vector.get(max) < vector.get(max)) max = index;
+            }
+            swap(vector,max,numUnsorted-1);
+            numUnsorted--;
+	}
+    }
+    public static void swap(Vector<Integer> vector, int i, int j){
+    // pre: 0 <= i,j < data.length
+    // post: data[i] and data[j] are exchanged
+	int temp;
+	temp = vector.get(i);
+        vector.set(i,vector.get(j)); 
+	vector.set(j,temp); 
+    }
+
+}

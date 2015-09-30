@@ -1,0 +1,20 @@
+Kyle2
+green
+ifenemy 14
+ifwall 6
+ifsame 13
+hop
+go 1
+ifrandom 9
+left
+go 1
+right
+go 1
+ifenemy 14
+right
+go 11
+infect 11
+go 11
+.
+
+

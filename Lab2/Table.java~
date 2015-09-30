@@ -1,0 +1,68 @@
+
+import structure5.*; 
+import java.util.Random; 
+
+public class Table{
+    
+    private Vector<Association<String,FrequencyList>> table; 
+    
+    public Table(){
+	table = new Vector<Association<String,FrequencyList>>(); 
+
+    }
+
+    public void add(String character){
+
+	character = character.toLowerCase(); 
+	String key = character.substring(0,character.length()-1); 
+	String next = character.substring(character.length()-1); 
+
+	for(int i = 0; i<table.size(); i++){
+	    if(table.get(i).getKey().equals(key)){
+		table.get(i).getValue().add(next); 
+		return; 
+	    }
+	}
+	FrequencyList frequencyList = new FrequencyList();
+	frequencyList.add(next); 
+	table.add( new Association(key,frequencyList) );
+    }
+    
+    //from a string, find its frequencylist and generate its most probably next character
+    public String pickNext(String str){
+	for(int i = 0; i<table.size(); i++){
+	    if( table.get(i).getKey().equals(str) ){
+		//System.out.println("probability selecting"); 
+		return table.get(i).getValue().pickNext(); 
+
+	    }
+	}
+	//if the string is not found just call "pickNext" of a random character combination 
+	//System.out.println("randomly selecting");
+	Random random = new Random();
+	//return table.get( 0 ).getValue().pickNext(); 
+	//Before I wrote the first line of code, the program would break, I commented it out
+	//uncommented the bottom line of code and the program worked, but now it keeps on 
+	//spitting out dfd even though I uncommented return "dfd" in my pickNext method
+
+	//11:30 
+	//I did not make ANY changes to the code.  It's working now... 
+	//I just commented out randomly selecting and probabilty selecting and the program spits these out still...
+	return table.get( random.nextInt(table.size()) ).getValue().pickNext(); 
+
+
+	//11:55 I make no changes, I save the file and then it gives
+	//me null pointer exceptions again 11:56 I comment out
+	//table.toString and the program still calls table to string
+	//11:7 I compiled the program without return "dfd" but the
+	//program still returns dfd
+    }
+
+    public String toString(){
+	String result = ""; 
+	for(int i = 0; i<table.size(); i++){
+	    result = result + table.get(i).getKey() + " 's Frequency List: " + "\n" + table.get(i).getValue().toString() + "\n"; 
+	}
+	return result; 
+    }
+}

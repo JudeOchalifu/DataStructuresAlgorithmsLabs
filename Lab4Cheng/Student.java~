@@ -1,0 +1,38 @@
+
+public class Student{
+
+    private String name;
+    private String address; 
+    private long campusPhone; 
+    private long boxNumber; 
+    private long homePhone; 
+
+    public Student(String name, String address, long campusPhone, long boxNumber, long homePhone){
+	this.name = name; 
+	this.address = name; 
+	this.campusPhone = campusPhone;
+	this.boxNumber = boxNumber; 
+	this.homePhone = homePhone; 
+    }
+
+    public String getName(){
+	return name; 
+    }
+    public String getAddress(){
+	return address; 
+    }
+    public long getCampusPhone(){
+	return campusPhone;
+    }
+    public long getBoxNumber(){
+	return boxNumber; 
+    }
+    public long getHomePhone(){
+	return homePhone; 
+    }
+
+    public String toString(){
+	return getName() + "\n" + getAddress() + "\n" + getCampusPhone() + "\n" + getBoxNumber() + "\n" + getHomePhone() + "\n"; 
+    }
+
+}

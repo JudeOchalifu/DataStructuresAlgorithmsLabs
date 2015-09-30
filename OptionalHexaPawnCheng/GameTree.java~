@@ -1,0 +1,111 @@
+
+import structure5.*;
+
+//a main class that manages GameTreeNodes 
+class GameTree {
+
+    public static int count = GameTreeNode.count; 
+    GameTreeNode root; 
+    //assume 'color' goes first 
+    public GameTree(HexBoard board, char color){
+	root = new GameTreeNode(board,color); 
+    }
+
+    public static void main(String args[]){
+	GameTree tree = new GameTree(new HexBoard(3,3),'o'); 
+	//System.out.println(GameTreeNode.count); 
+	//System.out.println(tree.getBestMove(true)); 
+	GameTreeNode root = new GameTreeNode(new HexBoard(3,3),'o');
+	for(int i = 0; i<root.children.size(); i++){
+	    System.out.println(root.children.get(i).getWinChance(true)); 
+	}
+	//	System.out.println(root.children.get(1).getBestMove(true)); 
+	//System.out.println(root.getBestMove(true)); 
+    
+    }
+    /*
+    public void increment(){
+	count ++; 
+    }
+    */
+
+}
+
+
+class GameTreeNode{
+    public static int count = 0; //static keyword only initializes once 
+    public Vector<GameTreeNode> children = new Vector<GameTreeNode>(); 
+    private GameTreeNode parent; 
+    private boolean blackWin; 
+    private boolean isLeaf; 
+    private char color; 
+
+    public GameTreeNode getMoveChild(HexMove theMove){
+	Vector<HexMove> possibleMoves = board.moves(color); 
+	int index = possibleMoves.indexOf(theMove); 
+	return children.get(index); 
+    }
+
+    //constructor for node game tree
+    public GameTreeNode(HexBoard board, char color){
+	this.color = color; 
+	//create children, if possible moves still exist 
+	if( !board.win( HexBoard.opponent(color)) ){
+	    Vector<HexMove> possibleMoves = board.moves(color); 
+	    for(int i = 0; i<possibleMoves.size(); i++){
+		//System.out.println(count); 
+		count ++; 
+		children.add( new GameTreeNode( new HexBoard(board,possibleMoves.get(i)),
+						HexBoard.opponent(color)));
+	    }
+	}
+	else if(HexBoard.opponent(color)=='o'){ //White win 
+	    blackWin = false; 
+	    isLeaf = true; 
+	} 
+	else{ //Black win 
+	    blackWin = true; 
+	    isLeaf = true; 
+	}
+	
+    }
+
+    protected void setParent(GameTreeNode parent){
+	this.parent = parent; 
+    }
+
+    public GameTreeNode getBestMove(boolean isBlack){
+	double bestWin = 0;
+	GameTreeNode bestChoice = null; 
+	for(int i = 0; i<children.size(); i++){
+	    double winChance = children.get(i).getWinChance(isBlack);
+	    if(winChance>bestWin){
+		bestWin = winChance; 
+		bestChoice = children.get(i); 
+	    }
+	}
+	return bestChoice; 
+    }
+
+    //returns win % of a given node for a given color 
+    public double getWinChance(boolean isBlack){
+	if(isLeaf){
+	    if(isBlack){ //if won increase wins 
+		if(blackWin) return 1;
+		else return 0; 
+	    }
+	    else{
+		if(blackWin) return 0; 
+		else return 1; 
+	    }
+	}
+	double wins = 0; 
+	for(int i = 0; i<children.size(); i++){
+	    wins += children.get(i).getWinChance(isBlack); 
+	}
+	//System.out.println(wins); 
+	//System.out.println( wins/(double)children.size()); 
+	return wins/(double)children.size(); 
+    }
+
+}

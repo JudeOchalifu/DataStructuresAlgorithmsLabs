@@ -1,0 +1,84 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww20340\viewh15780\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Problem 5.5  n^3\
+\
+Problem 5.23\
+\
+First, we prove that the base case holds, or that n = 0 is divisible by 16.  Inputing n = 0 yields 1 - 0 -1 or 0, 0 is divisible by 16. \
+\
+Next, assume that our function, 5^n - 4n - 1 is divisible by 16 for all numbers up to n.  Thus, 5^(n-1) - 4(n-1) - 1 is divisible by 16.  We need to generalize this statement to 5^n - 4n - 1.  First, multiply our function by 5, simplifying it to 5^n - 20(n-1) - 5.  This is not 5^n - 4n - 1, but if we subtract 16(n-1), which we know is always a multiple of 16, our expression simplifies to 5^n - 4n - 1.\
+\
+Problem 5.26\
+\
+First, we prove the base case.  n = 1 holds since 1(1+1) is equal to 2(1).\
+\
+Next, we assume that our function holds for all n up to n.  We know that the sum 1 to n is 2i.  Secondly, we know that the sum from 1 to n-1 is 2i + 2n.  Based on our assumption, this sum is equal to n-1(n) which simplifies to n^2 - n.  Likewise, the sum 1 to n is 2i simplifies to n^2 + n.  Based on our second assumption, n^2 - n + 2n will be the sum 1 to n is 2i.  Thus this expression simplifies to n^2 + n which is n(n+1) equals the sum from 1 to n is 2i.  \
+\
+6.3 \
+\
+best: n^2 \
+worst: n^2 \
+\
+Assuming the the conditional check is the expensive operation \
+\
+6.4\
+\
+best: n \
+worst: n^2\
+average: n^2\
+\
+2)\
+Java file class \
+\
+Main.java: the main class that  uses the other classes and a file reader for reading in the text file to a vector \
+\
+Student.java: a single class that stores info about students \
+\
+MyVector.java: contains the class for MyVector and all the Comparators that were used \
+\
+3) \
+First name in an address book: Aaron C. Lim \
+\
+Most vowels in full name: Amir Fathi Mohamed Abdel-Moneim Ali El-Arnaouti\
+\
+Most common address is: 71 Hoxsey  Street\
+Justin Franco Troiani \
+Alexander Voloshin \
+Benjamin L. Contini \
+Jeffrey D. Fieber \
+Patrick J. Morrissey \
+Evan R. Cohen \
+Ryan J. Scott \
+Ryan N. Purdy \
+\
+Ten most common area codes\
+203 98\
+413 92\
+718 88\
+914 87\
+212 67\
+781 65\
+978 59\
+516 47\
+201 43\
+610 41\
+\
+4)\
+\
+	1.  Somewhat unsure how sort is implemented, but the version of sort I used in my lab sorted from highest to lowest.  Thus if base.compare(a,b) \
+is - base.compare(a,b) we can assume that the numbers are ordered from lowest to highest.  \
+\
+	2. We can have multiple uses from one comparator object if we modify its constructor method to accept a parameter that tells it which type of comparison \
+to us.  Afterwards, if we want the comparator to sort different, we could call a modifying method to change its comparator type method called.  This could \
+all be done through booleans and the typical sort method would be something like this: \
+\
+	if(revCompare)\
+		call method revCompare\
+	else if(normalCompare)\
+		call method normCompare \
+\
+}

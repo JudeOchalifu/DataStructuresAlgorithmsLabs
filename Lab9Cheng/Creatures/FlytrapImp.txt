@@ -1,0 +1,21 @@
+Flytrap
+magenta
+ifenemy 6
+ifwall 11
+ifsame 11
+left
+go 1
+infect
+go 1
+ifenemy 13
+ifwall 4
+ifsame 4
+right
+go 8
+infect
+go 8
+.
+The flytrap sits in one place and spins.
+It infects anything which comes in front.
+Flytraps do well when they clump.
+

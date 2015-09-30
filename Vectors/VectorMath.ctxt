@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VectorMath()
+comment1.params=v1\ v2
+comment1.target=double\ dotProduct(VectorModel,\ VectorModel)
+comment10.params=v1\ v2
+comment10.target=double\ findIntersection(VectorModel,\ VectorModel)
+comment2.params=v1\ v2
+comment2.target=double\ dotProduct2(VectorModel,\ VectorModel)
+comment3.params=v1\ v2
+comment3.target=double\ perpProduct(VectorModel,\ VectorModel)
+comment4.params=v1\ v2
+comment4.target=double\ ratio(VectorModel,\ VectorModel)
+comment5.params=aX\ aY\ bX\ bY
+comment5.target=double\ distance(double,\ double,\ double,\ double)
+comment6.params=v1\ v2
+comment6.target=VectorModel\ collisionForce(VectorModel,\ VectorModel)
+comment7.params=v1\ v2
+comment7.target=VectorModel\ project(VectorModel,\ VectorModel)
+comment8.params=v1\ v2
+comment8.target=VectorModel\ bounce(VectorModel,\ VectorModel)
+comment9.params=v1\ v2
+comment9.target=VectorModel\ bounce2(VectorModel,\ VectorModel)
+numComments=11
